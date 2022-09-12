@@ -1,5 +1,5 @@
 # StorsthlmWIkidata
-Repository flr att hålla reda på saker StorSthlm vill göra se [community.dataportal.se/post/2295](https://community.dataportal.se/post/2295)
+Repository för att hålla reda på saker StorSthlm vill göra se [community.dataportal.se/post/2295](https://community.dataportal.se/post/2295)
 
 Magnus Sälgö
 * 0735152802
