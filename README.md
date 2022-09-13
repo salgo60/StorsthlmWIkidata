@@ -1,7 +1,7 @@
 # StorsthlmWikidata
 Repository för att hålla reda på saker StorSthlm vill göra se [community.dataportal.se/post/2295](https://community.dataportal.se/post/2295)
 
-* [Issues](https://github.com/salgo60/StorsthlmWIkidata/issues?q=is%3Aissue+)
+* [Issues](https://github.com/salgo60/StorsthlmWIkidata/issues?q=is%3Aissue+) i denna yta
 
 Magnus Sälgö
 * tel: 0735152802
