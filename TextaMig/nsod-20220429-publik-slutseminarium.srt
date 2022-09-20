@@ -16,19 +16,19 @@ Projektet nationell skalning öppna data
 
 5
 00:00:12,800 --> 00:00:14,592
-Johannes heter jag ifrån Rice
+Johan Östling heter jag ifrån RISE
 
 6
 00:00:15,104 --> 00:00:16,640
-Och vi ska njurarna
+Och vi ska nu de närmaste
 
 7
 00:00:16,896 --> 00:00:18,432
-2 timmarna med citera
+2 timmarna presenter 
 
 8
 00:00:18,688 --> 00:00:20,736
-Vad är projekten har kommit fram till
+vad  projektet har kommit fram till
 
 9
 00:00:20,992 --> 00:00:25,088
@@ -56,7 +56,7 @@ Så att
 
 15
 00:00:40,704 --> 00:00:42,496
-Vi får även här nu go support
+Vi får även här nu god support
 
 16
 00:00:43,008 --> 00:00:43,776
@@ -68,7 +68,7 @@ Korten korrekt
 
 18
 00:00:46,080 --> 00:00:48,128
-Sara Här kommer assistera mig lite
+Sara här kommer assistera mig lite
 
 19
 00:00:48,640 --> 00:00:51,968
@@ -92,11 +92,11 @@ Underförstått
 
 24
 00:01:02,208 --> 00:01:06,048
-Publiken här antar jag och har förstått att
+Publiken här antar jag och har jag förstått att
 
 25
 00:01:06,304 --> 00:01:10,144
-Hälften av er har varit med i projektets olika månadsmöten
+hälften av er har varit med i projektets olika månadsmöten
 
 26
 00:01:10,656 --> 00:01:12,192
@@ -164,11 +164,11 @@ Och
 
 42
 00:01:56,992 --> 00:02:00,576
-Knorren här Det är då att våra kära kollegor
+slut norren här kommer våra kära kollegor
 
 43
 00:02:01,088 --> 00:02:03,136
-På vgr Västra Götalandsregionen
+På VGR Västra Götalandsregionen
 
 44
 00:02:03,648 --> 00:02:06,464
@@ -200,7 +200,7 @@ Syfte med det hela
 
 51
 00:02:21,824 --> 00:02:24,128
-Vi har som bor här på hennes öde
+Vi har som mål här på NSÖD 
 
 52
 00:02:24,384 --> 00:02:26,176
@@ -232,7 +232,7 @@ På dataportal
 
 59
 00:02:42,304 --> 00:02:44,608
-Data portal.se
+dataportal.se
 
 60
 00:02:44,864 --> 00:02:49,472
@@ -344,7 +344,7 @@ Kan nyttja och förädlar den här
 
 87
 00:03:57,568 --> 00:04:00,896
-Intressanta öppna delar datan
+intressanta öppna delar datan
 
 88
 00:04:03,456 --> 00:04:09,600
@@ -360,11 +360,11 @@ Och vi insåg ganska snabbt här att
 
 91
 00:04:16,768 --> 00:04:18,815
-Jag som äger datat
+Den som äger datat
 
 92
 00:04:20,095 --> 00:04:23,679
-Om inte de som äger data förstår att data behövs
+om inte de som äger data förstår att data behövs
 
 93
 00:04:24,447 --> 00:04:27,263
@@ -388,7 +388,7 @@ Om inte det så egendata tycker det är kul
 
 98
 00:04:36,991 --> 00:04:38,015
-Kommer det aldrig hänt
+Kommer det aldrig hänx<
 
 99
 00:04:39,039 --> 00:04:39,807
@@ -428,19 +428,19 @@ Och användare
 
 108
 00:05:03,871 --> 00:05:04,895
-Vi har Hejdå
+Vi har här idag 
 
 109
 00:05:05,151 --> 00:05:06,687
-Två stycken bra exempel på
+två stycken bra exempel på
 
 110
 00:05:06,943 --> 00:05:08,479
-Användare av öppen
+användare av öppen data
 
 111
 00:05:11,039 --> 00:05:13,087
-Så det här är det tillsammans arbete
+Så det här är ett tillsammans arbete
 
 112
 00:05:13,343 --> 00:05:14,111
@@ -496,7 +496,7 @@ I det hela stora
 
 125
 00:05:50,463 --> 00:05:55,071
-AI ska fungera För att demokrati ska fungera ETC
+AI ska fungera för att demokrati ska fungera ETC
 
 126
 00:05:57,119 --> 00:05:58,143
@@ -560,11 +560,11 @@ Chatten förmågor
 
 141
 00:06:36,799 --> 00:06:40,639
-Vi fick en fråga om delade presentationen här från Jonas jennebrand
+Vi fick en fråga om delade presentationen här från Jonas Jennebrand
 
 142
 00:06:41,151 --> 00:06:47,295
-Jag har lite fragmente cerad presentationer vi skulle försöka få ihop meddelanden också Men som sagt det
+Jag har lite fragmenterade presentationer vi skulle försöka få ihop meddelanden också Men som sagt det
 
 143
 00:06:48,575 --> 00:06:49,087
