@@ -8,7 +8,7 @@ Gomiddag
 
 3
 00:00:04,608 --> 00:00:08,448
-Välkomna till vårat publika seminarium
+Välkomna till vårat publika seminarium i 
 
 4
 00:00:09,216 --> 00:00:11,776
@@ -24,11 +24,11 @@ Och vi ska nu de närmaste
 
 7
 00:00:16,896 --> 00:00:18,432
-2 timmarna presenter 
+2 timmarna presentera
 
 8
 00:00:18,688 --> 00:00:20,736
-vad  projektet har kommit fram till
+vad det här projektet har kommit fram till
 
 9
 00:00:20,992 --> 00:00:25,088
@@ -36,35 +36,35 @@ Vad vi tycker man skall göra ytterligare
 
 10
 00:00:25,600 --> 00:00:26,624
-Ett ett
+Etc etc etc
 
 11
 00:00:26,880 --> 00:00:29,184
-Sätter jag en diger lista
+Så att vi har en diger lista här
 
 12
 00:00:29,696 --> 00:00:35,072
-Och mitt Team Här kommer efterhand presentera sig när han har sina punkter
+och mitt Team här kommer efterhand presentera sig när de har sina punkter
 
 13
 00:00:36,096 --> 00:00:37,888
-Vad vilka de är och sovit
+vilka dom är osv....
 
 14
 00:00:38,656 --> 00:00:39,680
-Så att
+Vi får
 
 15
 00:00:40,704 --> 00:00:42,496
-Vi får även här nu god support
+även här god support av
 
 16
 00:00:43,008 --> 00:00:43,776
-Goto10
+Goto10 
 
 17
 00:00:44,032 --> 00:00:45,824
-Korten korrekt
+
 
 18
 00:00:46,080 --> 00:00:48,128
@@ -72,23 +72,23 @@ Sara här kommer assistera mig lite
 
 19
 00:00:48,640 --> 00:00:51,968
-Grejer i bakgrunden här Om jag problem med ljud och Anna
+grejer i bakgrunden här Om ni har problem med ljud och annat
 
 20
 00:00:53,760 --> 00:00:55,808
-Som sagt åker vi
+Som sagt 
 
 21
 00:00:56,576 --> 00:00:58,368
-Det här projektet eller söder
+Det här projektet NSÖD
 
 22
 00:00:58,624 --> 00:01:00,928
-Handlar om öppen data
+handlar om öppen data
 
 23
 00:01:01,184 --> 00:01:01,952
-Underförstått
+som ni har förstått
 
 24
 00:01:02,208 --> 00:01:06,048
@@ -100,7 +100,7 @@ hälften av er har varit med i projektets olika månadsmöten
 
 26
 00:01:10,656 --> 00:01:12,192
-Och en andra efter har
+Och en andra zzzz
 
 27
 00:01:12,448 --> 00:01:14,496
@@ -116,11 +116,10 @@ Visa
 
 30
 00:01:17,056 --> 00:01:19,872
-Är depression och för andra är det väldigt mycket
+är det väldigt mycket
 
 31
 00:01:20,640 --> 00:01:21,664
-Så att
 
 32
 00:01:22,176 --> 00:01:23,712
@@ -496,7 +495,7 @@ I det hela stora
 
 125
 00:05:50,463 --> 00:05:55,071
-AI ska fungera för att demokrati ska fungera ETC
+AI ska fungera för att demokrati ska fungera etc...
 
 126
 00:05:57,119 --> 00:05:58,143
@@ -528,7 +527,7 @@ Jag skapade kulturresan
 
 133
 00:06:17,343 --> 00:06:20,671
-Jag ska börja då jävlar kulturresan och vad det var för nåt
+Jag ska börja då kulturresan och vad det var för nåt
 
 134
 00:06:20,927 --> 00:06:21,695
@@ -564,15 +563,15 @@ Vi fick en fråga om delade presentationen här från Jonas Jennebrand
 
 142
 00:06:41,151 --> 00:06:47,295
-Jag har lite fragmenterade presentationer vi skulle försöka få ihop meddelanden också Men som sagt det
+Vi har lite fragmenterade presentationer men som sagt det spelas in
 
 143
 00:06:48,575 --> 00:06:49,087
-Precis
+Kulturresan precis
 
 144
 00:06:54,207 --> 00:06:54,975
-Sådan
+
 
 145
 00:06:59,839 --> 00:07:04,703
@@ -588,7 +587,7 @@ Det är väldigt väldigt svårt att arbeta med frågor som man inte känner til
 
 148
 00:07:14,687 --> 00:07:20,831
-Förstår väl vattna baka är bara man hör ordet man har lite bilder Ja vad det är men man förstår inte
+
 
 149
 00:07:21,087 --> 00:07:25,951
@@ -608,7 +607,7 @@ Användning är något helt annat än publicering producerat data är ganska lä
 
 153
 00:07:40,799 --> 00:07:42,847
-Men du kommer ingen förstå det
+Men då kommer ingen förstå det
 
 154
 00:07:43,359 --> 00:07:49,503
