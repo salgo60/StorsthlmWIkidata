@@ -1,6 +1,6 @@
 1
 00:00:01,024 --> 00:00:05,376
-catalog of open source software in the public sector in sweden there are
+Catalog of open source software in the public sector in sweden there are
 
 2
 00:00:05,888 --> 00:00:06,656
