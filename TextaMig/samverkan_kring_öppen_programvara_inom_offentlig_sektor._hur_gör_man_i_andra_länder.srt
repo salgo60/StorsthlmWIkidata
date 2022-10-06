@@ -1,34 +1,18 @@
 1
 00:00:01,024 --> 00:00:05,376
-Show open source of public sector in Sweden
+catalog of open source software in the public sector in sweden there are
 
 2
 00:00:05,888 --> 00:00:06,656
-Korvspad
+corresponding versions i i know both in italy and france maybe we'll hear more about that but we're trying to
 
 3
 00:00:06,912 --> 00:00:10,496
-Persons Ipad
+gather projects that are used by agencies here in sweden and add those agencies here as well
 
 4
-00:00:10,752 --> 00:00:11,776
-Hur mår bättre
-
-5
-00:00:13,568 --> 00:00:16,384
-Try Together Project are used
-
-6
-00:00:16,640 --> 00:00:18,176
-Agency Theory Sweden
-
-7
-00:00:18,688 --> 00:00:21,760
-Är and sad to say this instead of
-
-8
 00:00:22,016 --> 00:00:25,856
-Några to make more easy to see what I turned into the router
+in order to make it more easy to see what alternatives there are out there when considering of procuring or before
 
 9
 00:00:26,112 --> 00:00:27,136
