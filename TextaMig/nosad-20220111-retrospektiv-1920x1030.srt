@@ -1,0 +1,3455 @@
+1
+00:00:00,256 --> 00:00:02,304
+Öppna till nozad retrospektiv
+
+2
+00:00:04,352 --> 00:00:09,472
+Precis som du hörde så spelas det här mötet in
+
+3
+00:00:11,008 --> 00:00:17,152
+Jag heter Maria dalhage Jag kommer under detta år att representera digg att jag kommer
+
+4
+00:00:17,408 --> 00:00:23,552
+Öppna data efter källkod Sveriges dataportal etablering av det som kallas för den
+
+5
+00:00:23,808 --> 00:00:28,416
+Arenan och så naturligtvis snoozade och det är därför vi är här idag
+
+6
+00:00:28,928 --> 00:00:35,072
+Och vi har med oss Både Johan och Jonas som kommer att stötta dig
+
+7
+00:00:35,328 --> 00:00:38,912
+Ordning på det här som en torer
+
+8
+00:00:41,216 --> 00:00:45,312
+Syftet är helt enkelt att reflektera över
+
+9
+00:00:45,568 --> 00:00:51,712
+Vad vi har åstadkommit så farinosa det också tillsatt det resultatet vi har
+
+10
+00:00:51,968 --> 00:00:52,736
+Ligger
+
+11
+00:00:52,992 --> 00:00:55,552
+I linje med de vill uppnå
+
+12
+00:00:56,320 --> 00:01:02,464
+Och två konkreta mål idag i helt enkelt förslag på förbättringar också
+
+13
+00:01:02,720 --> 00:01:08,864
+Förslag på workshop ämnen för våren men även för hösten
+
+14
+00:01:12,960 --> 00:01:19,104
+Vad är de rosa då Är det någonting du försöker uppnå ditt nätverk för att du hjälper inte
+
+15
+00:01:19,360 --> 00:01:25,504
+Och som jobbar inom 50 verksamhet att ta nästa steg för att kunna jobba mer med öppna data
+
+16
+00:01:26,016 --> 00:01:29,856
+Tillgängliggörande och nyttjandet av detta och även en källkod
+
+17
+00:01:32,160 --> 00:01:33,952
+Bakgrunden är att de vill ha
+
+18
+00:01:34,208 --> 00:01:40,352
+Mer Öppen innovation Vi vill få en mer kostnadseffektiv digitalisering Jag vill kunna
+
+19
+00:01:40,608 --> 00:01:46,752
+Kompetens delning och de vill också få bättre kommunikation både mellan
+
+20
+00:01:47,008 --> 00:01:48,288
+Människor och system
+
+21
+00:01:49,056 --> 00:01:50,848
+Och där fick de lösa genom
+
+22
+00:01:51,104 --> 00:01:53,664
+Digitala workshops som jag har en gång i månaden
+
+23
+00:01:53,920 --> 00:01:58,016
+Vi har community-forum via Sveriges största portal
+
+24
+00:01:58,784 --> 00:02:04,928
+De har nog salt.se där man bland annat hittar tidigare inspelningar
+
+25
+00:02:05,184 --> 00:02:11,328
+Jag också delat material och små startsida att den når man också 50 kod.se
+
+26
+00:02:11,584 --> 00:02:15,424
+Loggen är det samlar och sen till verksamhetskod
+
+27
+00:02:19,264 --> 00:02:25,408
+Upplägget Idag är helt enkelt afton med fyra byggstenarna som jag precis pratade om
+
+28
+00:02:26,688 --> 00:02:32,832
+Kommer jag lite dataportal dela sedan och offentlig kod vid De här De vill på deras
+
+29
+00:02:33,088 --> 00:02:33,600
+Fönster
+
+30
+00:02:33,856 --> 00:02:34,880
+På
+
+31
+00:02:35,136 --> 00:02:38,208
+Först ha en introduktion
+
+32
+00:02:38,464 --> 00:02:41,280
+5 minuter för tio minuter här ämne
+
+33
+00:02:41,536 --> 00:02:44,096
+Och sen kommer vi i menti
+
+34
+00:02:44,352 --> 00:02:50,496
+Via dator eller via telefon att ha en gruppdiskussion Den är helt enkelt
+
+35
+00:02:50,752 --> 00:02:53,056
+Svar
+
+36
+00:02:53,312 --> 00:02:59,456
+Och sen kommer det komma tillbaka till större grupper när vi kan reflektera över resultatet som du nämnde
+
+37
+00:03:00,480 --> 00:03:06,368
+Vi kommer göra fyra gånger så förstår jag det är digital workshop och sen blir det kom ju lite dataportal
+
+38
+00:03:06,624 --> 00:03:09,184
+Jag har dela sidan och jag har också en streckkod
+
+39
+00:03:14,304 --> 00:03:20,448
+Allting kommer heller inte funkar jättebra i men till När kommer till ett uttryck
+
+40
+00:03:20,704 --> 00:03:26,848
+Eftersom vi har en chatt så nyttiga den parallellt och det kan man göra
+
+41
+00:03:27,104 --> 00:03:33,248
+Vad är aktiv i chatten så får vi också spårbarhet att man kan ta upp trådar och så vidare så
+
+42
+00:03:33,504 --> 00:03:34,528
+Som vanligt
+
+43
+00:03:37,088 --> 00:03:40,160
+Om upplägget är Filip så kan jag gå vidare
+
+44
+00:03:43,232 --> 00:03:49,376
+Jag går vidare för jag ser faktiskt inte vad som händer i chatten så att jag klickar vidare Och då kommer vi in på min
+
+45
+00:03:49,632 --> 00:03:53,216
+Intro kring digitala workshops
+
+46
+00:03:53,984 --> 00:04:00,128
+Jag tänker börja med en bild som gjorde mig helt överväldigad när jag häromdagen satt och planerade
+
+47
+00:04:02,432 --> 00:04:08,576
+Den här 60 organisationer som har planerat och
+
+48
+00:04:08,832 --> 00:04:10,880
+Föredrag nos advent
+
+49
+00:04:12,672 --> 00:04:18,303
+Alltså 16-åriga recensioner har pratat öppna data och öppen källkod
+
+50
+00:04:18,815 --> 00:04:20,095
+Helt fantastiskt
+
+51
+00:04:21,375 --> 00:04:27,519
+Jag tänker inte läsa igenom utan i sig själva Det är allt ifrån PRV Helsingborgs stad
+
+52
+00:04:27,775 --> 00:04:33,919
+Openhack Högskolan i Skövde SCB Naturvårdsverket PostNord
+
+53
+00:04:35,455 --> 00:04:41,599
+Kunskapsspridning från andra länder öppen u.k. Linux foundation
+
+54
+00:04:41,855 --> 00:04:47,999
+Frankrike os2 Danmark Vi har haft Red
+
+55
+00:04:48,255 --> 00:04:54,143
+Red bridge vi har haft handlingar punkte c sambruk Odin Rise
+
+56
+00:04:54,399 --> 00:05:00,543
+Norska en tur alltså massor Det här är jättehäftigt Så det känns som att det är någonting på gång
+
+57
+00:05:00,799 --> 00:05:05,919
+Jag tror att det kan skada luktar ännu mer i år frågan är bara hur
+
+58
+00:05:10,015 --> 00:05:15,135
+Sammanlagt har vi haft 19 digitala workshop och med den här så är det 20
+
+59
+00:05:16,415 --> 00:05:21,535
+Och det över 50 presentationer som vi har på inspelningar till också
+
+60
+00:05:23,327 --> 00:05:29,471
+Först ut Var ser vi att det gick som pratade med licenser och immaterialrätt
+
+61
+00:05:29,727 --> 00:05:34,591
+Vägledning i öppna datatjänster
+
+62
+00:05:36,127 --> 00:05:40,223
+Doctech där var trafiklab har pratat om
+
+63
+00:05:40,479 --> 00:05:44,319
+Samverkan kring och 5600 data satsningar
+
+64
+00:05:44,831 --> 00:05:50,975
+Jag har haft en introduktion till ett en programvara slog hål på en del myter koppla till uppe
+
+65
+00:05:51,231 --> 00:05:57,375
+Jag haft utfrågning King öppna data utredningen och saltet arbetsmöte
+
+66
+00:05:57,631 --> 00:05:59,423
+Svaren
+
+67
+00:06:01,727 --> 00:06:06,591
+Diskutera Förvaltning och ansvar kring öppna data
+
+68
+00:06:07,871 --> 00:06:13,503
+Jag pratat om hacka ton med mera med mera
+
+69
+00:06:13,759 --> 00:06:17,599
+Don workshops som har varit mest besökta har varit
+
+70
+00:06:17,855 --> 00:06:20,159
+Länkade datorbygge data
+
+71
+00:06:20,927 --> 00:06:22,463
+Öppna standarder
+
+72
+00:06:23,743 --> 00:06:25,791
+Arkiv open source
+
+73
+00:06:26,047 --> 00:06:32,191
+Också de evenemang som hade på internetdagarna digitala allmänningar som skapades samhäll
+
+74
+00:06:32,447 --> 00:06:38,591
+BR väntetid och lite annorlunda så det är inte konstigt varför de hade fler deltagare
+
+75
+00:06:38,847 --> 00:06:43,967
+Det ser bra ut vi har ett deltagarantal som brukar vara någonstans
+
+76
+00:06:44,223 --> 00:06:45,503
+Antingen ser vi
+
+77
+00:06:45,759 --> 00:06:48,319
+40 till 60 eller som vi varit
+
+78
+00:06:48,575 --> 00:06:51,903
+Närmar upp mot 100 kr på vilka ämnen vi pratar om
+
+79
+00:06:57,023 --> 00:07:03,167
+Titta på en klassisk nozad workshop så brukar vi ha ett antal presentationer
+
+80
+00:07:03,423 --> 00:07:04,447
+Inledningsvis
+
+81
+00:07:04,703 --> 00:07:09,055
+Och sen så har vi någon typ av gruppdiskussion
+
+82
+00:07:09,311 --> 00:07:15,455
+Och de här de ämnena vi har diskuterat det handlat om vilka steg och
+
+83
+00:07:15,711 --> 00:07:18,783
+Gerd har era organisationer genomfört för att det
+
+84
+00:07:19,039 --> 00:07:22,367
+Öppna data ska användas i högre utsträckning
+
+85
+00:07:22,879 --> 00:07:28,511
+Handlat om vilka utmaningar Möter du i din organisation gällande källkod
+
+86
+00:07:29,791 --> 00:07:34,911
+Vilka konkreta aktiviteter behövs för att kunna samarbeta kring ny arkiv och så vidare
+
+87
+00:07:36,959 --> 00:07:39,007
+Tidigare inspelningar
+
+88
+00:07:39,263 --> 00:07:41,055
+Presentationer
+
+89
+00:07:41,567 --> 00:07:43,103
+Och även
+
+90
+00:07:43,359 --> 00:07:46,431
+De hade lågorna finns på olika ställen
+
+91
+00:07:46,943 --> 00:07:49,759
+Vi har katter samla svaren
+
+92
+00:07:50,015 --> 00:07:56,159
+På olika sätt Bland annat har vi använt och sade bara en word-dokument som har legat på
+
+93
+00:07:56,415 --> 00:08:00,255
+Alternativt sagan väntas av community-forum
+
+94
+00:08:00,767 --> 00:08:03,327
+Och idag så tror jag med menti
+
+95
+00:08:06,143 --> 00:08:12,287
+Och då kommer du snart i den här första men uppgiften Hur kan vi förbättra våra workshops
+
+96
+00:08:12,543 --> 00:08:13,055
+Billigare
+
+97
+00:08:16,639 --> 00:08:22,783
+Du får gärna spåna på kring längd på Denton ska bara två timmar en till
+
+98
+00:08:23,039 --> 00:08:29,183
+3 timmar Jag har idag så har vi en workshop en gång i månaden är det bra
+
+99
+00:08:29,695 --> 00:08:34,559
+Ämnets Elvans diskussioner i grupper och generellt vad funkar bra
+
+100
+00:08:34,815 --> 00:08:39,423
+Hittade bara på den spridning av kunskap och erfarenheter som vi faktiskt har
+
+101
+00:08:39,679 --> 00:08:43,007
+Vad är det för ämnen som ni vill se tangent
+
+102
+00:08:44,543 --> 00:08:46,335
+Sluta dela nu
+
+103
+00:08:50,431 --> 00:08:55,551
+Och sen så Ber jag er alla att
+
+104
+00:08:55,807 --> 00:09:01,951
+Inte missar här röstnings koden som Johan Linåker har kopiera den
+
+105
+00:09:02,207 --> 00:09:05,279
+Så kommer det nu hamna i olika grupper
+
+106
+00:09:07,071 --> 00:09:12,447
+Och då svarar vi antingen det är telefonen eller vida
+
+107
+00:09:15,007 --> 00:09:15,775
+Dator
+
+108
+00:09:16,031 --> 00:09:18,079
+What is something on a 10 minuter
+
+109
+00:09:24,223 --> 00:09:26,271
+Tillbaka tjugo över det är bra
+
+110
+00:09:28,319 --> 00:09:28,831
+Kalas
+
+111
+00:09:39,839 --> 00:09:42,399
+Nu är vi tillbaka igen
+
+112
+00:09:43,679 --> 00:09:45,727
+Jag hoppas att
+
+113
+00:09:46,751 --> 00:09:52,383
+Johan Linåker har kommit tillbaka och jag kan vi
+
+114
+00:09:52,639 --> 00:09:54,175
+Resultatet
+
+115
+00:09:55,455 --> 00:09:57,247
+Bensinmackar
+
+116
+00:10:09,535 --> 00:10:10,815
+Alltså någonting
+
+117
+00:10:11,583 --> 00:10:13,631
+Ja det funkar ju jättebra
+
+118
+00:10:16,703 --> 00:10:18,751
+Då ska vi se
+
+119
+00:10:19,007 --> 00:10:25,151
+Ja vi stannar här och se vad vi hittar två timmar i Okej säger någon
+
+120
+00:10:25,407 --> 00:10:31,551
+Litegrann och tänkte att två timmar kanske lite för länge det står här
+
+121
+00:10:31,807 --> 00:10:32,831
+Så länge
+
+122
+00:10:33,087 --> 00:10:39,231
+Kanske en timme och de har ju haft några längder redan
+
+123
+00:10:39,487 --> 00:10:45,631
+Ibland har varit Då testar jag att 12 timmar men vi har även haft tre timmar och vi haft fyra timmar
+
+124
+00:10:45,887 --> 00:10:52,031
+Nästa Loser workshop som kommer handla om
+
+125
+00:10:52,287 --> 00:10:58,431
+Allt inom 50 verksamhet med SVT och Sundsvalls kommun kommer vara på en
+
+126
+00:10:58,687 --> 00:10:59,455
+Så
+
+127
+00:10:59,967 --> 00:11:02,783
+Kommer nästa lördag 31 februari
+
+128
+00:11:05,087 --> 00:11:11,231
+Både föredrag och diskussion är bättre än bara föredrag skriver någon
+
+129
+00:11:12,255 --> 00:11:12,767
+Bra
+
+130
+00:11:13,535 --> 00:11:19,167
+Önskelista där man kan ange Vilka ämnen man vill se
+
+131
+00:11:21,727 --> 00:11:26,847
+Arbetar på att sprida dokumentationer erfarenhet från seminarierna
+
+132
+00:11:28,383 --> 00:11:34,527
+Är det någon som har någonting särskilt som det har skrivits om de skulle vilja gå in och
+
+133
+00:11:34,783 --> 00:11:36,063
+Breton
+
+134
+00:11:37,855 --> 00:11:38,879
+Koppla till det här
+
+135
+00:11:41,951 --> 00:11:45,023
+Jag skriver till er någonting i chatten också bäras
+
+136
+00:11:47,583 --> 00:11:51,423
+Kan du sätta en grej som
+
+137
+00:11:52,959 --> 00:11:53,727
+Man kan köpa
+
+138
+00:12:00,383 --> 00:12:01,407
+Ordet Richard
+
+139
+00:12:02,431 --> 00:12:08,575
+Ja förlåt alltså jag vet inte om jag har tid eller men precis Jag tänkte det finns
+
+140
+00:12:08,831 --> 00:12:10,111
+Alltså 2022
+
+141
+00:12:10,623 --> 00:12:16,767
+Ulrika Nämn några av de tillfälliga saker som är intressanta att studera och jobba på 20
+
+142
+00:12:17,023 --> 00:12:18,047
+Jag tycker att folk gillar
+
+143
+00:12:18,303 --> 00:12:20,351
+Sverige kommer behöva
+
+144
+00:12:20,607 --> 00:12:26,751
+Lämna nog IP handlingsplaner Alltså en halv stång eftersom Sverige medlem i EU
+
+145
+00:12:27,007 --> 00:12:28,287
+Vilket är det största
+
+146
+00:12:28,543 --> 00:12:34,687
+Open government organisationen i israeliter som FN för öppna data Open källkod och så
+
+147
+00:12:34,943 --> 00:12:41,087
+Det är verkligen något som skojar väldigt väldigt dålig på att ju alltså framförallt Regeringskansliet Men man kan inte vara dåligt
+
+148
+00:12:41,343 --> 00:12:42,879
+Varför är viktig fick en en
+
+149
+00:12:43,135 --> 00:12:46,463
+Alltså en varning förra förra gången
+
+150
+00:12:46,719 --> 00:12:52,863
+Är för att Regeringskansliet är så sen typ Och jag tror de kommer bara känna på den här gången också men jag hoppas att man
+
+151
+00:12:53,119 --> 00:12:56,191
+Göra något bra
+
+152
+00:12:57,215 --> 00:13:03,359
+Och samla de initiativ som finns och sätta dem i handlingsplanen och sedan är det valår tycker jag också intressant
+
+153
+00:13:03,615 --> 00:13:09,759
+Färdig order man kan fokusera speciellt på de politiska talet och vad politikerna tycker om digitalisering
+
+154
+00:13:10,015 --> 00:13:16,159
+Så jag hoppas att man kan också behöva in det här i programmet inte bara pratar med en tjänst
+
+155
+00:13:16,415 --> 00:13:18,207
+Personer utan också med politiker
+
+156
+00:13:18,463 --> 00:13:20,511
+Ja det var mina 2
+
+157
+00:13:22,815 --> 00:13:28,703
+Regeringen idag som ska ta fram open plan och de som står för dem eller hur
+
+158
+00:13:28,959 --> 00:13:32,031
+Ingen servicesektor grejer om de regeringen som är fel
+
+159
+00:13:32,287 --> 00:13:38,431
+Ja men alltså det här betyder väldigt olika grejer i olika länder i väldigt många länder till exempel i 13
+
+160
+00:13:38,687 --> 00:13:39,711
+Som görs av
+
+161
+00:13:39,967 --> 00:13:46,111
+Hälften civilsamhället hälften tjänstepersoner och det kan vara en myndighet till exempel som du skulle kunna
+
+162
+00:13:46,367 --> 00:13:51,231
+Henry Frankrike
+
+163
+00:13:51,487 --> 00:13:57,631
+Och jag tror att regeringen egentligen är väldigt jag hade kontakten David 2018 för sista
+
+164
+00:13:57,887 --> 00:14:04,031
+Sova de framför att icke produktiva alltså de välkomnade verkligen initiativ
+
+165
+00:14:04,287 --> 00:14:10,431
+Ja om det är lite arbete för de som vill de inte gör så jag tror inte att det är ett problem att man försöker
+
+166
+00:14:10,687 --> 00:14:11,967
+De skulle välkomna det
+
+167
+00:14:12,991 --> 00:14:19,135
+Absolut jag ska göra men inte där lite symptomatiskt att det problematiskt att regeringen med Håkan gammelfar
+
+168
+00:14:19,391 --> 00:14:25,535
+Med intresse av att driva fram de planer som man själv ska gå framme inom den samverkan de
+
+169
+00:14:25,791 --> 00:14:28,095
+Gud va med De borde tala om
+
+170
+00:14:28,351 --> 00:14:33,215
+Hur jag ska få fram att du kan förutse samverka med massa olika klar med regeringen äger frågan
+
+171
+00:14:33,471 --> 00:14:39,615
+Jag tror det problematiskt att de har ett sånt här så att skjuter ifrån Så här låter frivilliga krafter med
+
+172
+00:14:39,871 --> 00:14:45,503
+Ta fram det då med mig och min partner typ De borde fan ta lite ansvar för sin strategi vindriktning i pinsamt
+
+173
+00:14:46,271 --> 00:14:52,415
+Ja jag håller med dig Jag tycker också också gaveln Men typ så jag tror det
+
+174
+00:14:52,671 --> 00:14:55,743
+Men ja jag vill ha hjälp med dig annars
+
+175
+00:14:55,999 --> 00:14:58,559
+Men jag tror att det är tyvärr alltså
+
+176
+00:14:58,815 --> 00:15:00,863
+Det krävs lite
+
+177
+00:15:01,375 --> 00:15:07,519
+Nej Alltså egentligen logopedvägen ett partnerskap en samverkan mellan civilsamhälle och regering
+
+178
+00:15:07,775 --> 00:15:12,639
+Väldigt många olika länder så det finns i andra länder utan det är ofta
+
+179
+00:15:12,895 --> 00:15:13,663
+Where
+
+180
+00:15:13,919 --> 00:15:18,271
+Lite emot regeringens första vilja och sedan upptäcker de att det är bra att då
+
+181
+00:15:18,527 --> 00:15:23,647
+Börjat att fatta lite i efterhand så jag tycker inte det är så konstigt
+
+182
+00:15:23,903 --> 00:15:28,255
+Regeringskansliet det är pinsamt såklart men det är inte så
+
+183
+00:15:28,511 --> 00:15:29,535
+Ovanligt
+
+184
+00:15:29,791 --> 00:15:34,911
+Ja men så jag ville inte störa planeringen för mycket
+
+185
+00:15:37,471 --> 00:15:38,239
+Jättebra
+
+186
+00:15:38,751 --> 00:15:44,895
+Är det någon som har ytterligare någonting som jag skrivit som de känner att
+
+187
+00:15:45,151 --> 00:15:46,175
+Lista
+
+188
+00:15:54,879 --> 00:15:57,183
+Utan er Ni verkar vara nöjda
+
+189
+00:15:59,487 --> 00:16:04,863
+Resultatet finns här vi tar med oss det och framför allt just det här hur kan vi
+
+190
+00:16:05,375 --> 00:16:11,519
+Noah fler och också några fler beslutsfattare Jag tror att det hänger lite grann ihop
+
+191
+00:16:11,775 --> 00:16:14,847
+Vår grupp alltså all den kunskap
+
+192
+00:16:15,103 --> 00:16:18,175
+De diskussionerna som vi har haft i not sad so far
+
+193
+00:16:18,431 --> 00:16:19,455
+Hur kan vi
+
+194
+00:16:19,967 --> 00:16:26,111
+Eventuellt attackera om de lyfta De ser till så att de får spridning
+
+195
+00:16:26,367 --> 00:16:31,743
+Inte bara blir de 20 personerna eller 60 personerna som var med på vår också öppnat det kan
+
+196
+00:16:31,999 --> 00:16:34,559
+Ta resultatet både uppåt och åt sidan
+
+197
+00:16:37,887 --> 00:16:44,031
+Jag tänkte att det går in på del 2 helt enkelt Nu har vi pratat om digitala Workshop
+
+198
+00:16:44,287 --> 00:16:48,639
+Och nästa del handlar om communityt
+
+199
+00:16:49,151 --> 00:16:51,711
+Startade nozad så
+
+200
+00:16:51,967 --> 00:16:58,111
+Börjar du helt enkelt med en viktig sida på Gotland när vi börjar
+
+201
+00:16:58,367 --> 00:17:03,743
+Dela lite dokument och det var där det började
+
+202
+00:17:03,999 --> 00:17:10,143
+Och redan på första workshopen så kom fram till att det här var jättespännande vi
+
+203
+00:17:10,399 --> 00:17:11,935
+Kan diskutera
+
+204
+00:17:12,191 --> 00:17:18,335
+Men när mötet är slut vart tar vi diskussionen vidare någonstans Det vore bra om du hade något Forum
+
+205
+00:17:18,591 --> 00:17:21,919
+Kopplat till till den här workshopen
+
+206
+00:17:22,175 --> 00:17:25,503
+Och initialt så fanns inte
+
+207
+00:17:25,759 --> 00:17:30,111
+Dataportalen community Forum utan då var det
+
+208
+00:17:30,367 --> 00:17:35,487
+Arbetsförmedlingen i scores via jobb Tech development som De använde
+
+209
+00:17:35,999 --> 00:17:42,143
+Funkar jättebra och sen så fort det gick så hade Bytte nu till dataportalen så det
+
+210
+00:17:43,423 --> 00:17:49,567
+Där vi också hittar datan och det jag tänkte göra i att checka dela Min skärm
+
+211
+00:17:50,591 --> 00:17:52,127
+Edge slutar
+
+212
+00:17:59,807 --> 00:18:02,111
+Hoppas att ni fortfarande hör mig
+
+213
+00:18:03,903 --> 00:18:06,463
+Hallsbergs skrika kille
+
+214
+00:18:07,743 --> 00:18:09,535
+Sveriges största portal helt enkelt
+
+215
+00:18:09,791 --> 00:18:15,935
+I Kanada söka data det finns nyheter och sen finns det där community efter det där Vi befinner
+
+216
+00:18:16,959 --> 00:18:22,847
+Antal saker som vi kan göra via Sveriges största portal community
+
+217
+00:18:23,103 --> 00:18:25,407
+Man kan tipsa fråga
+
+218
+00:18:25,919 --> 00:18:29,503
+Man kan visa på goda exempel och inspiration
+
+219
+00:18:29,759 --> 00:18:35,135
+Här kan man också skriva om kommande meetups och evenemang
+
+220
+00:18:36,671 --> 00:18:42,815
+Och sen ett tag tillbaka så finns det också Det som kallas för grupper inom
+
+221
+00:18:43,071 --> 00:18:49,215
+Digitala Arena en grupp som finns nu det är kompetensförsörjning och
+
+222
+00:18:49,471 --> 00:18:52,287
+Lärande och det är ju så att
+
+223
+00:18:52,799 --> 00:18:58,943
+Många myndigheter och ännu fler data producenter har relevant data som
+
+224
+00:18:59,199 --> 00:18:59,711
+Ja just
+
+225
+00:19:00,223 --> 00:19:06,367
+Kompetensförsörjning och livslånga lärandet anställd från utbildning Starta arbetsmarknads dator
+
+226
+00:19:06,623 --> 00:19:12,767
+Är det här Det här är en grupp dels att regeringens uppdrag dels att det finns jätte
+
+227
+00:19:13,023 --> 00:19:15,071
+Tryck på den här typen av frågeställningar
+
+228
+00:19:16,863 --> 00:19:21,727
+Men man kan tänka sig andra grupper i arkiv exempelvis AI
+
+229
+00:19:21,983 --> 00:19:22,751
+Och så vidare
+
+230
+00:19:24,287 --> 00:19:28,895
+Jag går upp lite snabbt och visa att de tips och fråga hur det funkar
+
+231
+00:19:29,919 --> 00:19:35,039
+Spel som man klickar på tipsfråga så får man information om kategorin
+
+232
+00:19:36,063 --> 00:19:42,207
+Här ser vi att det regnar Södergren har lagt in en text Exempelvis om 50 kod
+
+233
+00:19:42,463 --> 00:19:47,327
+Vad är behovet sajten och hur samlade det i en öppen backlog
+
+234
+00:19:47,839 --> 00:19:49,375
+Huntingtons kommer diskutera
+
+235
+00:19:49,631 --> 00:19:51,167
+Idag snart
+
+236
+00:19:52,447 --> 00:19:58,591
+Här har då Jonas beskrivit litegrann att han jobbar med offentlig kod och vill ha tips
+
+237
+00:19:58,847 --> 00:20:00,895
+Från från er andra
+
+238
+00:20:01,919 --> 00:20:05,503
+Och sen har alla förslag fakturor som är enkel att underhålla
+
+239
+00:20:06,271 --> 00:20:07,807
+E-tjänst biodata
+
+240
+00:20:08,319 --> 00:20:14,463
+Ola helt enkelt ställer frågan Vad tycker ni och hur kan vi göra en öppen dag
+
+241
+00:20:14,719 --> 00:20:15,487
+Det här
+
+242
+00:20:17,279 --> 00:20:18,047
+Exempelvis
+
+243
+00:20:22,399 --> 00:20:26,239
+Ni ser också vilka som är med användare
+
+244
+00:20:27,775 --> 00:20:30,591
+Finns ungefär 400 användare
+
+245
+00:20:30,847 --> 00:20:36,991
+Och sen så ser vi Vilka grupper som finns så här ser jag också att en del av de här grupperna
+
+246
+00:20:37,247 --> 00:20:43,391
+Inte öppna med slutna fortfarande om ni vill ha grupper Siri bra
+
+247
+00:20:43,647 --> 00:20:44,927
+Grupperna är öppna
+
+248
+00:20:45,183 --> 00:20:51,327
+Billiga faktiskt att man ska kunna påverka innehållet att man ser
+
+249
+00:20:51,583 --> 00:20:55,935
+Som diskuteras att man kan få Input från andra sidan
+
+250
+00:20:56,703 --> 00:21:00,031
+Det kan finnas Skäl till att det är stängt Exempelvis om det
+
+251
+00:21:00,287 --> 00:21:03,359
+Planeringsfas som är använda själva verktyget
+
+252
+00:21:08,735 --> 00:21:09,247
+Så
+
+253
+00:21:09,503 --> 00:21:12,319
+Jag slutar helt enkelt att dela
+
+254
+00:21:23,328 --> 00:21:25,376
+För att dela igen
+
+255
+00:21:43,296 --> 00:21:46,112
+Vi kommer nu göra en ny nemty
+
+256
+00:21:46,368 --> 00:21:47,136
+Övning
+
+257
+00:21:47,904 --> 00:21:54,048
+Ungefär de här frågorna de har Vad krävs det för att få mer engagemang på community dator
+
+258
+00:21:55,072 --> 00:21:58,400
+Är saknas grupper saknas kategorier
+
+259
+00:21:58,912 --> 00:22:02,240
+Och sen kan vi knyta ihop
+
+260
+00:22:02,496 --> 00:22:05,056
+Kommer hjulet bättre med workshops
+
+261
+00:22:05,312 --> 00:22:07,872
+Och är det önskar att du är så jättesnäll
+
+262
+00:22:08,640 --> 00:22:14,784
+Pris på helt enkelt och då får jag önska att det ligger ut igen
+
+263
+00:22:15,040 --> 00:22:16,064
+Den här länken
+
+264
+00:22:21,184 --> 00:22:22,208
+Chatten
+
+265
+00:22:27,072 --> 00:22:27,840
+Den
+
+266
+00:22:28,096 --> 00:22:29,376
+Perfekt
+
+267
+00:22:29,632 --> 00:22:32,704
+Och sen så hamnar de i gruppen
+
+268
+00:22:36,288 --> 00:22:37,824
+Då ses vi om 10 minuter
+
+269
+00:22:39,360 --> 00:22:39,872
+Stopp
+
+270
+00:22:45,760 --> 00:22:47,040
+Det här går ju alldeles
+
+271
+00:22:47,552 --> 00:22:53,696
+När går jättesmidigt Nu är alla tillbaka igen vi faktiskt tappat någon
+
+272
+00:22:55,488 --> 00:22:58,048
+Johan för jag be dig visa
+
+273
+00:22:59,584 --> 00:23:00,352
+Svaren
+
+274
+00:23:10,848 --> 00:23:11,616
+Ser
+
+275
+00:23:14,176 --> 00:23:16,480
+Vad är det som står
+
+276
+00:23:16,992 --> 00:23:23,136
+Det står bland annat rädsla att svara är privat eller representerar jag min arbetsgivare
+
+277
+00:23:25,696 --> 00:23:30,816
+Nyhetsbrev anteckna hjälp att fånga upp trådar och ämnen har något annat skrivit
+
+278
+00:23:32,864 --> 00:23:37,728
+Svårighet att bygga kontinuitet i engagemang
+
+279
+00:23:37,984 --> 00:23:38,752
+Ja
+
+280
+00:23:39,520 --> 00:23:42,080
+Svårt att veta när han inte mer
+
+281
+00:23:44,128 --> 00:23:47,200
+Här står det också Det kan vara en bland en hård ton
+
+282
+00:23:48,992 --> 00:23:52,832
+Viktigt att det finns någon typ av community manager
+
+283
+00:23:54,368 --> 00:24:00,512
+Är det någon som känner att det här är svårighet att bygga kontinuitet och i engagemang
+
+284
+00:24:00,768 --> 00:24:02,304
+Jag skulle vilja kommentera den
+
+285
+00:24:10,752 --> 00:24:12,032
+Något som heter mjukt på
+
+286
+00:24:18,944 --> 00:24:20,736
+Starta kommentera
+
+287
+00:24:22,016 --> 00:24:28,160
+Alltså det är en del är ännu ett ställe att hålla koll på
+
+288
+00:24:28,416 --> 00:24:32,256
+När gruppen sina trådar kanske ställer man man kollar på följer diskussion
+
+289
+00:24:32,512 --> 00:24:34,816
+En ett ställe
+
+290
+00:24:35,072 --> 00:24:41,216
+Och det är inte alltid där trodde att mitt allt är hela tiden sak som intresserade liksom
+
+291
+00:24:41,472 --> 00:24:47,616
+Tiden som söker upp det kantareller så det är kanske inte så man man går dit och kollar jag trodde att
+
+292
+00:24:48,896 --> 00:24:52,736
+Nyhetsbrev eller någonting man kan prenumerera på kanske få highlightstore oj
+
+293
+00:24:53,504 --> 00:24:55,552
+Eller kanske enklare
+
+294
+00:24:55,808 --> 00:24:57,856
+Att det delas
+
+295
+00:24:58,880 --> 00:25:05,024
+Aktuella trådar och Mackan i andra Forum och med Open golf på Facebook eller
+
+296
+00:25:05,536 --> 00:25:07,584
+Connector med på linfrö
+
+297
+00:25:08,096 --> 00:25:10,912
+Någon har sett att man kan se det och skapar bättre kontinuitet
+
+298
+00:25:11,424 --> 00:25:13,472
+Jag tror jag ska lämna en kommentar
+
+299
+00:25:14,752 --> 00:25:20,640
+Det måste bli att människor som flyttar konversation istället för att ha dig One via mail
+
+300
+00:25:20,896 --> 00:25:24,480
+Som det exempelvis var en dator men jag kanske borde flytta
+
+301
+00:25:25,248 --> 00:25:31,392
+Vi som är engagerade Han kanske flytta dem till att flytta från personer som vill skapa en tråd om det här på datasalen
+
+302
+00:25:31,648 --> 00:25:32,160
+Rasister
+
+303
+00:25:32,672 --> 00:25:34,208
+Så kan fler vara med och diskutera
+
+304
+00:25:34,464 --> 00:25:39,072
+Kan du få till flera väldigt bra hon kommer att skapas mer intresse om man söker upp dom blir mer
+
+305
+00:25:39,328 --> 00:25:41,888
+Engagerad Sofia kanske lägger upp det på sin
+
+306
+00:25:42,144 --> 00:25:44,448
+Lista över ställe man kollar med regler
+
+307
+00:25:49,312 --> 00:25:50,080
+Tack Johan
+
+308
+00:25:51,104 --> 00:25:55,456
+Jag ser att det fanns ett förslag på en grupp här också
+
+309
+00:25:55,712 --> 00:26:01,856
+En tidigare inriktning för filformat samt dator och informationsstruktur eller
+
+310
+00:26:02,880 --> 00:26:07,744
+Jätteintressant Är det fler grupper ni ser skulle behövas
+
+311
+00:26:08,000 --> 00:26:12,352
+Och ni kan också skriva i chatten parallellt så jag om det lättare
+
+312
+00:26:12,608 --> 00:26:18,752
+Så att det är som sagt inte kan fortsätta att tänka det kan använda tennisbanor också
+
+313
+00:26:23,616 --> 00:26:29,760
+Vi som är på skulle man kunna göra någonting med en oslagbar och tjock
+
+314
+00:26:30,272 --> 00:26:35,136
+Communityt samtidigt skulle det kunna vara en
+
+315
+00:26:35,392 --> 00:26:41,536
+Tankat man föder ett ämnen fråga i kommunen som är sen igår
+
+316
+00:26:41,792 --> 00:26:46,400
+Nosade är det för svårt eller känns det som att nosen.se igen
+
+317
+00:26:46,656 --> 00:26:47,936
+Naturlig
+
+318
+00:26:48,448 --> 00:26:50,496
+Delat att hitta informa
+
+319
+00:26:50,752 --> 00:26:51,520
+Kom på
+
+320
+00:26:54,848 --> 00:27:00,992
+Malin Åkerlund ställer frågan Kan man ha underkategorier Forum
+
+321
+00:27:03,040 --> 00:27:09,184
+Årets färg är det borde man väl skönt tekniskt kunna både underkategorier
+
+322
+00:27:09,440 --> 00:27:11,232
+Och
+
+323
+00:27:12,000 --> 00:27:13,024
+Grupper
+
+324
+00:27:15,328 --> 00:27:18,400
+Har du någon något förslag är Malin
+
+325
+00:27:19,680 --> 00:27:25,824
+Hej jag tänkte att det är lika bra att jag pratar någonting Nej jag funderar bara lite på det här
+
+326
+00:27:26,080 --> 00:27:32,224
+Han kanske vill ha relativt få stora kategorier att man istället kanske kan ha en
+
+327
+00:27:32,480 --> 00:27:35,296
+Underkategorier längre in
+
+328
+00:27:35,552 --> 00:27:36,576
+Så blir det inte
+
+329
+00:27:36,832 --> 00:27:38,624
+Kanske svårt inledningsvis
+
+330
+00:27:38,880 --> 00:27:40,928
+Det blir för mycket som jag köpte orelevant
+
+331
+00:27:41,440 --> 00:27:45,536
+Ja därför jag var lite för grupper eller inriktningar för att
+
+332
+00:27:45,792 --> 00:27:46,816
+Jag tror jag
+
+333
+00:27:47,072 --> 00:27:50,912
+Jag tycker att det är svårt att veta vart ska jag skriva om
+
+334
+00:27:51,168 --> 00:27:56,288
+Jag undrar någonting om exakt
+
+335
+00:27:56,800 --> 00:28:02,944
+Vart ska jag ställa frågor om filformat bara börja använda Hur ska jag tänka eller Jag funderar på den här
+
+336
+00:28:03,200 --> 00:28:04,224
+Hon strukturen
+
+337
+00:28:04,480 --> 00:28:04,992
+Så
+
+338
+00:28:07,808 --> 00:28:08,576
+Alexa
+
+339
+00:28:08,832 --> 00:28:10,112
+Fortnite
+
+340
+00:28:11,392 --> 00:28:14,208
+Hänger med och jag tror att det är det som behövs
+
+341
+00:28:14,464 --> 00:28:20,608
+De De ser just nu att de är väldigt högt och lågt och det gör att det blir ganska svårt navigera
+
+342
+00:28:20,864 --> 00:28:27,008
+Om man tittar varje dag som möjligt så lättare men har man inte varit med på ett tag så
+
+343
+00:28:27,264 --> 00:28:33,408
+Svårt att veta var finns informationen och då kan underkategorier grupp vara
+
+344
+00:28:33,664 --> 00:28:34,432
+Här
+
+345
+00:28:34,944 --> 00:28:40,576
+Bara bra Jag Jag kan inte tekniken så pass bra Jag skulle gissa på att gruppen lättare än underkategori
+
+346
+00:28:40,832 --> 00:28:44,160
+För att hålla ihop ett ämne men ja
+
+347
+00:28:44,928 --> 00:28:49,024
+Tror att vi fortsätter med de som kan med jättebra förslag
+
+348
+00:28:51,328 --> 00:28:57,472
+Vad jag vet jag Kristin tidigare varit tveksam till att skapa för mycket kategorier och underkategorier
+
+349
+00:28:58,496 --> 00:29:04,640
+Risken blir att det inte händer någonting någon kategori det blir flygplats utan att jag gör man
+
+350
+00:29:04,896 --> 00:29:11,040
+När det finns en för stor massa om man har en anledning att dela upp saker jag kan tycka det är ganska vettigt resonerat
+
+351
+00:29:11,296 --> 00:29:15,392
+Liksom För utspätt Och det blir ingen Axel någonstans
+
+352
+00:29:18,976 --> 00:29:25,120
+Det finns en rädsla att svara i ett privat eller representerar jag min
+
+353
+00:29:26,144 --> 00:29:30,240
+Är det här någonting som upplevs som ett problem
+
+354
+00:29:31,264 --> 00:29:36,384
+Justine måste alltid sektor när det kommer till Hugo närvaro ser ut i den här portalen
+
+355
+00:29:36,640 --> 00:29:38,432
+Exempelvis ett förhållande till
+
+356
+00:29:38,688 --> 00:29:41,248
+LinkedIn eller Facebook
+
+357
+00:29:44,064 --> 00:29:48,928
+Eller Skulle ni känna er trygga med att uttrycka er på det här forumet
+
+358
+00:29:50,976 --> 00:29:52,256
+Är det någon som har några
+
+359
+00:29:52,512 --> 00:29:53,536
+Funderingar kring det
+
+360
+00:30:05,056 --> 00:30:10,432
+Jonas tycker att han hade tänkt att han svarar som statstjänsteman i hela världen
+
+361
+00:30:10,944 --> 00:30:11,712
+Jättebra
+
+362
+00:30:16,832 --> 00:30:22,976
+Kan det finnas en oro för att man inte våga uttrycka för mycket att man inte känner att man
+
+363
+00:30:23,488 --> 00:30:27,584
+I alla sina tyckanden kan representera just sin myndighet
+
+364
+00:30:36,288 --> 00:30:42,432
+Alltså jag tänker att det kan finnas en risk för vissa kanske är sånt som sitter på sitter på
+
+365
+00:30:43,712 --> 00:30:47,296
+Akkurat
+
+366
+00:30:47,552 --> 00:30:49,600
+Inositol representerande min
+
+367
+00:30:52,416 --> 00:30:54,976
+Jag vet inte hur du kan liksom speglas på
+
+368
+00:30:55,744 --> 00:30:56,512
+H&m
+
+369
+00:30:57,280 --> 00:30:58,048
+Betala
+
+370
+00:30:58,816 --> 00:31:02,144
+Kan det vara problemet
+
+371
+00:31:06,496 --> 00:31:07,008
+Tack
+
+372
+00:31:07,520 --> 00:31:13,664
+Bengt Söderman han skrev precis att han tycker att fokuserade grupper kan
+
+373
+00:31:13,920 --> 00:31:17,504
+Bra för att det kan finnas mycket som annars känns som
+
+374
+00:31:18,272 --> 00:31:24,416
+Irrelevant och det här sättet så hittar man sin ishockeyhall ett robot
+
+375
+00:31:27,232 --> 00:31:29,024
+En fråga som vår grupp
+
+376
+00:31:29,280 --> 00:31:35,424
+Tog upp var skriver Daniel Rosén om forumet eller nosat kan hitta problemområden
+
+377
+00:31:35,680 --> 00:31:37,984
+Hur många myndigheter kommuner verkar dela
+
+378
+00:31:38,752 --> 00:31:42,848
+Detta står denna slutsats vidare till beslutsfattarna
+
+379
+00:31:44,640 --> 00:31:50,784
+Väldigt bra fråga och svaret har varit än så länge
+
+380
+00:31:51,040 --> 00:31:51,552
+Dahls
+
+381
+00:31:51,808 --> 00:31:54,368
+Här tror jag att vi kan göra betydligt mer
+
+382
+00:31:54,880 --> 00:32:01,024
+Vi får titta alltså det här är väldigt svårt tillsammans De har ju väldigt mycket resultat
+
+383
+00:32:01,280 --> 00:32:03,072
+Paketerade på ett bra sätt
+
+384
+00:32:04,608 --> 00:32:06,400
+Också att de kan få en dialog
+
+385
+00:32:07,168 --> 00:32:13,312
+Det vet jag att det när vi samarbetar ju naturligtvis med våra respektive departement regeringen
+
+386
+00:32:13,568 --> 00:32:16,640
+Så det är inte alls omöjligt
+
+387
+00:32:16,896 --> 00:32:23,040
+Vi har både politiker och handläggare från departementet som som är med
+
+388
+00:32:23,296 --> 00:32:26,112
+Idrottsplats brevutskick och liknande
+
+389
+00:32:26,624 --> 00:32:29,952
+Det går att aktivera det här på ett sätt som inte tidigare har gjort
+
+390
+00:32:30,208 --> 00:32:31,744
+Jag tycker att du ska göra det
+
+391
+00:32:37,632 --> 00:32:42,240
+Någon annan som har någon tanke eller synpunkt
+
+392
+00:32:43,776 --> 00:32:48,384
+Om inte så tänker jag att det lät som att
+
+393
+00:32:48,640 --> 00:32:50,944
+Vem är grupper De är ju
+
+394
+00:32:52,480 --> 00:32:58,624
+Var finns ju precis intill praktiken för att få hittar de inte när man går in och så ser man den här kategorierna
+
+395
+00:32:58,880 --> 00:33:05,024
+Där gruppen måste du klicka på en speciell länk för att se Super tikens öppna inte med i
+
+396
+00:33:05,280 --> 00:33:08,864
+Någonting grupper om de
+
+397
+00:33:11,424 --> 00:33:17,568
+Fungerar Vad skiljer en grupp från från en kategori Varför ska man använda en grupp
+
+398
+00:33:17,824 --> 00:33:19,104
+När ska man ansöka om det
+
+399
+00:33:19,360 --> 00:33:21,408
+Den informationen finns ingenstans
+
+400
+00:33:22,688 --> 00:33:25,248
+Vad ska vi ha till valet av
+
+401
+00:33:25,504 --> 00:33:28,832
+Allt om fordon på den var att det finns en dam Så mycket bättre
+
+402
+00:33:29,088 --> 00:33:30,624
+Trivas Den här konversationen
+
+403
+00:33:30,880 --> 00:33:32,160
+Synonymer till
+
+404
+00:33:32,416 --> 00:33:34,464
+De inom de som hotar teknikboll
+
+405
+00:33:35,232 --> 00:33:37,536
+Absolut jag skulle bara designa om den då
+
+406
+00:33:42,656 --> 00:33:48,800
+Jag tänkte som så att klockan i 10.55 och vi tar en
+
+407
+00:33:49,056 --> 00:33:55,200
+Teknisk paus på fem minuter och så ska jag säga än klockan 11 för att diskutera
+
+408
+00:33:55,456 --> 00:33:55,968
+Dela
+
+409
+00:34:00,064 --> 00:34:01,088
+Lite
+
+410
+00:34:03,136 --> 00:34:05,696
+Delar allting med att vi alla presentationer
+
+411
+00:34:05,952 --> 00:34:12,096
+Läxhjälpen om det senaste halvåret idag lagt in den som publicerar alla prestations
+
+412
+00:34:12,352 --> 00:34:15,680
+Del av det efteråt Hur många som hör av sig I vilken delstat
+
+413
+00:34:15,936 --> 00:34:20,032
+Jag vill gärna veta Jag har efterhand
+
+414
+00:34:20,288 --> 00:34:26,432
+Om man har någon i poliserna för källkod eller någon ny rapport om riktigt öppna data eller
+
+415
+00:34:26,688 --> 00:34:27,968
+Metadata standard
+
+416
+00:34:28,224 --> 00:34:34,368
+Alla sådana här rapporter och underlag som kan vara till nytta alltid vi får
+
+417
+00:34:34,624 --> 00:34:37,952
+Försöker att samla i en lång lista och Egentligen har det bli
+
+418
+00:34:38,464 --> 00:34:43,328
+På vilken sida kan man se
+
+419
+00:34:43,584 --> 00:34:46,912
+Och det här i staden växer ju har den ljudet
+
+420
+00:34:47,424 --> 00:34:50,752
+Underhålla med verkar visa den kanske inte funkar längre
+
+421
+00:34:51,264 --> 00:34:55,616
+Det blir för lång för kött det kanske får vissa delar av andra känner inte till den
+
+422
+00:34:55,872 --> 00:34:58,176
+Så jag kan
+
+423
+00:34:58,688 --> 00:35:00,480
+Kan man dela skärm för att visa
+
+424
+00:35:04,064 --> 00:35:05,088
+Kan du säga det nu
+
+425
+00:35:07,392 --> 00:35:07,904
+Yes
+
+426
+00:35:08,160 --> 00:35:09,696
+Alltså här
+
+427
+00:35:10,208 --> 00:35:16,352
+Raderat material i form av en rosa punkt se någonting delat material och har de kan komma hos er
+
+428
+00:35:16,608 --> 00:35:18,912
+Workshop presentationer som håller nätverket
+
+429
+00:35:19,424 --> 00:35:23,520
+Community resurser vilket inte så många men det var tanken saker som vi
+
+430
+00:35:24,032 --> 00:35:25,312
+Utveckla tillsammans
+
+431
+00:35:26,336 --> 00:35:31,712
+Och sen externa resurser som exempelvis policies avregleringar och med mera
+
+432
+00:35:32,224 --> 00:35:36,320
+Vad har vi lite olika kategorier vi har de öppna data
+
+433
+00:35:36,832 --> 00:35:42,464
+Allmänna resurser hackathons kopplat till licenser och publicering
+
+434
+00:35:42,720 --> 00:35:47,840
+Öppna information strukturer och öppen programvara uppe såpass källkod
+
+435
+00:35:48,352 --> 00:35:54,496
+Olika policies katalog de där vi själva som inte går
+
+436
+00:35:57,312 --> 00:36:02,944
+Policys och vägledning Jag kan gå in här har vi uppdelat ett Australien Danmark England fin station
+
+437
+00:36:03,968 --> 00:36:08,320
+I Sverige så har vi samlat för Sundsvall big
+
+438
+00:36:08,576 --> 00:36:10,880
+Försäkringskassan har också
+
+439
+00:36:11,136 --> 00:36:15,744
+Skojar han visste vad en skrivelse för att kunna samla upp sån här som
+
+440
+00:36:16,000 --> 00:36:16,512
+Man har
+
+441
+00:36:17,792 --> 00:36:23,168
+Sak som kan vara intresse av att kunna få del av eller stanna till vid olika tillfällen och särskilt med
+
+442
+00:36:23,424 --> 00:36:24,704
+En kommun
+
+443
+00:36:24,960 --> 00:36:31,104
+Jag har Sundsvall EM fotbollsmatcher konsert Skellefteå kommun motsvarande så kan han gå in och så
+
+444
+00:36:31,360 --> 00:36:32,896
+Vilka andra kommuner eller
+
+445
+00:36:33,664 --> 00:36:35,456
+Myndigheter har motsvarande
+
+446
+00:36:35,712 --> 00:36:36,992
+Titta på utland
+
+447
+00:36:39,040 --> 00:36:40,832
+Och då är ju tanken att bada
+
+448
+00:36:42,368 --> 00:36:43,392
+Jag ska säga
+
+449
+00:36:44,672 --> 00:36:49,792
+Hur kan vi förbättra Det är helt enkelt där den stora frågan lite Jag tänkte att vi skulle diskutera nu
+
+450
+00:36:55,424 --> 00:36:56,192
+Torture
+
+451
+00:36:58,240 --> 00:36:58,752
+Fråga
+
+452
+00:36:59,008 --> 00:36:59,520
+Hallå
+
+453
+00:37:00,800 --> 00:37:04,384
+Vi behöver en länk till menti
+
+454
+00:37:04,896 --> 00:37:05,664
+Kod
+
+455
+00:37:07,968 --> 00:37:10,784
+Så länge du pissat den men ska se om jag kan
+
+456
+00:37:22,304 --> 00:37:23,072
+Rappa
+
+457
+00:37:25,120 --> 00:37:31,264
+Och sen kan jag också bara passa på att säga att under tidigare workshops som också finns på nosen.se
+
+458
+00:37:31,520 --> 00:37:34,080
+Så hittar man alla presentationer
+
+459
+00:37:34,336 --> 00:37:39,456
+Bästa är Agendan liksom högtalare ligger deras presentationer där
+
+460
+00:37:42,272 --> 00:37:43,040
+Jättebra
+
+461
+00:37:52,512 --> 00:37:56,096
+Då får vi be att hamna i olika grupper men
+
+462
+00:38:16,064 --> 00:38:18,112
+Jättebra ändå
+
+463
+00:38:18,624 --> 00:38:21,440
+Jag tar hand om igen
+
+464
+00:38:21,696 --> 00:38:25,792
+Här var det inte lika många
+
+465
+00:38:27,328 --> 00:38:28,864
+Kommentarer tror jag
+
+466
+00:38:30,400 --> 00:38:34,240
+Det står så här delar upp inspelningar Per presentation
+
+467
+00:38:34,496 --> 00:38:36,800
+Jättebra det Jag tyckte vi var i grupp också
+
+468
+00:38:37,056 --> 00:38:43,200
+Koppla systemkartan De Geer initiativ som
+
+469
+00:38:43,456 --> 00:38:46,784
+System inom kommuner i Sverige
+
+470
+00:38:47,040 --> 00:38:49,344
+Är det någon som vill utveckla den
+
+471
+00:38:52,416 --> 00:38:54,464
+Ja det var jag som
+
+472
+00:38:55,232 --> 00:38:57,280
+Släng din vän
+
+473
+00:38:57,536 --> 00:38:59,584
+Och det är ju
+
+474
+00:39:00,096 --> 00:39:06,240
+It's tingsställe enbart för kommunen de kan gå in och tala om vilka system De använder
+
+475
+00:39:06,752 --> 00:39:12,896
+Om de använder öppen källkod system som finns de listade där de deltagande kommunerna och då
+
+476
+00:39:13,152 --> 00:39:18,016
+Inkoppling hit och vidare till till med resurser som som
+
+477
+00:39:18,528 --> 00:39:22,112
+Funkar finnas på den här plattformen kring bromssystem
+
+478
+00:39:30,048 --> 00:39:32,352
+Den här system klart.se är till för
+
+479
+00:39:32,864 --> 00:39:36,960
+Förvaltning att man ska kunna inspireras lite av andra vad de använder
+
+480
+00:39:37,472 --> 00:39:43,616
+Jag tror han inte har intaget öppet för jag är nästan säker tanke ska vi sitta ute
+
+481
+00:39:43,872 --> 00:39:46,176
+Vilka stenar använder för att jag lite fakta
+
+482
+00:39:46,432 --> 00:39:47,456
+Antagning
+
+483
+00:39:50,784 --> 00:39:51,808
+Tackar
+
+484
+00:39:54,112 --> 00:40:00,256
+Vi har också en ytterligare kommentar här sammanfattas skapa ny Tråd i community
+
+485
+00:40:00,512 --> 00:40:02,816
+Starta portal.se
+
+486
+00:40:05,632 --> 00:40:11,008
+Absolut det är väl någonting som är ganska bra Då får man över trafiken dit
+
+487
+00:40:12,288 --> 00:40:17,920
+I vår grupp så pratade vi lite grann om det här med nyhetsbrev också
+
+488
+00:40:18,944 --> 00:40:25,088
+Att det kan vara både jobbigt med utskickad om det blir för stort men om man kan hitta
+
+489
+00:40:25,344 --> 00:40:31,488
+Automatiska sätt att föra över exempelvis nya delningar och
+
+490
+00:40:31,744 --> 00:40:37,888
+Eventuellt dessa nya Topic så skulle man kunna få med sig det i nyhetsbrevet som går ut
+
+491
+00:40:38,144 --> 00:40:44,288
+Visa vad som händer Vi har ett nyhetsbrev idag
+
+492
+00:40:44,544 --> 00:40:50,688
+Gå in på sl.se så kan man anmäla sig och de har baserat på
+
+493
+00:40:50,944 --> 00:40:57,088
+Jag har letat upp det som har varit med den här behövs också såna som
+
+494
+00:40:57,344 --> 00:41:03,488
+Tror har haft mitt nätverk som jag tror är intresserade och sen har jag skickat ut till alla
+
+495
+00:41:03,744 --> 00:41:07,840
+Parkeringar kring Nordstan när jag kommer till datum och liknande
+
+496
+00:41:08,096 --> 00:41:14,240
+Och det går naturligtvis att avregistrera och all information finns i min dator och där ligger inte ute något
+
+497
+00:41:14,496 --> 00:41:16,032
+Men
+
+498
+00:41:16,800 --> 00:41:20,896
+Vi har ett pågående så det finns ett nyhetsbrev och vi går och mycket
+
+499
+00:41:21,152 --> 00:41:27,296
+Vi pratar också i vår grupp om att det finns i andra Forum som också har nyhetsbrev
+
+500
+00:41:27,552 --> 00:41:31,648
+CD Squad har ju dela digitalt
+
+501
+00:41:31,904 --> 00:41:36,256
+Om man skulle kunna fundera på någon typ av samarbete med dom så att inte
+
+502
+00:41:36,512 --> 00:41:40,352
+Frågor det forumet som inte dyker upp i
+
+503
+00:41:41,888 --> 00:41:48,032
+Exempelvis de andra forumet som har kommit i forumet efter att man på något sätt se till att
+
+504
+00:41:48,288 --> 00:41:51,104
+Samarbete mellan de olika programmen
+
+505
+00:41:51,360 --> 00:41:57,503
+Då har jag önskemål om jag har lite skånemedia digitalt eller
+
+506
+00:41:57,759 --> 00:42:02,879
+Det vore intressant från åtminstonde öppnar upp så man kunde se
+
+507
+00:42:03,135 --> 00:42:05,439
+Vilka diskussioner och vilka
+
+508
+00:42:05,951 --> 00:42:12,095
+Vad som fanns Vilka Vilka grupper som diskuterar för vad delar kommuner och myndigheter
+
+509
+00:42:12,351 --> 00:42:16,959
+Rubriken på varje sak som delar som man kan se om det intressant eller inte
+
+510
+00:42:17,727 --> 00:42:21,311
+Då kan man liksom länka till saker saker för det går inte titta
+
+511
+00:42:22,847 --> 00:42:24,895
+Jättebra gjort Jag skrev precis
+
+512
+00:42:29,759 --> 00:42:35,903
+Ytterligare en är ett leder ett samarbete runt programvara vore intressant inte
+
+513
+00:42:36,159 --> 00:42:37,695
+Listade av
+
+514
+00:42:37,951 --> 00:42:43,839
+Använda programvara kanske till och med det fler samarbeten mellan offentlig sektor
+
+515
+00:42:45,119 --> 00:42:48,959
+Absolut är det någon som skulle vilja säga något mer om det
+
+516
+00:42:53,823 --> 00:42:57,919
+Har Bengt här Vi diskuterade i vår grupp fattat
+
+517
+00:42:58,687 --> 00:43:00,991
+Nu har vi pratar vi mycket om
+
+518
+00:43:01,503 --> 00:43:07,647
+Vad vi gör själva och vi listar Vilka program som som olika
+
+519
+00:43:07,903 --> 00:43:09,439
+Nyheter använder men
+
+520
+00:43:09,951 --> 00:43:14,303
+Här finns det kanske lätt att ta ett steg till
+
+521
+00:43:14,815 --> 00:43:17,887
+Dela kunskap om
+
+522
+00:43:18,143 --> 00:43:19,679
+De är olika programvarorna
+
+523
+00:43:23,007 --> 00:43:24,287
+Det vore ju
+
+524
+00:43:25,055 --> 00:43:27,359
+Extra underbart om
+
+525
+00:43:27,871 --> 00:43:29,151
+Olika
+
+526
+00:43:31,199 --> 00:43:37,343
+Myndigheter och andra i inom offentlig sektor Skulle du kunna jobba tillsammans
+
+527
+00:43:37,599 --> 00:43:40,415
+Projekt runt olika öppna
+
+528
+00:43:40,927 --> 00:43:41,695
+Flower
+
+529
+00:43:48,095 --> 00:43:50,655
+Absolut Det vore jätteintressant
+
+530
+00:43:50,911 --> 00:43:57,055
+Ja då kommer vi in på den här anskaffning fasan är det kommer ju snart att
+
+531
+00:43:57,311 --> 00:43:59,871
+Om
+
+532
+00:44:00,127 --> 00:44:04,479
+Katalogen och då kommer vi återkomma till det här
+
+533
+00:44:04,735 --> 00:44:09,855
+Men det får du faktiskt intressant att både kunna samarbeta mer med också dela mera
+
+534
+00:44:11,391 --> 00:44:17,535
+Upphandlingsunderlag och så vidare för att underlätta för företag
+
+535
+00:44:21,887 --> 00:44:28,031
+Ytterligare en kommentar de fått har varit den här de nozad hänvisa
+
+536
+00:44:28,287 --> 00:44:34,431
+Till community för diskussioner men håller dokument och texter på kyckling
+
+537
+00:44:35,711 --> 00:44:41,855
+En vecka framåt skulle kunna vara att kom juneke byggs ut att hantera även detta
+
+538
+00:44:43,391 --> 00:44:43,903
+Nu
+
+539
+00:44:44,159 --> 00:44:46,719
+Det skulle också kunna vara ett alternativ
+
+540
+00:44:48,511 --> 00:44:53,375
+En riktig atlet vinterspår
+
+541
+00:44:53,631 --> 00:44:57,215
+Dubblett eller på sig att hitta det som är hela Idén
+
+542
+00:44:57,471 --> 00:44:59,775
+Det går snabbt så
+
+543
+00:45:00,031 --> 00:45:01,311
+Helt klart
+
+544
+00:45:03,871 --> 00:45:04,895
+Är det någon som har
+
+545
+00:45:05,151 --> 00:45:08,479
+Ytterligare kommentarer synpunkter
+
+546
+00:45:20,255 --> 00:45:26,399
+Den kloke Maria i min grupp som sa att det är bra att man faktiskt innan man
+
+547
+00:45:26,655 --> 00:45:32,799
+Funderar litegrann på vad som de nästa steg och att de också skulle kunna vara någonting som påverkar
+
+548
+00:45:33,055 --> 00:45:34,847
+Hur man ser på den här
+
+549
+00:45:35,615 --> 00:45:37,919
+Delningen att man är väldigt tydlig med
+
+550
+00:45:39,455 --> 00:45:45,599
+Den information som man nu lämnar ifrån sig hur ska man ta den vidare att man försöker att summera det
+
+551
+00:45:45,855 --> 00:45:47,391
+När man lämnar på nätet
+
+552
+00:45:50,719 --> 00:45:56,863
+Hon inte har fler diskussioner kring det här ämnet så låter jag Jonas
+
+553
+00:45:57,119 --> 00:45:58,911
+Arbetsförmedlingen
+
+554
+00:45:59,935 --> 00:46:04,543
+Att prata lite grann om offentlig kod
+
+555
+00:46:08,895 --> 00:46:10,175
+Tack Maria
+
+556
+00:46:11,199 --> 00:46:15,807
+Vad ska vi börja med att dela Min skärm med får till det
+
+557
+00:46:25,535 --> 00:46:28,607
+Då borde ni se mig själv då
+
+558
+00:46:28,863 --> 00:46:35,007
+Ja vi började egentligen ett test med bygga en katalog här då
+
+559
+00:46:36,287 --> 00:46:42,431
+Under under våren om vi börjar gå tillbaka till namn
+
+560
+00:46:42,687 --> 00:46:48,831
+Nozad så Sveriges ett nätverk för open source and open data
+
+561
+00:46:49,087 --> 00:46:55,231
+Jag tycker du verkar ganska tidigt att ge upp en dejt det är ju öppna data det är någonting som
+
+562
+00:46:55,487 --> 00:47:01,631
+Vi ska gå och lägga oss att faktiskt jobba med som organisation i Sverige det finns en lagstiftning och
+
+563
+00:47:01,887 --> 00:47:08,031
+Det kanske handlar mer om hur vi ska bli bättre på att öppna upp data och få den användning men att vi ska göra
+
+564
+00:47:08,287 --> 00:47:09,311
+Det står ju
+
+565
+00:47:09,567 --> 00:47:15,711
+Det står klart men du kommer till öppen källkod så är det ju inte
+
+566
+00:47:15,967 --> 00:47:19,295
+Tyda direktiv att att det är faktiskt nånting vi ska
+
+567
+00:47:19,551 --> 00:47:20,831
+Vad gör du
+
+568
+00:47:21,087 --> 00:47:27,231
+Satsa på ETC på samma sätt
+
+569
+00:47:27,487 --> 00:47:27,999
+Dra ett skämt
+
+570
+00:47:28,511 --> 00:47:34,655
+Och jag tänker många många men skriver
+
+571
+00:47:35,935 --> 00:47:42,079
+Kom igen nu att vi ska jobba resurseffektivt eller vad det kallas då
+
+572
+00:47:42,335 --> 00:47:48,479
+Saker man inte riktigt * att man bara lämna konkret
+
+573
+00:47:48,735 --> 00:47:53,599
+Jag tror att det kommer behöva göras men det är en annan sak
+
+574
+00:47:53,855 --> 00:47:59,999
+Katalogen Är du en Brazil jag helt enkelt Vad är egentligen för öppen
+
+575
+00:48:00,255 --> 00:48:02,303
+Var är öppen källkod och som
+
+576
+00:48:02,559 --> 00:48:08,703
+Monica organisationer använder sig utav det handlar mycket om att jämte där behovet styr
+
+577
+00:48:08,959 --> 00:48:11,519
+Vilken öppen programvara som faktiskt används
+
+578
+00:48:12,287 --> 00:48:18,431
+Och sekundärt och att de även får de personer som delar sin egen kod eller system
+
+579
+00:48:18,687 --> 00:48:19,967
+Lista då
+
+580
+00:48:20,479 --> 00:48:26,623
+Är Och just det kanske visar styrka i att kunna gå en katalog
+
+581
+00:48:26,879 --> 00:48:33,023
+Se att man är faktiskt inte ensam i sitt införande Det finns det andra som också har
+
+582
+00:48:33,279 --> 00:48:39,423
+Införandeprojekt kopplat till i arkiv eller videosystem Eller vad du kan tänkas vara
+
+583
+00:48:39,679 --> 00:48:41,215
+Bara det faktumet att man kan
+
+584
+00:48:41,471 --> 00:48:47,615
+Hittat fyra andra myndigheter har precis gjort den här resan borde öka sannolikheten
+
+585
+00:48:47,871 --> 00:48:54,015
+Kontakta dem för inför inför val
+
+586
+00:48:54,271 --> 00:48:56,575
+Etcetera de var på det sättet då
+
+587
+00:48:57,599 --> 00:49:03,743
+Kan du jobba mer effektivt som jag gjort egentligen egentligen då
+
+588
+00:49:05,279 --> 00:49:11,423
+Jag tror jag kommit upp i ungefär 70 stycken insamlade öppna programvaror som jag
+
+589
+00:49:11,679 --> 00:49:12,959
+Vad ska jag säga först och främst
+
+590
+00:49:13,215 --> 00:49:19,359
+Det här är egentligen till respektive organisationer varje verktyg som är bäst för dem så klart
+
+591
+00:49:19,615 --> 00:49:25,759
+Berätta om det öppen eller stängd mjukvara där måste tro det handlar mycket om att man alltid berörd
+
+592
+00:49:26,015 --> 00:49:30,367
+Hur är läget upp ett alternativ om det är likvärdigt och att det finns ett sådant på den
+
+593
+00:49:30,623 --> 00:49:34,719
+Det är liksom ingen ideologisk satsning att alla ska använda rutan
+
+594
+00:49:34,975 --> 00:49:38,559
+Synliggöra de kör
+
+595
+00:49:39,839 --> 00:49:45,983
+70 stycken programvara som inte rapporterade och kan man då se vilka
+
+596
+00:49:46,239 --> 00:49:52,383
+Som faktiskt Använder du vaken
+
+597
+00:49:52,639 --> 00:49:58,783
+Utvärdering har varit att det faktiskt används för att koppla till i arkivet så
+
+598
+00:49:59,039 --> 00:50:04,159
+Att ta kontakt med varandra koppla till införandet i arkiv
+
+599
+00:50:04,415 --> 00:50:08,767
+Jag vet det arbetsmiljö vi kontaktade runt chattverktyg
+
+600
+00:50:09,279 --> 00:50:14,399
+Talade på SCB 2 Det var verktyget
+
+601
+00:50:14,655 --> 00:50:20,799
+DN runt att kunna synliggöra Vilka programvara som används av ålder
+
+602
+00:50:21,055 --> 00:50:21,823
+Fungerar du
+
+603
+00:50:25,407 --> 00:50:31,551
+Nästa steg är ju tänker att att för de som vill att man faktiskt inverterar och lyfter fram saker som
+
+604
+00:50:31,807 --> 00:50:35,647
+Man vänder eller delar på det sättet så kan vi leka
+
+605
+00:50:35,903 --> 00:50:38,975
+Vad förmåga att samverka bättre
+
+606
+00:50:39,231 --> 00:50:45,119
+Jensen är inte svaren så har en process med sitt så
+
+607
+00:50:45,375 --> 00:50:51,519
+Kontaktat Vingåker om man har ett antal mjukvaror som man vill dela med sig av att banan
+
+608
+00:50:53,055 --> 00:50:55,615
+CNC
+
+609
+00:51:00,991 --> 00:51:04,831
+Och som är nästa steg för att göra här
+
+610
+00:51:05,343 --> 00:51:11,487
+Noteringar en enklare framåt så finns det finns det sativ Jonna
+
+611
+00:51:11,743 --> 00:51:14,303
+Presentera på nozad under våren också
+
+612
+00:51:14,559 --> 00:51:15,839
+Föreningen
+
+613
+00:51:16,095 --> 00:51:22,239
+Public code standard för hur man
+
+614
+00:51:22,495 --> 00:51:28,639
+Kulturer ska jag säga hur man hjälper offentliga stationer att studera man vill dela
+
+615
+00:51:30,431 --> 00:51:36,575
+Best practices dentas i formen Nintendo över Hur beskriver man att man har en öppen på gamla
+
+616
+00:51:36,831 --> 00:51:42,975
+Använd en öppen programvara liknelse skulle kunna vara har möjlighet att öppna data så ska den bli
+
+617
+00:51:43,231 --> 00:51:43,999
+Skriva smör
+
+618
+00:51:44,255 --> 00:51:49,375
+Dekat Det finns en liknande enkla detsamma då för öppen programvara
+
+619
+00:51:49,631 --> 00:51:54,751
+Så mitt Johans förslag är att vi förhåller oss till det här
+
+620
+00:51:55,007 --> 00:51:59,359
+Metadata standard ändå för att få uttrycka
+
+621
+00:51:59,615 --> 00:52:02,943
+Beskriv mjukvara
+
+622
+00:52:03,711 --> 00:52:09,855
+Men om jag går genom den tänkta processen så att de blir kommit då så
+
+623
+00:52:10,367 --> 00:52:12,415
+Kolla på min skärm nu då så
+
+624
+00:52:12,927 --> 00:52:14,719
+Ja ja ja visst fel
+
+625
+00:52:14,975 --> 00:52:18,559
+Sollentuna skapat ut
+
+626
+00:52:18,815 --> 00:52:22,399
+Repo innehåller
+
+627
+00:52:22,655 --> 00:52:25,983
+En katalog mjukvara
+
+628
+00:52:26,751 --> 00:52:29,567
+Affär öppettider mjukvara
+
+629
+00:52:31,103 --> 00:52:33,151
+Så så finns det en en fil
+
+630
+00:52:35,455 --> 00:52:41,599
+Skriver det här mjukvaran Enligt den här standarden då namnet beskrivningen
+
+631
+00:52:41,855 --> 00:52:44,927
+De som använder Tullverket här
+
+632
+00:52:45,183 --> 00:52:51,327
+Vad var det för licens med mjukvaran eventuellt kontaktperson då
+
+633
+00:52:51,583 --> 00:52:52,863
+Blir riktigt rolig
+
+634
+00:52:53,119 --> 00:52:59,263
+Och jag vill sen sen så kan man ju trycka massa andra saker men det här är
+
+635
+00:52:59,519 --> 00:53:02,335
+Du tänker att det är intressant en katalog då
+
+636
+00:53:05,919 --> 00:53:10,783
+Och i sann anda med öppna data så
+
+637
+00:53:11,039 --> 00:53:14,623
+Enkel att man ska synliggöra det som ett flöde
+
+638
+00:53:14,879 --> 00:53:18,207
+Internet som man kan ta del av all den här
+
+639
+00:53:18,463 --> 00:53:22,303
+Zlatan på ett ordentligt enkelt man ska kunna
+
+640
+00:53:22,559 --> 00:53:26,399
+Prenumerera på nya mjukvaror som nexxin ETC
+
+641
+00:53:28,703 --> 00:53:31,519
+Som ett sista tresteg idag
+
+642
+00:53:31,775 --> 00:53:37,151
+Förslag på en ny enklare sajter som som automatiskt publicerar
+
+643
+00:53:38,687 --> 00:53:40,735
+Allt innehåller i katalogen
+
+644
+00:53:44,575 --> 00:53:45,855
+Vad är det då
+
+645
+00:53:46,111 --> 00:53:50,207
+Tankarna ska vara enkelt underhålla och gå per automatik då
+
+646
+00:53:50,975 --> 00:53:55,839
+Vilket exempel var på Råda där ska vi se om jag hittar den här då
+
+647
+00:53:57,631 --> 00:53:59,167
+Där
+
+648
+00:53:59,935 --> 00:54:06,079
+Namnet mjukvaran Varför kategori finns i längder källkoden enkla beskrivning
+
+649
+00:54:06,335 --> 00:54:08,895
+Macka för lite mer information
+
+650
+00:54:10,431 --> 00:54:12,479
+Och en listning över vilka som använder
+
+651
+00:54:17,087 --> 00:54:23,231
+Det är egentligen så långt har kommit i dagsläget då och då med namnet kan vi säga att person
+
+652
+00:54:23,487 --> 00:54:25,023
+Nätverk så
+
+653
+00:54:25,279 --> 00:54:31,423
+Blir katalogen lite undrar jag om det ligger där så att jag tog mig friheten och oregistrerad
+
+654
+00:54:32,447 --> 00:54:35,263
+Jag har lite enklare att komma ihåg
+
+655
+00:54:36,287 --> 00:54:42,431
+Nästa steg jag tänker vi kan diskutera det var så klart vad tycker ni har använt den Vad tror ni om Idén
+
+656
+00:54:42,687 --> 00:54:48,063
+Men också Vi får flera myndigheter faktiskt beskriva sin mjukvara
+
+657
+00:54:49,087 --> 00:54:51,391
+Det är väl allt från mig eller
+
+658
+00:54:55,487 --> 00:54:58,047
+Om det är några direkta frågor innan vi delar in oss
+
+659
+00:55:08,031 --> 00:55:14,175
+Jag tror att vi kan dela in oss till på våran tråd här chatten ser jag
+
+660
+00:55:14,431 --> 00:55:15,967
+Sake
+
+661
+00:55:17,247 --> 00:55:23,391
+Zack och delade en joina blink som visar
+
+662
+00:55:23,647 --> 00:55:28,767
+Openzwave observatorium
+
+663
+00:55:29,023 --> 00:55:33,119
+Så alla våra jackor och här finns även
+
+664
+00:55:33,631 --> 00:55:34,911
+Bor
+
+665
+00:55:35,935 --> 00:55:37,215
+Offentlig kod med
+
+666
+00:55:42,335 --> 00:55:48,479
+Men tänker jag att vi helt och sen så visar Johan Vi åker på att vi har
+
+667
+00:55:48,735 --> 00:55:53,855
+Så det i / Jag tänkte allt åt SOS kataloger från andra länder
+
+668
+00:55:57,695 --> 00:56:01,279
+Jag tänkte helt enkelt att vi får en
+
+669
+00:56:01,535 --> 00:56:07,679
+Länka så nummer till samma nummer som tidigare men om det är någon som behöver den igen
+
+670
+00:56:12,799 --> 00:56:14,335
+Den har vi element
+
+671
+00:56:15,103 --> 00:56:18,943
+Är du vacker och sen kan vi dela in oss i grupper
+
+672
+00:56:28,927 --> 00:56:30,719
+Då är vi tillbaka igen
+
+673
+00:56:32,511 --> 00:56:38,655
+Här så ser vi vad det är för kommentarer som har kommit in
+
+674
+00:56:41,727 --> 00:56:47,871
+Ja vi kan läsa här kunna kommentera programvaror betygsätta är bland annat
+
+675
+00:56:49,663 --> 00:56:52,223
+En kommentar Tack så mycket kär
+
+676
+00:56:54,015 --> 00:56:58,111
+Visa hållbarhet att de förblir och inte försvinner
+
+677
+00:56:58,879 --> 00:57:03,231
+Tänkte på katalogen då eller tänker vi på själva
+
+678
+00:57:03,487 --> 00:57:06,815
+Öppen källkod Vem är det som vill kommentera den
+
+679
+00:57:07,327 --> 00:57:11,679
+Själva portalen.se att det är någonting som
+
+680
+00:57:11,935 --> 00:57:16,543
+Jag finns här om tre år om inte försvinner Och effektivt diskussion
+
+681
+00:57:18,847 --> 00:57:19,359
+Nej
+
+682
+00:57:19,871 --> 00:57:26,015
+Passar tråd och så att man skulle kunna ha
+
+683
+00:57:26,271 --> 00:57:29,855
+Där på communityt kopplat till
+
+684
+00:57:30,111 --> 00:57:31,391
+Olika
+
+685
+00:57:32,159 --> 00:57:38,303
+Programvaror ungefär på samma sätt som tankarna antar jag är
+
+686
+00:57:38,559 --> 00:57:44,703
+Man ska göra kringdata från Per 80 i kan kan komma åt att chatta så kanske man skulle kunna
+
+687
+00:57:44,959 --> 00:57:47,775
+Översätta här öppen programvara
+
+688
+00:57:49,567 --> 00:57:55,711
+Någon Jag trodde var du bland annat här och Ström som pratar om det
+
+689
+00:57:55,967 --> 00:57:56,479
+April
+
+690
+00:57:56,735 --> 00:57:58,271
+Kommentera ytterligare
+
+691
+00:58:03,135 --> 00:58:05,183
+Ursäkta jag hörde inte vad du sade var det för mig
+
+692
+00:58:05,695 --> 00:58:11,839
+Jag är kopplingen till communityt
+
+693
+00:58:12,095 --> 00:58:13,887
+Gasol
+
+694
+00:58:14,143 --> 00:58:20,287
+Listan är ju liksom grundförutsättningar För att kunna göra någonting om man vet vad som händer
+
+695
+00:58:20,543 --> 00:58:24,639
+Olika ställen Men lilla väder Stora Varför kommer när man kan ha
+
+696
+00:58:24,895 --> 00:58:29,247
+Diskussioner med de som har erfarenhet av med programvara när man kan få kunskap om
+
+697
+00:58:29,503 --> 00:58:35,647
+Ja De använder den och tycker skitdåligt det är rätt intressant att veta där eller ja det är jättebra men inte till dem
+
+698
+00:58:35,903 --> 00:58:37,951
+Något annat
+
+699
+00:58:38,207 --> 00:58:44,351
+Det där var det uppstår när man delar kunskap fingrarna sakerna som man behöver en community del då kan man absolut
+
+700
+00:58:44,607 --> 00:58:50,751
+Genererar ett inlägg i en katt
+
+701
+00:58:51,007 --> 00:58:55,615
+Exempel för varje programvara som används som har kors kopplingar länkar mellan med systemen
+
+702
+00:58:57,663 --> 00:59:03,807
+Du pratade också om att du behöver Kanske delar in material och som kommer också göra kanske community
+
+703
+00:59:04,063 --> 00:59:06,367
+Kommer du tillbaka kanske har möjlighet att ta
+
+704
+00:59:06,623 --> 00:59:12,511
+Bifogade filer Men skicka mail dokument pdf-filer och var dokument och liknande rapporter och sånt
+
+705
+00:59:12,767 --> 00:59:14,815
+Kan man inte göra i dagsläget Vilket är bäst
+
+706
+00:59:19,423 --> 00:59:22,751
+Vilket det intressant det här Du säger att det är
+
+707
+00:59:23,007 --> 00:59:26,591
+Vilka diskussioner sker it-kommun lätta jag tittar på
+
+708
+00:59:26,847 --> 00:59:32,991
+Hur vi själva har påverkats av den här katalogen Deep Arbetsförmedlingen har ju
+
+709
+00:59:33,247 --> 00:59:34,015
+Antal
+
+710
+00:59:35,551 --> 00:59:39,903
+Förfrågningar om olika programvaror som vi har haft Vilket har resulterat i
+
+711
+00:59:40,415 --> 00:59:46,559
+Möten då med enstaka andra offentliga aktörer och där har vi diskutera
+
+712
+00:59:46,815 --> 00:59:51,935
+Ja men de ska använda det på det här sättet då Lite sant att ni använder på det sättet och så vidare Men
+
+713
+00:59:53,215 --> 00:59:59,359
+Ja det är det de har stannat sen men de två organisationerna som har träffats och här finns
+
+714
+00:59:59,615 --> 01:00:00,383
+Faktiskt
+
+715
+01:00:00,639 --> 01:00:06,783
+En förändring i hur Vi arbetar fortfarande hjärtat har de här bågarna bilateralt men det vore ju
+
+716
+01:00:07,039 --> 01:00:09,855
+Bra om man också kunde dokumentera och se till så att
+
+717
+01:00:10,367 --> 01:00:15,743
+Den kunskapen som som dyker upp i de här interna möten mellan två organisationer
+
+718
+01:00:15,999 --> 01:00:16,511
+Också
+
+719
+01:00:16,767 --> 01:00:20,863
+Kan hamna på exempelvis dataportalen så att andra kan ta del av
+
+720
+01:00:21,887 --> 01:00:24,191
+Det är väl det som är den stora skillnaden
+
+721
+01:00:24,447 --> 01:00:28,543
+Att katalogen har lett till att fler faktiskt
+
+722
+01:00:29,055 --> 01:00:30,847
+Prata med varandra Det är bra säg
+
+723
+01:00:31,103 --> 01:00:32,639
+Men vi skulle säkert kunna ta det
+
+724
+01:00:32,895 --> 01:00:34,175
+Ytterligare ett steg
+
+725
+01:00:38,271 --> 01:00:40,063
+Förenkla bidrag
+
+726
+01:00:40,319 --> 01:00:43,135
+Processen skriver någon
+
+727
+01:00:44,671 --> 01:00:50,815
+Är det någon som och sen systemkartan ska vi låta dig björn som jag ser bilden lämnar systemkarta först
+
+728
+01:00:51,071 --> 01:00:54,655
+Och sedan tittade på en förenkling av bidrags processen
+
+729
+01:00:56,703 --> 01:01:02,847
+Man kan göra dig ett ett system skapat av ligger som används av ett antal Sveriges kommuner
+
+730
+01:01:03,103 --> 01:01:09,247
+Hemligt För de kan inte öppen men där samlade de information om både öppen källkod och då
+
+731
+01:01:09,503 --> 01:01:15,647
+Kommuner använder för att man ska kunna se vilka andra använder dem som kan kontakta dem för att de är för en dialog
+
+732
+01:01:15,903 --> 01:01:18,207
+Det är väldigt mycket samma
+
+733
+01:01:18,463 --> 01:01:22,815
+Det bör ju finnas en länkning mellan dem på något sätt
+
+734
+01:01:23,327 --> 01:01:29,471
+Åtminstonde då från program kartan ut till till 50 kod i de Fallen
+
+735
+01:01:29,727 --> 01:01:30,751
+Bits
+
+736
+01:01:31,263 --> 01:01:34,335
+Gärna också till community direkt om vänskapen kopplingsarmen
+
+737
+01:01:38,175 --> 01:01:44,319
+Jättebra och här ser vi hur som omvärldsbevakning jag har missat
+
+738
+01:01:44,575 --> 01:01:46,111
+Kartan.se exempelvis
+
+739
+01:01:49,439 --> 01:01:54,815
+Förenkla bidrags processen var det någon som har skrivit
+
+740
+01:02:01,983 --> 01:02:04,799
+Som fångar upp från våran diskussioner det var
+
+741
+01:02:05,567 --> 01:02:11,711
+Var Bengt som produkterna liksom det är ju meningen att det ska vara enkelt att bidra det enkelt att kunna uppdatera
+
+742
+01:02:11,967 --> 01:02:12,479
+Maskinen
+
+743
+01:02:12,735 --> 01:02:13,759
+Katalog
+
+744
+01:02:14,527 --> 01:02:15,551
+Om
+
+745
+01:02:15,807 --> 01:02:19,647
+Om det är att man ska mejla någon eller registrera sig på gitarr så blir det
+
+746
+01:02:20,159 --> 01:02:22,719
+Ett och två och tre hinder på vägen
+
+747
+01:02:24,767 --> 01:02:30,911
+Och framförallt så måste det vara tydligt hur man gör jag Kanske kan hantera gitlab.com
+
+748
+01:02:31,167 --> 01:02:32,191
+Problemen
+
+749
+01:02:32,447 --> 01:02:33,215
+Ben
+
+750
+01:02:33,471 --> 01:02:39,615
+Jag såg omedelbart och där saknas det en programvara och så tittade jag och så hittade jag inte hur jag
+
+751
+01:02:39,871 --> 01:02:41,663
+Det här måste vara
+
+752
+01:02:42,175 --> 01:02:44,223
+Väldigt tydligt Olle
+
+753
+01:02:44,991 --> 01:02:46,527
+För att den ska lyfta
+
+754
+01:02:50,111 --> 01:02:56,255
+Bröstcenter Bengt och vi får jobba på det har man kunnat göra tidigare det det kontakta
+
+755
+01:02:56,511 --> 01:03:02,655
+Är Johan Linåker eller Maria dalhagen Södergren så har hade lagt in det men
+
+756
+01:03:03,167 --> 01:03:07,263
+Vi har försökt att göra så mycket självservice som som möjligt just för att de ska
+
+757
+01:03:08,287 --> 01:03:10,079
+Balett men det här Ska vi titta på
+
+758
+01:03:10,335 --> 01:03:14,687
+Viktigast är kanske att börja med att det framgår tydligt
+
+759
+01:03:14,943 --> 01:03:18,271
+Jag såg i alla fall inte så underbart
+
+760
+01:03:22,367 --> 01:03:24,415
+Jättebra kommentar som man inte tappar
+
+761
+01:03:24,671 --> 01:03:29,279
+Engagemanget var det någon som har missat hur man gör
+
+762
+01:03:34,911 --> 01:03:41,055
+Finns det någonting här kunna kommentera De sagt eu-lista bör kanske byggas ut och
+
+763
+01:03:41,311 --> 01:03:45,919
+Lista på g nivå genom public code standard
+
+764
+01:03:47,455 --> 01:03:48,735
+Skulle kommentera den
+
+765
+01:03:50,271 --> 01:03:53,855
+Kommentaren lista i grupp och sitter i så fall det jag såg
+
+766
+01:03:54,111 --> 01:04:00,255
+Grannkatten jättemycket men lite otur på sitt dåligt så kanske korpen.se
+
+767
+01:04:00,511 --> 01:04:02,303
+Ett inlägg
+
+768
+01:04:02,559 --> 01:04:08,703
+Men det är ingen som inte sådär var intresserad av programvaror samt programvara används av Hur många länder
+
+769
+01:04:08,959 --> 01:04:14,591
+Och finns i flera depositories och så är det liksom programvara kan tjäna mindre positiv
+
+770
+01:04:18,943 --> 01:04:24,831
+Bli mer som ljusstakar portal som listar datamängder istället för dator hos länderna
+
+771
+01:04:27,903 --> 01:04:28,671
+Japp
+
+772
+01:04:30,975 --> 01:04:35,839
+Jonas agentur som har jobbat i Har du någon tanke förslag
+
+773
+01:04:36,095 --> 01:04:36,607
+M
+
+774
+01:04:36,863 --> 01:04:37,887
+Lite grann
+
+775
+01:04:41,983 --> 01:04:48,127
+Ja men jag tror att det är lite som vi var inne på det mycket bra kommentarer men att först innan man
+
+776
+01:04:48,383 --> 01:04:54,527
+Noteringar på för lite fart i som finns det personer som vill bidra av flygläge får använda
+
+777
+01:04:54,783 --> 01:05:00,927
+När vi tar nästa steg den punkten då jag tror också att det måste vara
+
+778
+01:05:01,183 --> 01:05:07,327
+Extremt enkelt att kunna bidra i våran grupp diskuterade om att att
+
+779
+01:05:07,583 --> 01:05:09,631
+Vad är slicka på Gotland som myndighets att
+
+780
+01:05:10,399 --> 01:05:15,263
+Det Jag tror att Kjell 2 spökar väldigt mycket nu i alla frågor så att
+
+781
+01:05:15,775 --> 01:05:20,383
+Så att det finns flera saker som är osäkerheten runt tror jag
+
+782
+01:05:27,295 --> 01:05:33,439
+Blocket.se i innelistan
+
+783
+01:05:33,951 --> 01:05:36,511
+Nosen Verkar finnas med hitta.se
+
+784
+01:05:42,911 --> 01:05:49,055
+Det kan nog bero på att offentligt kod.se ett ganska nytt begrepp men vi kan väl se till så att den kommer menar jag
+
+785
+01:05:52,127 --> 01:05:55,455
+Kan man fylla i en sån här standard public code email
+
+786
+01:05:55,711 --> 01:06:00,831
+Restaurang arenan som är som skapat den här gruppen företag som driver Men tanken är
+
+787
+01:06:01,599 --> 01:06:07,743
+Vi ska kunna ska kunna skapa decentraliserade kataloger så att varje uppe programvara eller
+
+788
+01:06:07,999 --> 01:06:13,887
+Nej fanns sync metadata 26 som vi samlas där och samla
+
+789
+01:06:14,143 --> 01:06:17,727
+Och sedan genom att göra en sökning slagit på
+
+790
+01:06:17,983 --> 01:06:24,127
+Plattformen som tittar väldigt lätt så kan man få fram alla projekt som använder det här och sen ska man kunna ta
+
+791
+01:06:24,383 --> 01:06:25,919
+Datum Sverige
+
+792
+01:06:26,431 --> 01:06:31,039
+Hemsida som kan som kan lista och sökning
+
+793
+01:06:31,295 --> 01:06:33,343
+Jesper
+
+794
+01:06:33,599 --> 01:06:35,903
+Italien Frankrike och vi ska kunna använda
+
+795
+01:06:36,415 --> 01:06:38,207
+Samma data
+
+796
+01:06:38,463 --> 01:06:42,559
+Vattendrag som sitter och som utvecklar projekten Kan du underhålla
+
+797
+01:06:42,815 --> 01:06:43,583
+Metadata
+
+798
+01:06:44,863 --> 01:06:46,911
+Själva Men som sagt det här är ju
+
+799
+01:06:47,423 --> 01:06:48,191
+Ideal
+
+800
+01:06:48,447 --> 01:06:52,287
+Syn på en framtid en bit bort
+
+801
+01:06:52,543 --> 01:06:54,591
+Så det vi gör nu är att det blir säkert
+
+802
+01:06:54,847 --> 01:06:55,871
+Skapa sommar fil
+
+803
+01:06:56,127 --> 01:07:02,271
+Projekt som används av 50 sekund Sverige sedan tanken att vi ska söka bidrag den
+
+804
+01:07:03,039 --> 01:07:05,087
+Projektet som en dag med öppna programvara
+
+805
+01:07:05,343 --> 01:07:07,903
+11 steg längre fram
+
+806
+01:07:14,303 --> 01:07:20,447
+Tack så mycket Jag tror att vi har runt Även den
+
+807
+01:07:20,703 --> 01:07:26,847
+Delen själva offentligt.se och även om de har varit den där retro
+
+808
+01:07:27,103 --> 01:07:30,431
+Det är inte så att ni kan komma med synpunkter löpande utan
+
+809
+01:07:30,687 --> 01:07:36,831
+Har nya idéer skulle bara kontakta oss på vilken kanal som helst gärna dataportalen
+
+810
+01:07:37,087 --> 01:07:40,415
+Tittar
+
+811
+01:07:40,927 --> 01:07:45,535
+Fråga till er som är idag hur Vill ni att vi ska kunna något sätt
+
+812
+01:07:45,791 --> 01:07:51,935
+Återrapportera alltså resultatet då
+
+813
+01:07:52,191 --> 01:07:53,471
+Avser att göra
+
+814
+01:07:53,727 --> 01:07:59,103
+Nu har vi tagit massor med synpunkter är en sak jag kommer göra det inte
+
+815
+01:07:59,359 --> 01:08:02,175
+Hade fått de signalerna tidigare och det
+
+816
+01:08:02,431 --> 01:08:04,223
+Nästa workshop kommer vara på en timme
+
+817
+01:08:04,479 --> 01:08:10,111
+Vi kommer vara lite mer flexibla i tid och inte alltid ha två timmar Vi försöker fortfarande ha
+
+818
+01:08:10,367 --> 01:08:16,511
+Första tisdagen varje månad för det är enkelt att ha i sin kalender
+
+819
+01:08:16,767 --> 01:08:22,911
+Kommer att försöka anpassa oss enligt den här synpunkter fått in att vi vissa saker kommer göra andra
+
+820
+01:08:23,167 --> 01:08:25,727
+Kommer inte kunna genomföra
+
+821
+01:08:26,751 --> 01:08:28,543
+Men hur vill ni få
+
+822
+01:08:28,799 --> 01:08:31,871
+Feedback för återkoppling
+
+823
+01:08:33,407 --> 01:08:34,431
+Midsommar i Prag
+
+824
+01:08:39,039 --> 01:08:40,831
+Vad för slags återkopplingen kommer
+
+825
+01:08:42,111 --> 01:08:48,255
+Är ni kommer till massa förslag Och vi säger såhär tack så mycket för alla förslag men
+
+826
+01:08:48,511 --> 01:08:54,655
+På något sätt veta om vi avser att göra någonting åt det jag föreslagit Eller om du bara
+
+827
+01:08:54,911 --> 01:08:56,959
+Gå vidare till nästa möte
+
+828
+01:08:59,263 --> 01:09:02,335
+Ska det vara rimligt med
+
+829
+01:09:02,591 --> 01:09:08,735
+Lägg upp de förslagen som jag lagt in på på community att diskutera de där så här
+
+830
+01:09:08,991 --> 01:09:10,271
+Kan jag få
+
+831
+01:09:10,783 --> 01:09:15,135
+Få respons på vad ni tänker Hur ändrar man eller ser att jag tänkte bara
+
+832
+01:09:15,903 --> 01:09:18,207
+En väg framåt bak utan jackan
+
+833
+01:09:18,463 --> 01:09:23,839
+Vi kan väl allting där vi går ut på att gå ut och sen pratar om du behöver mer
+
+834
+01:09:24,095 --> 01:09:25,119
+Tillbaka tack
+
+835
+01:09:26,911 --> 01:09:27,935
+Frukt
+
+836
+01:09:28,703 --> 01:09:29,471
+Absolut göra
+
+837
+01:09:32,543 --> 01:09:35,871
+Vad tycker ni borde vara fler typer av sån här
+
+838
+01:09:36,127 --> 01:09:39,455
+Uppsamlings möten när vi diskuterar
+
+839
+01:09:40,479 --> 01:09:44,575
+Kanske en Eller ville du skulle behöva någonting efter sommaren
+
+840
+01:09:48,671 --> 01:09:49,951
+Kan man få a-kassa
+
+841
+01:09:52,767 --> 01:09:58,911
+Bengt du kommer med bra förslag också att nyhetsbrev skulle kunna vara bra
+
+842
+01:09:59,167 --> 01:10:01,471
+Diskussionsforum att man faktiskt
+
+843
+01:10:01,727 --> 01:10:05,055
+Får någon form av signal på att det ligger information där
+
+844
+01:10:06,335 --> 01:10:08,383
+Det finns ett intresse att man går dit
+
+845
+01:10:08,895 --> 01:10:10,175
+Absolut
+
+846
+01:10:12,223 --> 01:10:18,367
+Sänder inte så jättemånga kvar när kommer jag ställa till fler men hur har ni som har 13 person
+
+847
+01:10:18,623 --> 01:10:24,767
+Som finns där Hur har ni hittat i not överhuvudtaget Vi är vid rekommendation eller ett mejl
+
+848
+01:10:25,023 --> 01:10:30,143
+LinkedIn är det Open guide på Facebook eller via internet
+
+849
+01:10:31,423 --> 01:10:32,959
+Skriv gärna i chatten
+
+850
+01:10:39,871 --> 01:10:42,943
+Kul att se att någon kanal funkar inte in funkar alltså
+
+851
+01:10:45,247 --> 01:10:46,271
+Rekommendation
+
+852
+01:10:53,439 --> 01:10:54,719
+Kanske det kommer fler
+
+853
+01:10:54,975 --> 01:10:57,279
+Massor med ställen
+
+854
+01:10:58,559 --> 01:10:59,071
+Toppen
+
+855
+01:11:00,863 --> 01:11:07,007
+Hur får jag bort det här det är roligt att det har varit mycket via rekommendation kul att se att det funkar också via
+
+856
+01:11:07,263 --> 01:11:11,359
+Och andra sociala medier fortsätter med dom kanalerna
+
+857
+01:11:13,407 --> 01:11:16,479
+Det var lite nya ansikten idag tyckte jag var roligt
+
+858
+01:11:17,503 --> 01:11:19,807
+Hoppas att vi ses igen som
+
+859
+01:11:20,063 --> 01:11:22,879
+Om ett par veckor den 1 februari
+
+860
+01:11:23,135 --> 01:11:29,279
+Då pratar vi om bland annat öppna data men öppenhet liv
+
+861
+01:11:29,535 --> 01:11:31,071
+Open the Spider V
+
+862
+01:11:32,095 --> 01:11:36,703
+Med SVT och Sundsvalls kommun och det på en timme
+
+863
+01:11:38,751 --> 01:11:39,775
+Tack så mycket
+
+864
+01:11:40,031 --> 01:11:42,847
+Ha ett fortsatt bra år

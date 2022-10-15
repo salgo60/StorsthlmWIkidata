@@ -1,0 +1,3715 @@
+1
+00:00:10,752 --> 00:00:11,520
+Sätt igång
+
+2
+00:00:11,776 --> 00:00:13,056
+Hej allesammans
+
+3
+00:00:14,592 --> 00:00:17,152
+Välkomna till nozad Netto
+
+4
+00:00:17,408 --> 00:00:18,944
+Open source and data
+
+5
+00:00:19,712 --> 00:00:25,856
+Det är ett nätverk för er som vill lära dig mer om öppna data öppen källkod
+
+6
+00:00:26,368 --> 00:00:28,672
+Öppna standarder och så
+
+7
+00:00:28,928 --> 00:00:30,464
+Fler som vill vara med och
+
+8
+00:00:30,720 --> 00:00:32,000
+Veckla på
+
+9
+00:00:33,280 --> 00:00:34,048
+Porsche
+
+10
+00:00:34,304 --> 00:00:35,328
+Data
+
+11
+00:00:36,096 --> 00:00:39,424
+Och vi har digitala workshops precis som är en gång i månad
+
+12
+00:00:39,680 --> 00:00:41,216
+Det finns på
+
+13
+00:00:41,472 --> 00:00:43,520
+Sveriges dataportal kommun
+
+14
+00:00:43,776 --> 00:00:44,544
+Forum
+
+15
+00:00:45,568 --> 00:00:50,176
+Vi har en sida där i bilar material
+
+16
+00:00:50,432 --> 00:00:52,992
+Är och Vi samlar också in
+
+17
+00:00:53,760 --> 00:00:56,064
+Det vi kallar för offentlig koden det vill säga
+
+18
+00:00:56,576 --> 00:00:57,088
+De
+
+19
+00:00:57,344 --> 00:00:59,904
+Öppna programvaror som ni använder
+
+20
+00:01:00,672 --> 00:01:06,048
+Så jättegärna in på 50 klart.se och fyll på listan så hjälper vi varann
+
+21
+00:01:08,096 --> 00:01:11,680
+Idag skulle prata om hälsa och säkerhet
+
+22
+00:01:11,936 --> 00:01:14,496
+Vad är programvara
+
+23
+00:01:18,336 --> 00:01:24,480
+Just nu så är det ju väldigt viktigt att fundera just säkerhetsfrågor vi vet ju att det senare tid
+
+24
+00:01:24,736 --> 00:01:27,808
+Exempel på sårbarheter i olika system
+
+25
+00:01:28,320 --> 00:01:30,368
+I somras Så hade vi
+
+26
+00:01:30,624 --> 00:01:32,416
+Incidenten när
+
+27
+00:01:32,672 --> 00:01:34,464
+Koppla ner dig tre dygn
+
+28
+00:01:34,976 --> 00:01:37,024
+Ingen av er som vanligt
+
+29
+00:01:37,280 --> 00:01:38,560
+Lag för dig
+
+30
+00:01:39,328 --> 00:01:40,352
+Det finns
+
+31
+00:01:40,608 --> 00:01:46,240
+Ett behov att fundera på att när vi bygger programvara Vad är det Vi måste tänka på
+
+32
+00:01:46,496 --> 00:01:47,264
+Idag får vi
+
+33
+00:01:47,520 --> 00:01:49,568
+Både från Martin
+
+34
+00:01:49,824 --> 00:01:51,360
+Som är forskare
+
+35
+00:01:51,616 --> 00:01:52,640
+På Lunds universitet
+
+36
+00:01:53,152 --> 00:01:54,176
+Men som
+
+37
+00:01:54,688 --> 00:01:56,480
+Dag är den 4 bäst
+
+38
+00:01:56,736 --> 00:01:57,760
+Är tjänstledig
+
+39
+00:01:58,272 --> 00:02:03,392
+Han kommer berätta om tekniker och processer för att undvika specially attacker
+
+40
+00:02:03,904 --> 00:02:08,000
+Och sen så har vi en lindåker från rice som kommer
+
+41
+00:02:08,256 --> 00:02:11,584
+Prata om tro aktiv riskhantering för sårbarheter
+
+42
+00:02:13,120 --> 00:02:15,680
+Och det handlar väldigt mycket om
+
+43
+00:02:16,704 --> 00:02:18,240
+Community Health
+
+44
+00:02:19,008 --> 00:02:22,848
+Och sen efteråt så kan vi prata och diskutera och reflektera
+
+45
+00:02:23,104 --> 00:02:25,664
+Den här workshopen är det är dels en
+
+46
+00:02:25,920 --> 00:02:28,992
+Aspekt att du ska förstå vad som vi behöver
+
+47
+00:02:29,248 --> 00:02:29,760
+7
+
+48
+00:02:30,272 --> 00:02:36,416
+Men också att vi tillsammans kan komma fram till Vad är det som vi skulle kunna hjälpa varandra med tvätten
+
+49
+00:02:36,672 --> 00:02:38,720
+Tycker det när du borde det anskaffa
+
+50
+00:02:42,816 --> 00:02:45,376
+Och med de orden så lämnar jag över till Mac
+
+51
+00:02:47,680 --> 00:02:48,192
+Tack
+
+52
+00:03:02,016 --> 00:03:03,296
+Jag är en
+
+53
+00:03:04,064 --> 00:03:06,368
+Tack för informationen
+
+54
+00:03:07,136 --> 00:03:10,464
+Som som vad jag ska prata inom supply chain attack
+
+55
+00:03:10,720 --> 00:03:15,840
+I början ungefär 20 minuter Jag valde att byta lite titeln prenumererade nu
+
+56
+00:03:17,888 --> 00:03:19,680
+Tanken bakom titeln ändå
+
+57
+00:03:26,592 --> 00:03:27,104
+Så
+
+58
+00:03:27,872 --> 00:03:32,224
+Definiera tacos
+
+59
+00:03:32,480 --> 00:03:37,088
+Effekten står genom att det är en kombination av
+
+60
+00:03:37,344 --> 00:03:40,928
+Eller flera taco damen attackerar både leverantörer
+
+61
+00:03:42,208 --> 00:03:45,280
+Du har tid
+
+62
+00:03:50,912 --> 00:03:57,056
+En viktig utmärkande är att det ger en anti aging
+
+63
+00:03:57,312 --> 00:04:01,664
+Vilket innebär det att parkera en men du får genast tag på fredag Puss
+
+64
+00:04:03,200 --> 00:04:09,344
+Och en annan utmärkande egenskap är att de ofta går förbi
+
+65
+00:04:10,112 --> 00:04:16,256
+Inte behövt aktivera själv utan du får attacken genom någon som du faktiskt har ett förtroende från början
+
+66
+00:04:17,791 --> 00:04:18,815
+Genom att
+
+67
+00:04:20,607 --> 00:04:22,143
+Från början
+
+68
+00:04:24,959 --> 00:04:26,495
+Olika kunder
+
+69
+00:04:28,287 --> 00:04:29,567
+Vanligaste
+
+70
+00:04:32,383 --> 00:04:38,015
+De här attackerna fått väldigt stort genomslag den senaste tiden Maria brinner lite på din aktionen
+
+71
+00:04:38,271 --> 00:04:40,319
+Kanske den mest kända
+
+72
+00:04:40,575 --> 00:04:46,719
+I tiden är den som december 2020
+
+73
+00:04:47,743 --> 00:04:53,119
+Ja vi hade en attack mot själva leverantören
+
+74
+00:04:53,375 --> 00:04:54,655
+Orion
+
+75
+00:04:55,679 --> 00:05:00,287
+Byggprocessen och sedan
+
+76
+00:05:00,543 --> 00:05:02,591
+Installera stavning Call Ida
+
+77
+00:05:03,103 --> 00:05:05,151
+Programvara som levererar
+
+78
+00:05:05,407 --> 00:05:09,759
+Och hundarna blir attackerad genom laddade ner den här uppdateringen på
+
+79
+00:05:10,015 --> 00:05:10,783
+Gudfar
+
+80
+00:05:11,039 --> 00:05:12,319
+Moderna bra helt program
+
+81
+00:05:12,575 --> 00:05:14,879
+Bekräfta digitala signatur
+
+82
+00:05:17,951 --> 00:05:21,791
+Praktiserade klädkod
+
+83
+00:05:24,607 --> 00:05:25,119
+Stopp
+
+84
+00:05:26,143 --> 00:05:28,447
+Av den attacken
+
+85
+00:05:28,703 --> 00:05:30,751
+18100
+
+86
+00:05:31,007 --> 00:05:32,543
+Den här uppdateringen
+
+87
+00:05:32,799 --> 00:05:35,871
+18425 avfart
+
+88
+00:05:36,127 --> 00:05:36,639
+Iphone
+
+89
+00:05:37,151 --> 00:05:38,687
+Företagens
+
+90
+00:05:42,015 --> 00:05:43,039
+En annan
+
+91
+00:05:44,319 --> 00:05:49,183
+Väsen exempel
+
+92
+00:05:49,695 --> 00:05:55,839
+Leverantören här fallet baka säga man hade stålberget Icas system som gjorde att attackera dig
+
+93
+00:05:56,095 --> 00:05:57,119
+Uppdatera mjukvara
+
+94
+00:05:57,375 --> 00:05:58,911
+Guld
+
+95
+00:05:59,423 --> 00:06:03,519
+Sedan påverkar i förlängningen
+
+96
+00:06:03,775 --> 00:06:06,335
+Kan man uppdatera mjukvaran som i sin tur innehåll
+
+97
+00:06:06,591 --> 00:06:08,383
+Innehåller
+
+98
+00:06:16,575 --> 00:06:18,111
+Fjällstigen 1
+
+99
+00:06:22,975 --> 00:06:29,119
+De här två veckorna så väldigt stort genomslag att det är kol som attackerades
+
+100
+00:06:29,375 --> 00:06:33,471
+Öppen källkod men det finns även att den här typen av attacker
+
+101
+00:06:33,727 --> 00:06:34,495
+Kälke
+
+102
+00:06:36,799 --> 00:06:37,823
+Jag ska äta middag
+
+103
+00:06:38,591 --> 00:06:44,223
+Ekosystemet för många entiteter inblandade
+
+104
+00:06:44,735 --> 00:06:46,271
+Under mellan här olika
+
+105
+00:06:47,295 --> 00:06:50,367
+Titta på de här olika lite mer detalj
+
+106
+00:06:51,647 --> 00:06:57,791
+Den första som man använder sig av för att en källkod är den formations hanteringsprogram
+
+107
+00:06:58,047 --> 00:07:01,375
+Elektrostandard
+
+108
+00:07:03,167 --> 00:07:09,311
+Youtube
+
+109
+00:07:09,567 --> 00:07:14,431
+Hantering av
+
+110
+00:07:15,967 --> 00:07:18,783
+Montering av hela källkod
+
+111
+00:07:19,295 --> 00:07:22,623
+I den här formen
+
+112
+00:07:23,391 --> 00:07:29,535
+Jag vill att du hoppar får man så har vi någon som utvecklar på något har skrivrättigheter min kalender för min TV
+
+113
+00:07:29,791 --> 00:07:31,839
+Klockan 12
+
+114
+00:07:35,167 --> 00:07:37,727
+Nu är jag även ett helt community med
+
+115
+00:07:37,983 --> 00:07:39,775
+Bidragande person
+
+116
+00:07:40,287 --> 00:07:43,359
+Som kan hjälpa till att bidra med kåt den här upp
+
+117
+00:07:43,615 --> 00:07:47,455
+Kjell coronavirus
+
+118
+00:07:49,247 --> 00:07:49,759
+Plocka in
+
+119
+00:07:55,391 --> 00:08:01,535
+En annan del av det här ekosystemet
+
+120
+00:08:03,583 --> 00:08:06,399
+Olika plattformar för olika
+
+121
+00:08:07,167 --> 00:08:09,727
+Språk
+
+122
+00:08:11,519 --> 00:08:12,543
+Avbryt musiken
+
+123
+00:08:12,799 --> 00:08:14,335
+Kan som en
+
+124
+00:08:15,359 --> 00:08:17,407
+En tillverkar havet
+
+125
+00:08:17,663 --> 00:08:22,783
+Kjell Kan man använda
+
+126
+00:08:23,295 --> 00:08:26,623
+Den här koden som biblioteken och beroende
+
+127
+00:08:37,887 --> 00:08:43,519
+När vi bygger själva mjukvaran Så plockar vi ner koden från återfinns hanteringssystem
+
+128
+00:08:45,055 --> 00:08:47,871
+Och även om vi behöver
+
+129
+00:08:48,127 --> 00:08:50,687
+Paket
+
+130
+00:08:57,855 --> 00:08:59,647
+När man bygger om
+
+131
+00:09:02,463 --> 00:09:05,535
+Plattformen
+
+132
+00:09:10,655 --> 00:09:16,799
+Systemets olika delar
+
+133
+00:09:17,055 --> 00:09:18,335
+Tack så mycket
+
+134
+00:09:20,895 --> 00:09:22,431
+Tidigare i historien
+
+135
+00:09:22,687 --> 00:09:27,295
+Varför existerar så det bidraget 1990 kan rapportera
+
+136
+00:09:27,551 --> 00:09:31,903
+Genom att manipulera
+
+137
+00:09:34,975 --> 00:09:37,791
+Arvika exempel från 2021
+
+138
+00:09:38,303 --> 00:09:41,375
+Där forskare från University of Minnesota
+
+139
+00:09:41,631 --> 00:09:47,775
+Testade i princip deras det var stängt för att testa om det här fungerar med kod till lilla stjärna
+
+140
+00:09:51,871 --> 00:09:52,383
+Och
+
+141
+00:09:52,639 --> 00:09:55,711
+Detta var inte så populärt
+
+142
+00:10:05,439 --> 00:10:07,487
+Publicitet för University Minnesota
+
+143
+00:10:12,095 --> 00:10:17,215
+Vi kan göra precis samma sak och ser detta som att den ena skulle göra detta istället utomhusantenn
+
+144
+00:10:17,471 --> 00:10:20,799
+Systemet
+
+145
+00:10:24,383 --> 00:10:27,199
+Syfte med koden
+
+146
+00:10:27,711 --> 00:10:33,599
+Som kan också studera skadekoder här systemet exempel här i den stil 2018
+
+147
+00:10:33,855 --> 00:10:37,695
+Jag hade en person som erbjöd sig att hjälpa till att utveckla den här
+
+148
+00:10:37,951 --> 00:10:39,743
+Mjukvaran och fick direkt
+
+149
+00:10:41,279 --> 00:10:43,071
+Inkluderad sms-parkering
+
+150
+00:10:48,191 --> 00:10:49,983
+En annan variant
+
+151
+00:10:50,495 --> 00:10:56,639
+Kom över inloggningsuppgifter för en användare som redan har skrivit
+
+152
+00:10:56,895 --> 00:10:59,711
+Är 2018
+
+153
+00:11:00,223 --> 00:11:02,783
+Home Group
+
+154
+00:11:03,039 --> 00:11:04,575
+Där någon av misstag
+
+155
+00:11:04,831 --> 00:11:10,463
+Släcka inloggningen
+
+156
+00:11:12,767 --> 00:11:15,839
+Stämpel här i Lindqvist
+
+157
+00:11:16,095 --> 00:11:19,679
+2018 Nicolaus gissa på lösenord
+
+158
+00:11:19,935 --> 00:11:24,799
+Över Växjö
+
+159
+00:11:29,151 --> 00:11:32,991
+En annan variant här är i Byggsystem
+
+160
+00:11:33,247 --> 00:11:36,063
+Systemet så hämta bli systemet nu
+
+161
+00:11:38,623 --> 00:11:42,207
+En attack Här kommer 2014 som jag har upptäckt
+
+162
+00:11:42,463 --> 00:11:47,071
+Var är 4 kanal mellan Byggsystem AB
+
+163
+00:11:47,327 --> 00:11:49,887
+Så kan vi ersätta dem med laddare paket
+
+164
+00:11:50,143 --> 00:11:51,423
+Trasiga paket
+
+165
+00:11:52,703 --> 00:11:58,847
+2014 upptäckte man att detta möjligt i mitten sen försvann det för att ladda ner
+
+166
+00:12:02,175 --> 00:12:08,319
+Och du visslar
+
+167
+00:12:08,575 --> 00:12:10,623
+Och alla andra tvingades använda det
+
+168
+00:12:14,975 --> 00:12:20,863
+En annan attack symptom 2020 etiketter genomslag i början förra året
+
+169
+00:12:21,119 --> 00:12:26,495
+Confusion
+
+170
+00:12:26,751 --> 00:12:30,079
+Insert fungerar inte
+
+171
+00:12:30,847 --> 00:12:36,991
+I den här är att lura Byggsystem att hämta paket från inspektionen istället
+
+172
+00:12:39,039 --> 00:12:40,831
+Tack
+
+173
+00:12:41,855 --> 00:12:47,999
+Paket namn som man antingen visste eller gissade att ett företag använder internet och så där
+
+174
+00:12:49,279 --> 00:12:51,327
+Exakt samma namn
+
+175
+00:12:51,839 --> 00:12:52,351
+Och
+
+176
+00:12:52,607 --> 00:12:56,191
+Byggsystem ett dolda konfigureras så att det först
+
+177
+00:12:56,703 --> 00:13:00,799
+Hämta lunch Trollhättan
+
+178
+00:13:01,055 --> 00:13:02,847
+Nästa Kvarn istället för att använda
+
+179
+00:13:03,103 --> 00:13:05,151
+Ackuratess
+
+180
+00:13:06,943 --> 00:13:09,759
+Stora företag
+
+181
+00:13:10,015 --> 00:13:10,783
+Problemet
+
+182
+00:13:16,415 --> 00:13:21,023
+En annan variant mot distributions plattformen här liknande som visar
+
+183
+00:13:21,279 --> 00:13:24,351
+Tidigare den som är fina som har möjlighet att ladda
+
+184
+00:13:24,607 --> 00:13:26,143
+Kör till Visby första två män
+
+185
+00:13:26,399 --> 00:13:29,727
+De har också ansvar för sina konto och komma ner vinden
+
+186
+00:13:29,983 --> 00:13:30,751
+Inloggning
+
+187
+00:13:33,055 --> 00:13:35,103
+Ersätta plattform
+
+188
+00:13:40,735 --> 00:13:45,087
+Ett litet exempel här 2017 nog bara testade så det är ingen
+
+189
+00:13:47,135 --> 00:13:49,695
+Tony tanken med de här utan stavar testar
+
+190
+00:13:49,951 --> 00:13:55,327
+Hur mycket kan man komma över dem testa att gifta lösenord för olika inloggningar
+
+191
+00:13:56,863 --> 00:13:59,935
+Och även tittade på detta möte då sätter jag in dem
+
+192
+00:14:00,191 --> 00:14:06,079
+Har den här personen upptäckte att han fick Access direkt till 14 % av alla paket på en PM
+
+193
+00:14:06,335 --> 00:14:11,199
+Z intransitiva det indirekta förtroende så vi kan kolla på 54
+
+194
+00:14:12,991 --> 00:14:15,551
+Ekosystemet var en PMU i Sverige
+
+195
+00:14:17,087 --> 00:14:21,439
+Eslöv 2018 hitta
+
+196
+00:14:22,975 --> 00:14:26,559
+Ett lösenord från en annan tjänst
+
+197
+00:14:26,815 --> 00:14:31,679
+Något används även på n52 motor
+
+198
+00:14:35,519 --> 00:14:39,103
+Klippning exempel
+
+199
+00:14:39,871 --> 00:14:45,247
+En som man laddar upp Star FM
+
+200
+00:14:49,343 --> 00:14:55,487
+En variant av detta som också har varit och hämtat barnen
+
+201
+00:14:55,743 --> 00:14:58,815
+Det innebär att man skapar nya
+
+202
+00:14:59,071 --> 00:15:00,863
+Liknande namn
+
+203
+00:15:01,119 --> 00:15:02,399
+De paketen som
+
+204
+00:15:02,655 --> 00:15:03,423
+Vanliga
+
+205
+00:15:05,983 --> 00:15:12,127
+Exempel från 2017 identifierades
+
+206
+00:15:12,383 --> 00:15:14,943
+Paket som hade ganska liknande
+
+207
+00:15:15,199 --> 00:15:16,223
+En annan paket
+
+208
+00:15:16,479 --> 00:15:20,063
+Och ett annat idag men hittade 38 paket från npn
+
+209
+00:15:20,319 --> 00:15:22,111
+Och så är det väldigt liknande
+
+210
+00:15:22,367 --> 00:15:27,487
+Vanliga paket och hoppades att någon skulle antingen höra fel eller skriva
+
+211
+00:15:27,743 --> 00:15:28,767
+Klockan 9
+
+212
+00:15:30,047 --> 00:15:30,559
+Istället
+
+213
+00:15:30,815 --> 00:15:32,095
+Vanliga paket
+
+214
+00:15:36,447 --> 00:15:42,591
+Behöver ganska negativt för open source ekosystemet
+
+215
+00:15:45,151 --> 00:15:48,735
+De attackerna som har sett de senaste åren har faktiskt
+
+216
+00:15:49,247 --> 00:15:50,527
+Mycket bättre
+
+217
+00:15:51,039 --> 00:15:54,367
+En som är supplier det här fallet den här fallet i den
+
+218
+00:16:06,399 --> 00:16:09,471
+Tvåfaktorsautentisering och det finns också
+
+219
+00:16:09,727 --> 00:16:12,799
+Sätt kanal 8 alla inte bakifrån
+
+220
+00:16:13,311 --> 00:16:14,335
+Betala pengar
+
+221
+00:16:14,847 --> 00:16:17,407
+Säkerheten har blivit klagat från senaste år
+
+222
+00:16:18,943 --> 00:16:20,735
+Berätta ett skämt
+
+223
+00:16:22,783 --> 00:16:25,343
+För den som är
+
+224
+00:16:25,599 --> 00:16:27,135
+Kung i det här fallet Håkan
+
+225
+00:16:29,439 --> 00:16:34,559
+Nyttja det förtroendet som den som är kung
+
+226
+00:16:34,815 --> 00:16:36,863
+Leverantören
+
+227
+00:16:37,119 --> 00:16:39,167
+Vilket innebär att det är svårt att hitta någon
+
+228
+00:16:39,423 --> 00:16:45,567
+Magisk silverbullet hass.io kan lösa de här problemen kan titta på
+
+229
+00:16:46,847 --> 00:16:47,359
+Ja
+
+230
+00:16:52,223 --> 00:16:58,367
+En sak som är viktig är att få bättre förståelse för vad det faktiskt är som det är
+
+231
+00:16:58,623 --> 00:17:03,743
+När får de här fallet vad är det
+
+232
+00:17:05,023 --> 00:17:07,327
+Vi använder när du tvättar
+
+233
+00:17:08,351 --> 00:17:14,495
+En sak som har fått ganska stort uppsving den senaste tiden här är det som kallas den största bilen
+
+234
+00:17:16,031 --> 00:17:16,799
+Som är
+
+235
+00:17:17,055 --> 00:17:23,199
+Lista alla open-source komponent på som man har i sig
+
+236
+00:17:26,783 --> 00:17:30,367
+Klocka till
+
+237
+00:17:30,623 --> 00:17:31,391
+Espanha
+
+238
+00:17:31,903 --> 00:17:35,487
+Och den här transparensen och man tvingas skickat med nspawn
+
+239
+00:17:35,743 --> 00:17:39,839
+Ring Jesper
+
+240
+00:17:40,863 --> 00:17:46,751
+Bränderna i sim-kort
+
+241
+00:17:47,007 --> 00:17:48,287
+Installera
+
+242
+00:17:48,543 --> 00:17:49,823
+Kjell Karlsson
+
+243
+00:17:50,079 --> 00:17:54,687
+Uppdatera den senaste versionen vi ska ha Kjell Karlsson arabiska
+
+244
+00:17:54,943 --> 00:17:55,967
+Avsluta
+
+245
+00:17:56,223 --> 00:17:58,271
+Att
+
+246
+00:17:59,295 --> 00:18:05,439
+Två stycken huvud program på hammarbyare respons som är båda två ganska stora idag men
+
+247
+00:18:06,463 --> 00:18:07,743
+Standardform
+
+248
+00:18:07,999 --> 00:18:10,559
+Leksaksfabriken
+
+249
+00:18:13,375 --> 00:18:17,983
+Och från kundens synvinkel som stavas med respons förutsättningar
+
+250
+00:18:21,311 --> 00:18:27,455
+Och hälsa
+
+251
+00:18:29,503 --> 00:18:30,015
+Johan
+
+252
+00:18:32,575 --> 00:18:33,599
+Berätta
+
+253
+00:18:35,391 --> 00:18:35,903
+Bridge
+
+254
+00:18:38,975 --> 00:18:42,303
+En annan sak man kan använda för att tvätta i automat
+
+255
+00:18:42,559 --> 00:18:45,375
+Flyg vilket innebär att vi kan minimera kom
+
+256
+00:18:45,631 --> 00:18:46,399
+Tjänsterna
+
+257
+00:18:46,655 --> 00:18:49,471
+För de här tack ändå skulle ske så här
+
+258
+00:18:49,727 --> 00:18:53,055
+Vi skulle ladda ner en ska leva Känner du Klara
+
+259
+00:18:53,311 --> 00:18:57,151
+Så kan det vara så att de upptäckte att den uppdaterade versionen
+
+260
+00:19:02,783 --> 00:19:04,319
+Skulle kunna
+
+261
+00:19:04,575 --> 00:19:09,695
+Uppdatera versionen blir bara redan innan jag faktiskt
+
+262
+00:19:11,231 --> 00:19:13,279
+Göra detta i den del av Jessica
+
+263
+00:19:16,607 --> 00:19:20,703
+Identifiera sårbara komponenter
+
+264
+00:19:21,727 --> 00:19:25,567
+Transparent
+
+265
+00:19:29,151 --> 00:19:31,711
+En tredje sak
+
+266
+00:19:31,967 --> 00:19:33,247
+Noterat
+
+267
+00:19:33,503 --> 00:19:34,783
+Kunden faktiskt
+
+268
+00:19:35,551 --> 00:19:37,855
+Man utnyttjar att kunden har förtroende
+
+269
+00:19:38,111 --> 00:19:43,743
+Den här om detta förtroende så mycket som möjligt
+
+270
+00:19:48,095 --> 00:19:52,191
+En paradigm som har växt fram och som den egentligen inte särskilt dyr
+
+271
+00:19:52,447 --> 00:19:55,263
+De senaste åren de bästa
+
+272
+00:19:56,799 --> 00:19:59,871
+Detta är en test
+
+273
+00:20:00,127 --> 00:20:02,687
+Thank you
+
+274
+00:20:02,943 --> 00:20:07,807
+Tjenare alla användare alla enheter Eskil hela tiden och staten intressera
+
+275
+00:20:14,207 --> 00:20:18,815
+Beroende på vilken parameter man sitter innan eller utom
+
+276
+00:20:19,327 --> 00:20:20,607
+Automat
+
+277
+00:20:28,799 --> 00:20:34,943
+Avslutningsvis kan jag titta på två stycken eller två stycken framväxande teknik
+
+278
+00:20:35,199 --> 00:20:36,223
+Man kan använda
+
+279
+00:20:36,735 --> 00:20:42,879
+Får jag också Fridas Hemnet den här typen av attacker i en som heter Google eller
+
+280
+00:20:43,135 --> 00:20:48,511
+Nästa inte bara Google då jag med bara Google sluta
+
+281
+00:20:51,583 --> 00:20:56,447
+Jag vill titta på förkortning
+
+282
+00:20:57,471 --> 00:21:00,287
+Tanken här är att skydda
+
+283
+00:21:02,847 --> 00:21:08,479
+Och målet med detta är att du ska säga engelska
+
+284
+00:21:10,015 --> 00:21:14,879
+Viktigheten i byggprocessen
+
+285
+00:21:16,672 --> 00:21:22,816
+Inte detta så finns det ett antal olika nivåer för skyltar
+
+286
+00:21:23,072 --> 00:21:27,424
+Beskriv vad du behöver göra
+
+287
+00:21:28,960 --> 00:21:30,752
+Öka sin nivå
+
+288
+00:21:31,008 --> 00:21:36,384
+Företagaregatan 4
+
+289
+00:21:37,408 --> 00:21:41,760
+Notera i den här är resultaten fokuserat
+
+290
+00:21:42,528 --> 00:21:46,368
+En kod är inte här
+
+291
+00:21:46,624 --> 00:21:47,136
+Till
+
+292
+00:21:47,392 --> 00:21:51,744
+Dina specifika personer som använder Så han har mannen
+
+293
+00:21:52,256 --> 00:21:54,816
+Man måste skrapa
+
+294
+00:21:55,328 --> 00:21:56,864
+Fotgående
+
+295
+00:21:57,120 --> 00:22:00,192
+För de komponenterna som använder
+
+296
+00:22:00,448 --> 00:22:03,776
+Alaska
+
+297
+00:22:08,896 --> 00:22:09,920
+Och slutligen
+
+298
+00:22:10,176 --> 00:22:11,456
+En annan
+
+299
+00:22:11,712 --> 00:22:16,064
+Alexander teknologies have Edison
+
+300
+00:22:16,320 --> 00:22:18,368
+Lanseras som kallas 45
+
+301
+00:22:18,624 --> 00:22:24,256
+Vem är egentligen van berkel och man kan också Starta smart teknik
+
+302
+00:22:24,512 --> 00:22:27,584
+Som man kan använda för att fylla i middag tacos och vad de gör
+
+303
+00:22:27,840 --> 00:22:31,680
+Kategorisera olika typer av tjänster jämför
+
+304
+00:22:31,936 --> 00:22:33,472
+Med vilka
+
+305
+00:22:37,056 --> 00:22:40,640
+Pågående
+
+306
+00:22:41,152 --> 00:22:42,944
+Som heter attack
+
+307
+00:22:43,968 --> 00:22:50,112
+Kategorisera på svåra att attackera
+
+308
+00:22:50,368 --> 00:22:53,440
+Kex nya Instagram till fjäderfä
+
+309
+00:22:53,696 --> 00:22:54,976
+Aktiviteten
+
+310
+00:22:55,232 --> 00:22:59,584
+I Slate
+
+311
+00:23:01,120 --> 00:23:06,752
+Logga in
+
+312
+00:23:09,056 --> 00:23:12,128
+Vilken partiledare har vattenmelon eller på hans
+
+313
+00:23:20,064 --> 00:23:21,088
+Avslutningsvis
+
+314
+00:23:22,112 --> 00:23:28,256
+Det har jag sagt här bygger på en serie av Blockbuster som har tillräckligt för att läsa dem
+
+315
+00:23:28,768 --> 00:23:32,096
+Det finns även att rekommendationen Francis avgifter
+
+316
+00:23:35,680 --> 00:23:41,824
+Länka det här finns en analys av Lisa som är den 18 eller säger så
+
+317
+00:23:54,368 --> 00:23:55,648
+Titta lite
+
+318
+00:24:05,632 --> 00:24:07,168
+Tack så jättemycket Martin
+
+319
+00:24:08,704 --> 00:24:13,056
+Jag började fundera på någonting Ja så är det ju pratar ju väldigt mycket om att vi ska
+
+320
+00:24:13,312 --> 00:24:14,592
+Främja
+
+321
+00:24:14,848 --> 00:24:16,640
+Sam utveckling
+
+322
+00:24:16,896 --> 00:24:22,784
+Innovationer vid delad etta data meddelar öppen källkod
+
+323
+00:24:23,296 --> 00:24:25,600
+Vi vill börja samarbeta mer
+
+324
+00:24:25,856 --> 00:24:27,904
+Är du som har förstått det här område
+
+325
+00:24:30,208 --> 00:24:36,352
+Är det för att mogna för att klara av samarbeten idag eller tycker du att jag har förutsättningar för
+
+326
+00:24:36,608 --> 00:24:37,120
+Godnatt
+
+327
+00:24:37,376 --> 00:24:38,144
+Öka
+
+328
+00:24:38,400 --> 00:24:40,192
+Beteckning inom offentlig sektor
+
+329
+00:24:43,264 --> 00:24:47,104
+Jag tycker att det är mycket bra de senaste åren
+
+330
+00:24:47,360 --> 00:24:53,504
+Tillbaka 10 också tycker väldigt mycket om du ganska mycket
+
+331
+00:24:58,368 --> 00:25:02,208
+Dag nästan exploderar på den senaste fem år
+
+332
+00:25:03,232 --> 00:25:08,352
+Borde jag använda från företagens sida men inställningen till
+
+333
+00:25:09,376 --> 00:25:10,912
+Företagens tiderna
+
+334
+00:25:14,752 --> 00:25:16,032
+Återhållsam
+
+335
+00:25:18,336 --> 00:25:22,432
+Väldigt mycket mer som en styrka än vi
+
+336
+00:25:23,456 --> 00:25:26,784
+Och det är någonting som jag ska komma fortsätt
+
+337
+00:25:27,296 --> 00:25:31,648
+Fortfarande
+
+338
+00:25:31,904 --> 00:25:33,696
+Center
+
+339
+00:25:33,952 --> 00:25:39,840
+Men såklart
+
+340
+00:25:43,168 --> 00:25:46,752
+De som attackerar inte dumma de attackera idag
+
+341
+00:25:47,776 --> 00:25:49,056
+Kan bli attackerad
+
+342
+00:25:50,080 --> 00:25:54,176
+Är du hemma Tänkte vi måste leva någonting som jag tror det är ganska bra
+
+343
+00:25:56,992 --> 00:26:02,880
+Hälla Super säkert hela försvarsmekanismerna för sydöstra Lund
+
+344
+00:26:03,136 --> 00:26:04,416
+Senaste åren
+
+345
+00:26:04,672 --> 00:26:10,816
+Om du skulle ha lite lite efter i evolutionen och Jakob
+
+346
+00:26:11,840 --> 00:26:14,912
+Har jag något alarm
+
+347
+00:26:15,168 --> 00:26:16,192
+Teknik
+
+348
+00:26:19,776 --> 00:26:24,384
+Lika utsatt som annan
+
+349
+00:26:25,152 --> 00:26:27,712
+Program
+
+350
+00:26:31,040 --> 00:26:31,808
+Tack
+
+351
+00:26:32,320 --> 00:26:38,464
+Johan du ställde också en fråga i chatten jobbade vacker Vill du ställa ändra
+
+352
+00:26:38,720 --> 00:26:39,232
+Martin
+
+353
+00:26:41,280 --> 00:26:43,584
+Jag vill koppla lite till
+
+354
+00:26:43,840 --> 00:26:46,656
+Är du nära beslutet Jag har läst av att be dem
+
+355
+00:26:47,168 --> 00:26:51,776
+Om signerade och åter reproducerbara byggen av programvara
+
+356
+00:26:52,032 --> 00:26:53,824
+Ska kunna se vem vart det kommer från
+
+357
+00:26:54,336 --> 00:26:59,200
+Hitta någons Messenger kommer BankID motsvarande att kunna producera den
+
+358
+00:26:59,456 --> 00:27:01,248
+Hur utvärderar den
+
+359
+00:27:01,504 --> 00:27:02,272
+Någonting som du sa
+
+360
+00:27:02,528 --> 00:27:03,040
+Kommer fram
+
+361
+00:27:05,600 --> 00:27:06,880
+Ja absolut
+
+362
+00:27:08,672 --> 00:27:14,816
+Högre nivå
+
+363
+00:27:16,096 --> 00:27:18,656
+Där man vill ha den här typen av kol som är faktiska
+
+364
+00:27:19,168 --> 00:27:21,216
+Reproducera
+
+365
+00:27:23,264 --> 00:27:28,384
+Sluta
+
+366
+00:27:30,176 --> 00:27:33,760
+Skapa förutsättningar för att skydda integritet
+
+367
+00:27:35,296 --> 00:27:38,112
+Stäng av det hela det här med signerad kde
+
+368
+00:27:39,392 --> 00:27:45,536
+Det är väldigt bra tanke men
+
+369
+00:27:45,792 --> 00:27:48,608
+Infrastrukturen bakom detta
+
+370
+00:27:49,120 --> 00:27:54,240
+Repetera signaturen aldrig garantera säkerheten för de privata nycklarna som används för att signera
+
+371
+00:27:54,752 --> 00:27:56,032
+Systemet
+
+372
+00:27:58,080 --> 00:27:58,592
+Finns
+
+373
+00:28:08,832 --> 00:28:11,648
+Tack jag ser att det är Björn ställ en fråga
+
+374
+00:28:11,904 --> 00:28:13,952
+Tror egentligen att hennes tänder
+
+375
+00:28:14,464 --> 00:28:20,096
+Ut och det finns de framtagna rekommenderade krav upphandling av efterkälken
+
+376
+00:28:22,656 --> 00:28:28,288
+Det var ställt till Martin om den inte är det så kan vi passa på att besvara den
+
+377
+00:28:30,336 --> 00:28:35,456
+Jag vill svara chatta
+
+378
+00:28:35,712 --> 00:28:40,576
+Skallkrav i våra dokument i alla sporter som
+
+379
+00:28:41,088 --> 00:28:43,648
+Men sen du såg ut i alla fall tidningen Kaleva
+
+380
+00:28:43,904 --> 00:28:45,440
+Men
+
+381
+00:28:45,952 --> 00:28:47,744
+Vi jobbar med skyddsvärda objekt
+
+382
+00:28:49,792 --> 00:28:55,936
+Frågan är om det finns såna som andra kan använda fick nästan publicerad någonstans för det här är ju saker som man behöver samverka med
+
+383
+00:28:56,192 --> 00:28:58,752
+Men ingen lyckas riktigt bra
+
+384
+00:29:00,288 --> 00:29:03,104
+Kammarkollegiet har ju bilagor för
+
+385
+00:29:03,360 --> 00:29:04,128
+Det här
+
+386
+00:29:05,664 --> 00:29:07,200
+Ligger under programvara tjänst
+
+387
+00:29:07,712 --> 00:29:09,760
+Sandelin
+
+388
+00:29:10,528 --> 00:29:14,368
+Arman borghem tror att de kan vara värda att kolla på
+
+389
+00:29:14,624 --> 00:29:16,928
+Det finns inga direkta motsvarande
+
+390
+00:29:17,184 --> 00:29:17,696
+Som de
+
+391
+00:29:18,464 --> 00:29:23,840
+Rekommendationer samediggi think öppenhet
+
+392
+00:29:24,096 --> 00:29:25,888
+Att du inte hade rostat
+
+393
+00:29:26,656 --> 00:29:31,008
+Så att man kommer gå vidare att utveckla rekommendationer för upptagning
+
+394
+00:29:31,520 --> 00:29:35,872
+Annars kan vi titta på exempelvis Italien har jag arbetat fram rekommendationer och riktlinjer för
+
+395
+00:29:36,384 --> 00:29:40,736
+Anskaffning och Förvaltning av vatten brukar vara när man kan titta på
+
+396
+00:29:40,992 --> 00:29:42,272
+Likadant
+
+397
+00:29:44,576 --> 00:29:49,440
+Alltså jag vet också att man arbetar inom inom eu-kommissionen att ta fram riktlinjer
+
+398
+00:29:49,696 --> 00:29:51,488
+De kommer från olika
+
+399
+00:29:52,256 --> 00:29:55,584
+Det skulle kunna vara framsidan rosa träffen och handlar om en källkod
+
+400
+00:29:55,840 --> 00:29:56,608
+Kramfors
+
+401
+00:29:58,400 --> 00:29:59,168
+Absolut
+
+402
+00:29:59,680 --> 00:30:02,752
+Och det kan också vara någonting som vi kan titta på att
+
+403
+00:30:03,008 --> 00:30:04,288
+Ta fram till samma
+
+404
+00:30:04,544 --> 00:30:08,896
+Antingen inom doxad eller den digitala arenan Eller vad vill du bli kallad
+
+405
+00:30:09,152 --> 00:30:10,688
+Den typen av samarbeten vi har
+
+406
+00:30:10,944 --> 00:30:15,552
+Varför är det några möten och tagit fram bra Kram Anna Du kan börja använda det
+
+407
+00:30:17,344 --> 00:30:18,112
+Jobbar du med
+
+408
+00:30:20,160 --> 00:30:25,536
+Nu låter jag Johan Linåker prata om hur man kan jobba för
+
+409
+00:30:25,792 --> 00:30:27,072
+Känna sig trygga
+
+410
+00:30:30,656 --> 00:30:31,168
+Yes
+
+411
+00:30:43,712 --> 00:30:45,248
+Museum i Kalmar
+
+412
+00:30:49,344 --> 00:30:50,112
+Ja
+
+413
+00:30:50,368 --> 00:30:51,136
+Ja
+
+414
+00:30:52,160 --> 00:30:58,304
+Johan Åkesson sagt det forskare på Rise med SVT2
+
+415
+00:30:58,560 --> 00:31:03,168
+Tänkte prata lite om de kallar proaktivt riskhantering och de bygger mycket vidare på det
+
+416
+00:31:03,424 --> 00:31:04,448
+Martin pratar mina
+
+417
+00:31:04,960 --> 00:31:11,104
+Mer specifik om att prata om det som Hälsa hållbarhet kopplat ihop en programvara
+
+418
+00:31:11,360 --> 00:31:13,408
+Foto software
+
+419
+00:31:13,664 --> 00:31:16,480
+Vad är du kopplat till risken för sårbarheter
+
+420
+00:31:16,736 --> 00:31:21,344
+Hur man kan förbättra Hälsan genom att några andra projekt och därmed minska risken för
+
+421
+00:31:23,136 --> 00:31:24,928
+Lars säger man inte man kan
+
+422
+00:31:25,952 --> 00:31:32,096
+Att hantera det i samband med anskaffningsprocess en som kan vara aktuellt för oss
+
+423
+00:31:33,376 --> 00:31:34,400
+Vi börjar med
+
+424
+00:31:34,656 --> 00:31:36,704
+Jag kommer prata om både om Hälsa och hållbarhet
+
+425
+00:31:36,960 --> 00:31:40,288
+Hälsobegreppet man använda
+
+426
+00:31:40,800 --> 00:31:42,336
+Oblandat
+
+427
+00:31:42,592 --> 00:31:44,896
+Vad Industri
+
+428
+00:31:45,664 --> 00:31:49,760
+Navigera till hållbarheten hos upp ett program
+
+429
+00:31:50,016 --> 00:31:54,112
+Vågade inte vi de individer som utvecklar det här
+
+430
+00:31:54,368 --> 00:31:55,392
+Öppna programvara
+
+431
+00:31:55,648 --> 00:31:58,976
+Dess förmåga att göra det här långsiktigt över
+
+432
+00:31:59,744 --> 00:32:02,048
+Utan avbrott eller Samtiden
+
+433
+00:32:02,304 --> 00:32:03,840
+Hög och bibehållen kvalitet
+
+434
+00:32:06,400 --> 00:32:07,424
+Prata om Hälsa
+
+435
+00:32:09,728 --> 00:32:11,008
+Så kan man prata om
+
+436
+00:32:11,776 --> 00:32:16,384
+Öppna programvara och faktiskt förmåga så blir nice kraft
+
+437
+00:32:16,640 --> 00:32:17,152
+Över tid
+
+438
+00:32:18,176 --> 00:32:19,456
+Gatan 26
+
+439
+00:32:19,968 --> 00:32:22,784
+Aktivitet avseende utveckling och underhåll
+
+440
+00:32:23,040 --> 00:32:24,064
+Kan prata om
+
+441
+00:32:24,576 --> 00:32:28,160
+Ett projekt som några större störningar du säger
+
+442
+00:32:28,416 --> 00:32:33,280
+Micke aktörer inom projektet lämnat det är de inte finns i Mölndal beskedet att de vill
+
+443
+00:32:33,792 --> 00:32:38,912
+Sade från Vad händer då med projektet kommer att fortsätta att utvecklas kommer att fortsätta att underhålla
+
+444
+00:32:40,192 --> 00:32:43,520
+Man kan också prata om projektet öppet i förhållande till
+
+445
+00:32:43,776 --> 00:32:49,920
+Vad det finns för möjligheter för externa för användarna att komma och utöva inflytande på
+
+446
+00:32:50,176 --> 00:32:53,504
+Vilken riktning men också bidrar med mer tekniska
+
+447
+00:32:53,760 --> 00:32:54,272
+Nu ska vi se
+
+448
+00:32:56,320 --> 00:32:58,880
+Varför är viktigt ord för öppna programvara
+
+449
+00:32:59,136 --> 00:33:00,160
+Det är en
+
+450
+00:33:00,416 --> 00:33:00,928
+Central
+
+451
+00:33:03,232 --> 00:33:05,024
+Da Vivo Digital infrastruktur
+
+452
+00:33:05,536 --> 00:33:08,096
+Det finns inte säker som pekar på att du
+
+453
+00:33:08,352 --> 00:33:10,912
+90 % av
+
+454
+00:33:11,168 --> 00:33:13,472
+Att du kan vara den bästa minsta minsta
+
+455
+00:33:13,728 --> 00:33:16,288
+Om vi tittar på
+
+456
+00:33:16,544 --> 00:33:17,568
+Maxprestation
+
+457
+00:33:17,824 --> 00:33:19,616
+Kan det här vara rally
+
+458
+00:33:19,872 --> 00:33:20,384
+Bakåt
+
+459
+00:33:20,640 --> 00:33:21,920
+Iscider
+
+460
+00:33:22,432 --> 00:33:22,944
+Fredag
+
+461
+00:33:23,200 --> 00:33:24,736
+Så det är ett samtal
+
+462
+00:33:24,992 --> 00:33:27,040
+Central typ av Blocket
+
+463
+00:33:27,552 --> 00:33:33,696
+Och precis som finns i sten för Infrastruktur som vägar och broar
+
+464
+00:33:33,952 --> 00:33:34,720
+Behövs det
+
+465
+00:33:35,232 --> 00:33:35,744
+Under
+
+466
+00:33:36,000 --> 00:33:38,048
+Komponerade på måndag För att han ska få
+
+467
+00:33:38,560 --> 00:33:42,144
+Säkert Örebrobostäder skogstorpsfrissan
+
+468
+00:33:43,936 --> 00:33:45,472
+Det här är väldigt bra bild som visar
+
+469
+00:33:45,728 --> 00:33:51,872
+Gul på vår modern Infrastruktur beror på enskilda och väldigt små projekt som nästa söndag hålls av
+
+470
+00:33:52,128 --> 00:33:53,408
+En eller två person
+
+471
+00:33:53,664 --> 00:33:57,504
+Just det här exempel avser ett problem som heter girl
+
+472
+00:33:58,016 --> 00:34:03,904
+Samma funnits i cirkus 25 år som utvecklas av Danny Stenberg i Sverige
+
+473
+00:34:04,416 --> 00:34:06,464
+Väldigt väldigt utbrett över hela världen
+
+474
+00:34:10,048 --> 00:34:13,888
+Som exempel på vad som kan hända om det mellan små projekten
+
+475
+00:34:14,912 --> 00:34:21,056
+När uppstår något så börjar den här så kan du få enorma konsekvenser för allt det här som bygger på en häst
+
+476
+00:34:21,312 --> 00:34:21,824
+Blocket
+
+477
+00:34:22,336 --> 00:34:24,896
+Maria Wendel och j v
+
+478
+00:34:25,408 --> 00:34:26,176
+Alexa
+
+479
+00:34:26,432 --> 00:34:27,712
+Med Martin bror jag tänkte
+
+480
+00:34:28,992 --> 00:34:31,296
+Du kan ta det här med fart som inträffade
+
+481
+00:34:31,552 --> 00:34:35,648
+2012
+
+482
+00:34:35,904 --> 00:34:36,672
+Nästa
+
+483
+00:34:37,696 --> 00:34:40,000
+Bellestore
+
+484
+00:34:40,256 --> 00:34:42,816
+Alla världens olika grottor koppla maskin
+
+485
+00:34:43,840 --> 00:34:44,864
+2
+
+486
+00:34:45,120 --> 00:34:47,168
+Får hatt att hittas åtgärda
+
+487
+00:34:47,680 --> 00:34:49,728
+Majorna
+
+488
+00:34:49,984 --> 00:34:51,008
+Bra teckensnitt
+
+489
+00:34:51,264 --> 00:34:52,800
+Vad kan det vara idag
+
+490
+00:34:53,568 --> 00:34:54,848
+Problemet han var
+
+491
+00:34:55,104 --> 00:34:59,712
+Du har settings punkten av två personer ramlade precis av alla
+
+492
+00:34:59,968 --> 00:35:02,016
+Och väldigt få bidrag
+
+493
+00:35:02,272 --> 00:35:03,296
+Aktivera underhåll
+
+494
+00:35:05,344 --> 00:35:06,880
+Bilder på exempelvis på
+
+495
+00:35:07,136 --> 00:35:08,416
+Var lite byggblock
+
+496
+00:35:08,672 --> 00:35:09,696
+Som används av
+
+497
+00:35:10,720 --> 00:35:11,488
+Digitalis
+
+498
+00:35:11,744 --> 00:35:15,584
+Underhålls av NF 8 personer de gör oftast på
+
+499
+00:35:16,864 --> 00:35:21,216
+Ofta startar den här som ett hobbyprojekt och sedan växer och blir mer anatoli
+
+500
+00:35:21,472 --> 00:35:22,240
+Sydsim
+
+501
+00:35:22,496 --> 00:35:27,360
+Ian de andra programvaror som används som byggblock srsen byggstommar
+
+502
+00:35:27,872 --> 00:35:28,640
+Stora pyramid
+
+503
+00:35:32,224 --> 00:35:35,552
+Kan du användas som ett argument till att många se
+
+504
+00:35:35,808 --> 00:35:38,624
+En programvara som de det fulla så Vad heter
+
+505
+00:35:38,880 --> 00:35:40,672
+Inte alls är mottaglig för
+
+506
+00:35:40,928 --> 00:35:42,208
+Och det vanligt argument idag
+
+507
+00:35:42,464 --> 00:35:44,512
+Bland uppladdnings
+
+508
+00:35:45,024 --> 00:35:47,584
+Organisationer inom myndigheter
+
+509
+00:35:47,840 --> 00:35:51,424
+Lite saccosäck som säger att
+
+510
+00:35:51,936 --> 00:35:55,008
+Det går inte lita på att jag behöver sova
+
+511
+00:35:57,056 --> 00:36:00,640
+På andra sidan är de senaste med Spectra så har vi alla
+
+512
+00:36:01,152 --> 00:36:02,176
+De som
+
+513
+00:36:02,688 --> 00:36:06,016
+Backen står fast vid att programvara är det säkraste som finns
+
+514
+00:36:07,552 --> 00:36:10,624
+Vi metallicas är koden och det är transparent och så vidare
+
+515
+00:36:11,136 --> 00:36:12,672
+Men det är också inte
+
+516
+00:36:13,184 --> 00:36:16,512
+Alltså det är det är inte så svart och vitt
+
+517
+00:36:17,536 --> 00:36:18,816
+Det beror på
+
+518
+00:36:19,328 --> 00:36:22,400
+Är aktuell Hälsan inom aktuella projekt
+
+519
+00:36:22,656 --> 00:36:23,936
+Och det är de här senare
+
+520
+00:36:24,960 --> 00:36:27,776
+Linus lager
+
+521
+00:36:28,032 --> 00:36:29,312
+Tyst
+
+522
+00:36:30,080 --> 00:36:31,616
+Med tillräckligt många ögon
+
+523
+00:36:31,872 --> 00:36:37,248
+På koden Då kommer alla alla buggar och alla alla hämtar sårbarheter att upptäckas och åtgärdas
+
+524
+00:36:37,504 --> 00:36:39,040
+De hängde faktiskt på
+
+525
+00:36:39,296 --> 00:36:42,112
+Felaktigt antal ögon faktiskt når källkoden
+
+526
+00:36:42,368 --> 00:36:45,184
+Som Oftast är det bara ett fåtal kvar
+
+527
+00:36:45,440 --> 00:36:49,280
+Som faktiskt underhåller många av dem öppna program idag
+
+528
+00:36:50,816 --> 00:36:55,680
+Och de begränsade antalet ögon som samma som faktiskt når koden
+
+529
+00:36:57,216 --> 00:37:03,360
+Man kan prata med här utvecklingsresurser inom många Öppna Program matcher är väldigt begränsade
+
+530
+00:37:03,616 --> 00:37:05,152
+Person
+
+531
+00:37:05,664 --> 00:37:07,968
+Personerna har begränsad kapacitet
+
+532
+00:37:08,480 --> 00:37:10,784
+Och ofta mycket Fokus kommer
+
+533
+00:37:11,040 --> 00:37:13,600
+Sidan läggs på att
+
+534
+00:37:13,856 --> 00:37:16,928
+Hantera support och besvara frågor från användande av det
+
+535
+00:37:18,464 --> 00:37:21,792
+Vintertid till faktiskt utveckling och
+
+536
+00:37:22,048 --> 00:37:23,840
+Kvalitativt kan man göra
+
+537
+00:37:24,096 --> 00:37:26,912
+Granskningar korrekt
+
+538
+00:37:28,960 --> 00:37:32,288
+Det blir väldigt lätt här att man kunde vinna fall ifrån ikväll
+
+539
+00:37:32,544 --> 00:37:36,384
+Bristande intresse för alla familjer Holland en ny arbetsgivare
+
+540
+00:37:36,640 --> 00:37:38,176
+Utbrändhet som är bättre
+
+541
+00:37:38,688 --> 00:37:40,480
+Börja
+
+542
+00:37:40,992 --> 00:37:41,504
+Att
+
+543
+00:37:41,760 --> 00:37:47,136
+De här personen de brinner för sina projekt de lägger så mycket tid på det här men det är det blir det här trycket
+
+544
+00:37:47,392 --> 00:37:47,904
+Beautiful
+
+545
+00:37:48,416 --> 00:37:50,464
+Så skapar jag en omtest bra
+
+546
+00:37:50,720 --> 00:37:53,280
+Alltså mer tid och till slut så så går vi
+
+547
+00:37:55,584 --> 00:37:57,888
+Och sen när får faktiskt zombiesar tillbaka
+
+548
+00:37:58,400 --> 00:37:58,912
+Många
+
+549
+00:37:59,680 --> 00:38:03,520
+De kom in och ställde frågor och förvänta sig hur många
+
+550
+00:38:03,776 --> 00:38:04,800
+Lindholmen
+
+551
+00:38:05,056 --> 00:38:06,848
+Sara Hultgren
+
+552
+00:38:07,360 --> 00:38:08,384
+Jag tar det för givet
+
+553
+00:38:08,896 --> 00:38:09,664
+Men
+
+554
+00:38:09,920 --> 00:38:14,784
+Det bästa som de kan skapa en väldigt låg belastning på den de som underhållare
+
+555
+00:38:15,296 --> 00:38:16,320
+Men
+
+556
+00:38:17,088 --> 00:38:20,160
+Hallbergsgatan faktiskt börjar tillbaka
+
+557
+00:38:20,416 --> 00:38:21,184
+Alla möjliga
+
+558
+00:38:23,488 --> 00:38:27,584
+Mm får man kan ställas av Vem är ansvarig för kvalitet
+
+559
+00:38:29,120 --> 00:38:33,472
+Är det förvaltarna eller de här individerna som är Martin den som Nintendo
+
+560
+00:38:34,240 --> 00:38:35,520
+Som underhåller det här
+
+561
+00:38:35,776 --> 00:38:38,080
+Är de ansvariga för från
+
+562
+00:38:38,592 --> 00:38:39,872
+Studenten
+
+563
+00:38:40,128 --> 00:38:41,664
+Har Lidl Sollentuna
+
+564
+00:38:43,200 --> 00:38:43,968
+Använda
+
+565
+00:38:44,224 --> 00:38:46,784
+Vi som använder hör av det här med ansvar
+
+566
+00:38:48,064 --> 00:38:50,624
+Staten man kan ta parallella himmel
+
+567
+00:38:50,880 --> 00:38:53,184
+Digital Infrastruktur och fysisk infrastruktur
+
+568
+00:38:55,744 --> 00:38:57,536
+Staten ansvar för
+
+569
+00:38:58,048 --> 00:39:02,400
+Underhållet av vägar broar men vad hur är det med en digital infrastruktur
+
+570
+00:39:03,168 --> 00:39:08,800
+Eller någon annan eller är du allihopa det här är bara för att ställa en öppen med det friterad frågetecken
+
+571
+00:39:09,824 --> 00:39:10,848
+Ska vi se då till
+
+572
+00:39:11,104 --> 00:39:12,384
+Offentlig sektor
+
+573
+00:39:13,408 --> 00:39:14,688
+Kunna hantera
+
+574
+00:39:17,504 --> 00:39:18,016
+Hantera
+
+575
+00:39:18,272 --> 00:39:20,320
+SCB säkerhet och säkerhet
+
+576
+00:39:20,576 --> 00:39:22,368
+Fållan till tillåtna programvara
+
+577
+00:39:22,624 --> 00:39:28,256
+Det är idag Väldigt begränsat och det är du kopplar mycket till och med utmaningen som så fall jag upplevde
+
+578
+00:39:28,512 --> 00:39:31,840
+Galenskaparna programvara inom offentlig sektor som kopplar just nu
+
+579
+00:39:32,096 --> 00:39:35,424
+Listan i kulturkunskap tillgång på resurser
+
+580
+00:39:35,680 --> 00:39:36,192
+Och särskilt
+
+581
+00:39:36,448 --> 00:39:40,800
+Till till att vi tittar på kommunnivå det bara 290 kommun
+
+582
+00:39:41,056 --> 00:39:45,920
+Vad är en kommun på 5 med 5000 invånare ska utföra samma uppgifter som helst på Emelie
+
+583
+00:39:48,736 --> 00:39:51,296
+Här tror jag anskaffning just det mycket för många
+
+584
+00:39:52,320 --> 00:39:57,184
+Saknar teknisk jag kommer hem sedan pappan om man har helt enkelt inte utvecklaren den
+
+585
+00:39:57,440 --> 00:40:00,512
+Städat druvorna får man titta
+
+586
+00:40:01,024 --> 00:40:02,304
+Hur man kan beakta
+
+587
+00:40:02,560 --> 00:40:06,400
+De här de här sakerna igen anskaffningsprocess MS av leverantörer
+
+588
+00:40:07,424 --> 00:40:11,776
+Som Jag upplever att det här finns det behov som stöd på vägen
+
+589
+00:40:12,032 --> 00:40:12,800
+Komma fram
+
+590
+00:40:13,312 --> 00:40:18,944
+Om vi ska ta ett exempel på hur man har bättre andra länder kan titta på Italien arbete med Kompetenscenter
+
+591
+00:40:19,200 --> 00:40:20,992
+Både på nationell och regional nivå
+
+592
+00:40:21,504 --> 00:40:23,552
+Det är om det var med på förra nota
+
+593
+00:40:25,344 --> 00:40:28,672
+Pratade ju Sofia Andersson om
+
+594
+00:40:29,184 --> 00:40:29,696
+Om
+
+595
+00:40:30,720 --> 00:40:36,864
+Programkontorsprogram bröllopet körkort på SVT där man inom industrin kallas för
+
+596
+00:40:38,656 --> 00:40:43,264
+Funktion samma som främjar och hjälper hjälper
+
+597
+00:40:44,544 --> 00:40:49,408
+Att använda och utveckla samarbeten mot de begagnad
+
+598
+00:40:50,432 --> 00:40:52,736
+Och titta fortsatt betalning så har de det
+
+599
+00:40:52,992 --> 00:40:58,880
+Laga som föreskriver att öppnas inte bör prioriteras och egenutvecklade programvara tillgänglig
+
+600
+00:40:59,904 --> 00:41:01,696
+20
+
+601
+00:41:01,952 --> 00:41:03,744
+Lagen kommer kraftigt
+
+602
+00:41:04,000 --> 00:41:06,560
+12 strömmen det där händer inte mycket
+
+603
+00:41:06,816 --> 00:41:11,168
+Nu på senare år sedan man 2019 introducerades den beslutsmodeller vägledning för hur man
+
+604
+00:41:11,424 --> 00:41:13,472
+Begagnade anskaffningspris
+
+605
+00:41:13,984 --> 00:41:16,288
+Det kan jämföras inte kan utvärderas
+
+606
+00:41:16,544 --> 00:41:19,872
+Mellan olika öppna till alternativ och så här
+
+607
+00:41:22,432 --> 00:41:26,016
+Här finns ju en punkt som heter den som koppla Instagram med därmed hälsa
+
+608
+00:41:26,528 --> 00:41:28,064
+Skjutsa programblad
+
+609
+00:41:29,856 --> 00:41:33,952
+Buybeauty hållbarheten listan heter huset
+
+610
+00:41:34,464 --> 00:41:40,608
+Matte bedöma Silja indikatorer som till exempel repositorium
+
+611
+00:41:41,120 --> 00:41:41,632
+Spara
+
+612
+00:41:41,888 --> 00:41:43,424
+Aktiviteten
+
+613
+00:41:44,960 --> 00:41:45,472
+Release
+
+614
+00:41:45,728 --> 00:41:47,264
+Historiken och söndag
+
+615
+00:41:49,568 --> 00:41:50,336
+Direction
+
+616
+00:41:52,128 --> 00:41:55,199
+Titta på Danmark som exempel brukar
+
+617
+00:41:55,455 --> 00:41:56,991
+Meddela ox2
+
+618
+00:41:57,247 --> 00:42:00,575
+Förbund fabrik i Sverige
+
+619
+00:42:01,087 --> 00:42:06,463
+Samma samarbetar mellan kommunen och regioner och starta myndigheten i det sista
+
+620
+00:42:06,975 --> 00:42:09,279
+Energiprojekt inducera
+
+621
+00:42:09,535 --> 00:42:11,583
+Av en eller ett flertal medlemmar
+
+622
+00:42:11,839 --> 00:42:14,399
+Och sen så önska femman resurserna gemensamt från
+
+623
+00:42:14,655 --> 00:42:17,215
+Utvecklingen från efterrätt till Harald
+
+624
+00:42:17,471 --> 00:42:19,775
+Systemet flertal tjänsteleverantörer
+
+625
+00:42:20,287 --> 00:42:23,359
+Varför står etablerade processer för styrning av
+
+626
+00:42:23,871 --> 00:42:28,735
+Säkerställer så eller försöka vara sagt eller Hälsan för att öppna program
+
+627
+00:42:28,991 --> 00:42:30,527
+Utveckling sker på ett hållbart
+
+628
+00:42:33,087 --> 00:42:38,975
+Vad säger du till den enskilda myndigheten med enskilda organisationer så finns det här ett behov
+
+629
+00:42:39,231 --> 00:42:40,511
+Tova till discover
+
+630
+00:42:41,535 --> 00:42:44,607
+Identifiera Vilka projekt Man är beroende av
+
+631
+00:42:44,863 --> 00:42:49,727
+Bosna använder använder själv men också från som kom in via leverantör
+
+632
+00:42:51,263 --> 00:42:53,055
+Så vi ska ta in dem här
+
+633
+00:42:53,311 --> 00:42:54,847
+Software bildmaterial
+
+634
+00:42:55,103 --> 00:42:58,687
+Sammanställning över öppna programvara som man får i
+
+635
+00:42:58,943 --> 00:42:59,455
+Indirekt
+
+636
+00:42:59,711 --> 00:43:04,319
+Vid annan skaffa programvara är ett sätt att sätta tryck på på leverantörerna
+
+637
+00:43:04,575 --> 00:43:05,087
+Fuck
+
+638
+00:43:05,343 --> 00:43:07,903
+Skapa medvetande om det är att sprida det
+
+639
+00:43:08,159 --> 00:43:09,695
+Längre bakåt till Emmentaler
+
+640
+00:43:10,975 --> 00:43:15,839
+Hand om att analysera och bilda sig en uppfattning hur de här olika projekten ser ut Hur ser
+
+641
+00:43:16,607 --> 00:43:21,215
+Är det middag då är det en sämre hälsosushi rena projektet men det finns andra alternativ
+
+642
+00:43:21,471 --> 00:43:23,775
+Att man behöver väg att välja ett annat alternativ
+
+643
+00:43:24,287 --> 00:43:28,127
+Tillverkas utvecklar någonting själv eller väldigt tråkigt att allting
+
+644
+00:43:28,383 --> 00:43:29,663
+Ett brett sortiment
+
+645
+00:43:30,175 --> 00:43:32,223
+Ingenting så säga det är typ allt
+
+646
+00:43:34,271 --> 00:43:35,295
+Men också om det är
+
+647
+00:43:35,551 --> 00:43:37,855
+Ett öppet alternativa på begagnade som är där
+
+648
+00:43:38,111 --> 00:43:38,879
+Stick beroende
+
+649
+00:43:39,135 --> 00:43:39,647
+Ja men då
+
+650
+00:43:40,671 --> 00:43:42,975
+Gå in på och börja ge tillbaka och sök
+
+651
+00:43:43,487 --> 00:43:47,583
+Förebygga och höja och hälsa och ha Järfälla kvalité
+
+652
+00:43:48,863 --> 00:43:51,679
+Man kan bara förvänta sig att allting bara sket
+
+653
+00:43:52,191 --> 00:43:55,007
+Och sen har man inte har kapaciteten Resursen där Men då får
+
+654
+00:43:56,031 --> 00:44:01,919
+Köpa köpa helt enkelt upphandla eller kräva att signalerna antar att man arbetar med
+
+655
+00:44:02,175 --> 00:44:03,199
+Communityt med
+
+656
+00:44:03,455 --> 00:44:07,039
+Är det några andra projektet är att utveckla det här samma
+
+657
+00:44:08,575 --> 00:44:13,951
+Och som sagt det Hejdå väldigt viktigt att beakta vid 9
+
+658
+00:44:15,743 --> 00:44:17,023
+Hur mäter man då hälsa
+
+659
+00:44:18,303 --> 00:44:18,815
+Det finns
+
+660
+00:44:19,327 --> 00:44:21,887
+Blandad forskning på det här olika sätt
+
+661
+00:44:22,143 --> 00:44:23,167
+Jag brukar peka på
+
+662
+00:44:24,703 --> 00:44:27,775
+En sammanställning samma som gjorts av Nynäshamn Race
+
+663
+00:44:28,799 --> 00:44:29,311
+Tradera
+
+664
+00:44:30,591 --> 00:44:34,175
+Männen grupperingar inom som kan som kallas Ikeas
+
+665
+00:44:35,711 --> 00:44:37,503
+Open source software
+
+666
+00:44:37,759 --> 00:44:40,831
+Hälsa hälsorummet lik för öppen program
+
+667
+00:44:42,111 --> 00:44:46,463
+Det är bra Jag måste analysera Hälsan men kan ses som ett verktyg för något
+
+668
+00:44:47,231 --> 00:44:48,511
+Använde efter BH
+
+669
+00:44:49,535 --> 00:44:51,583
+De kan användas för att analysera
+
+670
+00:44:51,839 --> 00:44:53,631
+Program Valborg kvalitativt
+
+671
+00:44:53,887 --> 00:44:55,423
+Kvantitativt vill gärna duscha
+
+672
+00:44:55,935 --> 00:44:57,983
+Det finns bara öppna att betala
+
+673
+00:44:58,751 --> 00:45:00,031
+Alternativ till Jan
+
+674
+00:45:01,567 --> 00:45:02,591
+Och sen
+
+675
+00:45:03,103 --> 00:45:05,919
+Här bredvid också aktuell forskning inom
+
+676
+00:45:06,175 --> 00:45:08,991
+Som heter Noa finansierat en sekund ta fram
+
+677
+00:45:09,247 --> 00:45:11,807
+Att bygga vidare på det här och utveckla
+
+678
+00:45:12,063 --> 00:45:14,111
+Motsvarar hälsostäd för för
+
+679
+00:45:14,367 --> 00:45:14,879
+Holland
+
+680
+00:45:18,207 --> 00:45:20,511
+Och som sagt det här med verktyg med olika
+
+681
+00:45:20,767 --> 00:45:25,887
+Olika olika mått så här Behövs det mer systematisk processer hur man kan bli aktuell
+
+682
+00:45:26,143 --> 00:45:29,727
+Och det mesta tegel uppifrån vid anskaffningsprocess
+
+683
+00:45:29,983 --> 00:45:30,751
+Men också
+
+684
+00:45:31,007 --> 00:45:33,055
+Rent operativt från utvecklandet
+
+685
+00:45:33,311 --> 00:45:34,335
+Det kan inte vara för
+
+686
+00:45:34,591 --> 00:45:40,735
+Föregår resa processen när man ska utveckla sitt bra och ska välja Vilka bibliotek man välja att ta in
+
+687
+00:45:40,991 --> 00:45:41,503
+Utvecklingen
+
+688
+00:45:41,759 --> 00:45:43,295
+Så det behövs olika nivåer här
+
+689
+00:45:45,087 --> 00:45:46,623
+Säg Kan du mäta hälsan
+
+690
+00:45:47,135 --> 00:45:51,743
+Jag ska bara titta på på än den legala aspekter Vem är det som faktiskt äger upphovsrätten
+
+691
+00:45:51,999 --> 00:45:53,535
+Tillhör allt
+
+692
+00:45:53,791 --> 00:45:54,815
+Ett företag
+
+693
+00:45:55,071 --> 00:45:58,399
+Är ett företag ska bygga en affärsmodell kring det här
+
+694
+00:45:58,655 --> 00:46:00,959
+Då har vi sett mönster på tidigare
+
+695
+00:46:01,215 --> 00:46:03,263
+Att tvätta kanske börja med att har
+
+696
+00:46:03,519 --> 00:46:04,031
+Kör
+
+697
+00:46:04,543 --> 00:46:05,567
+Hur gammal är öppen
+
+698
+00:46:05,823 --> 00:46:07,103
+Och sen välja att gå till
+
+699
+00:46:07,359 --> 00:46:10,175
+Jag använder som jag stängde licens för att den går till
+
+700
+00:46:10,687 --> 00:46:11,967
+Ica öppet alltid
+
+701
+00:46:12,223 --> 00:46:18,367
+Var finns det olika typer av fiskar man bör beakta olika typer av licenser som medför
+
+702
+00:46:18,623 --> 00:46:20,671
+Olika till exempel på hur man kan använda
+
+703
+00:46:22,975 --> 00:46:29,119
+Tidningen är det är möjligt att komma in och påverka min fru har ju så inflytande
+
+704
+00:46:29,375 --> 00:46:30,911
+Eller är det väldigt stort
+
+705
+00:46:31,935 --> 00:46:38,079
+Vem som två liksom var med i utvecklingen jag döpa programvara utvecklings att Agendan
+
+706
+00:46:38,335 --> 00:46:40,383
+Såvida
+
+707
+00:46:41,663 --> 00:46:47,295
+Tillgängligheten det enkelt att kunna komma in och kommunicera med utvecklare
+
+708
+00:46:47,551 --> 00:46:49,343
+Talkommunikation
+
+709
+00:46:49,599 --> 00:46:51,391
+Kan man gå tillbaka och se hur blir
+
+710
+00:46:51,903 --> 00:46:52,927
+Sluttyg
+
+711
+00:46:53,439 --> 00:46:55,999
+Kan man gå med dig utveckla faktiskt bidrag
+
+712
+00:46:56,255 --> 00:46:57,023
+Projekt
+
+713
+00:46:57,791 --> 00:47:01,119
+Fastigheten Finns det flera olika
+
+714
+00:47:01,375 --> 00:47:05,215
+Användare och utvecklare här eller bara en person eller bara är företag
+
+715
+00:47:05,471 --> 00:47:09,823
+Flera företag Finns det några andra myndigheter alla kan prata med att samverka med
+
+716
+00:47:11,359 --> 00:47:14,175
+Går det att få professionell support Det går faktiskt att betala
+
+717
+00:47:14,431 --> 00:47:20,319
+Att tala uppe gamla projektet och driftar åt oss eller citeras
+
+718
+00:47:20,575 --> 00:47:22,367
+I det här eller utöva
+
+719
+00:47:22,623 --> 00:47:26,207
+För utveckling mot projektet är mot betalning
+
+720
+00:47:27,487 --> 00:47:28,511
+Social aktivitet
+
+721
+00:47:28,767 --> 00:47:30,303
+Vart finns det en puls
+
+722
+00:47:30,559 --> 00:47:34,911
+Inom pärlplattor gamla projektet att de utvecklar kommunet utan om du vill det
+
+723
+00:47:35,679 --> 00:47:38,239
+Utvecklings aktivitet återfinns den puls
+
+724
+00:47:38,495 --> 00:47:39,775
+EU
+
+725
+00:47:40,031 --> 00:47:45,151
+Faktiskt kommer min kod att uppdatera så att dokumentation uppdateras eller
+
+726
+00:47:45,407 --> 00:47:45,919
+Dinka
+
+727
+00:47:46,687 --> 00:47:47,455
+Kvalitet
+
+728
+00:47:47,711 --> 00:47:51,551
+Finns det hästar finns det dokumentation Finns det processorn man granskar
+
+729
+00:47:51,807 --> 00:47:53,343
+Vårdbidrag
+
+730
+00:47:56,927 --> 00:48:03,071
+Tillämpa register Karlsson märket inom Arbetsförmedlingen när de när de skulle göra en analys mellan
+
+731
+00:48:03,839 --> 00:48:07,167
+Olika hjärtis lösningar som jag lyssnar på nozadze
+
+732
+00:48:07,423 --> 00:48:08,191
+Järn
+
+733
+00:48:08,447 --> 00:48:09,727
+December som pratade
+
+734
+00:48:09,983 --> 00:48:12,543
+Malingsbo lycka från Arbetsförmedlingen om detta
+
+735
+00:48:15,871 --> 00:48:18,431
+26 roda och ssark
+
+736
+00:48:18,943 --> 00:48:24,319
+Och halva hälsoanalysen en del lite mer övergripande för arbetet
+
+737
+00:48:25,343 --> 00:48:27,647
+Större handskakning så förberedelse process
+
+738
+00:48:27,903 --> 00:48:32,767
+Och så tittar jag på en större risk och konsekvensanalys kabelfinnare
+
+739
+00:48:33,791 --> 00:48:38,143
+Hälsningar gjorde vi i Ljungby online känner och läste
+
+740
+00:48:38,399 --> 00:48:40,703
+Lyssna på kolla hur
+
+741
+00:48:40,959 --> 00:48:44,287
+Hur är kommunikation förbud utvecklingsaktiviteter
+
+742
+00:48:44,543 --> 00:48:48,383
+Men också titta på utvärderingar och pratar med andra personer
+
+743
+00:48:49,151 --> 00:48:51,199
+Användare som exempelvis Tullverket
+
+744
+00:48:51,711 --> 00:48:53,503
+Det gick vi igenom det här
+
+745
+00:48:54,015 --> 00:48:55,551
+Försäkringskassan eller
+
+746
+00:48:56,831 --> 00:48:59,391
+Sidan och diskuterade
+
+747
+00:48:59,647 --> 00:49:00,671
+Datorheadset
+
+748
+00:49:01,183 --> 00:49:02,719
+Och man kan göra ikväll
+
+749
+00:49:03,999 --> 00:49:05,791
+Vad är skillnaden mellan Kan du säga
+
+750
+00:49:06,303 --> 00:49:08,351
+Konservator bakgrundsbilder
+
+751
+00:49:08,607 --> 00:49:12,703
+Den ena var betydligt mer aktiva än den andra i den
+
+752
+00:49:13,215 --> 00:49:13,727
+Skicka
+
+753
+00:49:13,983 --> 00:49:14,495
+Kan
+
+754
+00:49:14,751 --> 00:49:17,311
+Prata för att du menar Kalmar bättre avseende
+
+755
+00:49:18,079 --> 00:49:21,919
+Att det faktiskt Går påverkad bra Han har jag lovat att inte dricka insta
+
+756
+00:49:22,175 --> 00:49:23,199
+Elementa
+
+757
+00:49:24,991 --> 00:49:31,135
+Om du vill läsa mer om den så kan du det sitta på min sambo att köpa från december också
+
+758
+00:49:33,439 --> 00:49:34,719
+Lärdomar från det här
+
+759
+00:49:35,999 --> 00:49:39,839
+Vid anskaffning av strategisk vårdcentralen garvare vid halsen
+
+760
+00:49:40,095 --> 00:49:41,119
+Utvärderingsprocess
+
+761
+00:49:41,375 --> 00:49:42,143
+För att du ska
+
+762
+00:49:42,911 --> 00:49:45,215
+Sätta aubergine gå in på annonserade här
+
+763
+00:49:45,471 --> 00:49:49,055
+Barbro Jag jobbar på de bästa företagen med de här frågorna och då
+
+764
+00:49:49,567 --> 00:49:52,383
+Som sagt när utvecklare själva ska sitta och
+
+765
+00:49:52,639 --> 00:49:56,735
+Bibliotek Så funkar inte att hans nervösa omfattande process och därför hos oss
+
+766
+00:49:57,247 --> 00:50:00,319
+Jag kan inte lägga två timmar på att analysera ett Robertsfors bibliotek
+
+767
+00:50:01,087 --> 00:50:05,439
+Det behövs mycket mer avskalad som samtidigt använda
+
+768
+00:50:05,695 --> 00:50:10,559
+Meddela att man får överblick och koll på vad man konsumerar hur säkringar
+
+769
+00:50:10,815 --> 00:50:13,375
+Butikerna för oss om vi bara gå in och
+
+770
+00:50:13,887 --> 00:50:15,423
+Att förbättra hälsan
+
+771
+00:50:16,959 --> 00:50:22,847
+Skapa en promenad så kan vi jämföra alternativ mellan varandra bara tiden också mellan
+
+772
+00:50:23,103 --> 00:50:24,383
+När man öppnar och stänger
+
+773
+00:50:26,431 --> 00:50:28,735
+Kvalitativt
+
+774
+00:50:28,991 --> 00:50:31,807
+Fokus i det här anskaffningsprocess Mm
+
+775
+00:50:32,063 --> 00:50:32,831
+Kanske mer
+
+776
+00:50:33,087 --> 00:50:35,135
+Eller
+
+777
+00:50:35,391 --> 00:50:36,927
+Överby
+
+778
+00:50:37,183 --> 00:50:40,511
+De användes i stort sett Wallander
+
+779
+00:50:40,767 --> 00:50:43,583
+Desperata programvaror måste bildas i överblick
+
+780
+00:50:44,095 --> 00:50:50,239
+Då kan vi då kan ett kvantitativt Fokus vara bättre att då att man använder olika verktyg
+
+781
+00:50:50,495 --> 00:50:52,287
+Ja han har Liseberg öppnat
+
+782
+00:50:54,591 --> 00:50:56,127
+Om någonting som jag upplever här
+
+783
+00:50:56,383 --> 00:50:57,151
+Det finns
+
+784
+00:50:57,407 --> 00:50:58,943
+Europas städer
+
+785
+00:51:00,223 --> 00:51:00,735
+De
+
+786
+00:51:00,991 --> 00:51:04,319
+De kräver viss nivå av
+
+787
+00:51:04,575 --> 00:51:05,599
+Mulatt kunskap
+
+788
+00:51:05,855 --> 00:51:07,391
+När går definitivt
+
+789
+00:51:07,647 --> 00:51:09,439
+Ta till sig idag alla resurser
+
+790
+00:51:09,695 --> 00:51:11,231
+Tillbehör finns till
+
+791
+00:51:12,767 --> 00:51:14,815
+Vad tittar du på z för bättre hälsa
+
+792
+00:51:16,095 --> 00:51:20,447
+Upphandla som sagt supporter inte kan inte bara komma och ställa
+
+793
+00:51:20,703 --> 00:51:25,823
+Ställa frågor eller kräva eller förvänta sig att du saknar automatisk spärr av de här individerna
+
+794
+00:51:26,079 --> 00:51:26,847
+Använda
+
+795
+00:51:27,359 --> 00:51:31,199
+Du kan faktiskt tala något att göra
+
+796
+00:51:31,711 --> 00:51:32,735
+Och därigenom stärker
+
+797
+00:51:33,759 --> 00:51:35,039
+Bilen är avställd
+
+798
+00:51:35,295 --> 00:51:37,599
+Så ska det vara tidigare
+
+799
+00:51:38,879 --> 00:51:42,207
+Upphandlad utveckling det ska planeras att göras i dialog
+
+800
+00:51:42,463 --> 00:51:44,511
+Men de andra inte ville som underhåller projektet
+
+801
+00:51:46,303 --> 00:51:47,839
+Söka fall
+
+802
+00:51:48,351 --> 00:51:49,119
+Forex
+
+803
+00:51:49,375 --> 00:51:50,143
+De som
+
+804
+00:51:50,399 --> 00:51:51,935
+Biogas tillbaka till huvudet
+
+805
+00:51:52,447 --> 00:51:55,263
+Inte så lite stressigt att underhålla en separat
+
+806
+00:51:56,031 --> 00:51:56,543
+Varg
+
+807
+00:51:56,799 --> 00:51:59,103
+Version av dator
+
+808
+00:51:59,615 --> 00:52:05,247
+Motsvarande sådan här krav Det finns i de bilagor som som Kammarkollegiet har tagit fram
+
+809
+00:52:06,271 --> 00:52:07,295
+Så kan vara vädret
+
+810
+00:52:08,575 --> 00:52:14,207
+Det är också viktigt att kravställa nivå gällande Kan man kalla det leverabel
+
+811
+00:52:15,231 --> 00:52:16,511
+Sl.se
+
+812
+00:52:16,767 --> 00:52:19,839
+Jag håller på och återigen att det är någonting
+
+813
+00:52:20,095 --> 00:52:20,863
+Som bildas
+
+814
+00:52:21,631 --> 00:52:22,399
+Projekt
+
+815
+00:52:23,423 --> 00:52:29,567
+Men också här med som visar gärna 57.se att man att man delar Vilken öppen programvara användes
+
+816
+00:52:29,823 --> 00:52:34,943
+Dela erfarenheter husbil till andra färger till att bygga kunskap och delar
+
+817
+00:52:36,735 --> 00:52:42,879
+Identifiera kritiska programvara projekt att man gör en genomsyn av sin verksamhet så är man använder hur
+
+818
+00:52:44,927 --> 00:52:47,231
+Vad är Var finns de röda flaggor
+
+819
+00:52:47,487 --> 00:52:47,999
+Undersök
+
+820
+00:52:48,255 --> 00:52:50,303
+Finns det alternativ som du kan välja istället
+
+821
+00:52:51,839 --> 00:52:54,655
+Också främja andra att vi drar tillbaka
+
+822
+00:52:56,191 --> 00:53:00,287
+Det kan vara att att ta en tidig ställningstagande kring det här
+
+823
+00:53:02,335 --> 00:53:08,479
+Ett väldigt konkret exempel som Europa kommun
+
+824
+00:53:10,783 --> 00:53:15,135
+En funktion för att hantera programvara
+
+825
+00:53:16,927 --> 00:53:20,767
+Kontoret kontoret utanför kan vara
+
+826
+00:53:21,023 --> 00:53:26,655
+Hur man lär sig att bug Bounty program för projekt som de har identifierats som de ska
+
+827
+00:53:26,911 --> 00:53:31,519
+Utbetala belöningar till dem som brukar sitta Så vad heter den här
+
+828
+00:53:33,055 --> 00:53:34,847
+Skapade
+
+829
+00:53:37,663 --> 00:53:41,247
+Sluta skicka till mig om Epic här är
+
+830
+00:53:41,503 --> 00:53:42,527
+Hälsa hållbarhet
+
+831
+00:53:43,039 --> 00:53:49,183
+Programvara är väldigt centralt är något vi måste titta på det är en aspekt i huvudet kan förebygga
+
+832
+00:53:49,695 --> 00:53:50,719
+Alanna sårbarhet
+
+833
+00:53:51,999 --> 00:53:54,047
+Vänta lite
+
+834
+00:53:54,303 --> 00:53:55,071
+Det är det
+
+835
+00:53:57,119 --> 00:54:00,191
+Vi måste arbeta för att tävla där
+
+836
+00:54:00,447 --> 00:54:01,983
+En väldigt central
+
+837
+00:54:02,239 --> 00:54:03,263
+Byggblock
+
+838
+00:54:03,519 --> 00:54:04,799
+Ia Modin
+
+839
+00:54:06,079 --> 00:54:08,895
+Och sen försökte börja se över hur de kan bidra till hälsa
+
+840
+00:54:09,919 --> 00:54:11,455
+Förbättra sömnen med såpa
+
+841
+00:54:11,967 --> 00:54:14,527
+Behövs det som upplever för anställda
+
+842
+00:54:15,551 --> 00:54:16,319
+Arbete
+
+843
+00:54:16,831 --> 00:54:18,367
+Och aktivt Backa
+
+844
+00:54:19,647 --> 00:54:22,463
+Hälsa och säkerhet i anställningsprocessen
+
+845
+00:54:22,719 --> 00:54:25,535
+Det är så att du kan göra rätt val men också för att inte av
+
+846
+00:54:25,791 --> 00:54:26,559
+Avfärda
+
+847
+00:54:26,815 --> 00:54:29,375
+Begagnad som alternativ just det uppfattat
+
+848
+00:54:29,631 --> 00:54:30,911
+Avvisa personer som lyser
+
+849
+00:54:32,959 --> 00:54:33,983
+Det är bara
+
+850
+00:54:34,239 --> 00:54:34,751
+Ja han
+
+851
+00:54:35,007 --> 00:54:35,519
+Tack
+
+852
+00:54:38,591 --> 00:54:39,615
+Tack så mycket Johan
+
+853
+00:54:40,127 --> 00:54:46,271
+Vi mötte Harry ett intressant ämne De har satsat väldigt mycket
+
+854
+00:54:46,527 --> 00:54:48,319
+Jag pratar väldigt mycket chatten om
+
+855
+00:54:49,087 --> 00:54:53,183
+Olika organisationer 56 och har olika mognad du skulle kunna
+
+856
+00:54:53,439 --> 00:54:57,023
+Hjälpa varandra på ett bra sätt Finns det bra checklistor
+
+857
+00:54:58,303 --> 00:55:02,911
+Finns det vägledningar som efterfrågas Hur kan vi göra med tips och idéer
+
+858
+00:55:03,423 --> 00:55:09,567
+Funderar på att du tar fram en kategori som heter lite Sök på kommun
+
+859
+00:55:09,823 --> 00:55:11,359
+Data.val.se
+
+860
+00:55:11,615 --> 00:55:14,431
+Vi har konstaterat att jag har svårt att lägga
+
+861
+00:55:14,687 --> 00:55:18,783
+Till dokument när det skulle vi kunna lägga upp på nozad och Sen använd
+
+862
+00:55:19,039 --> 00:55:20,831
+Länka tillbaka till community
+
+863
+00:55:21,343 --> 00:55:26,975
+Men det känns som att vi alla i det här forumet vi var med att samverka och samarbeta
+
+864
+00:55:27,743 --> 00:55:30,559
+Och då ställde jag en fråga
+
+865
+00:55:30,815 --> 00:55:34,143
+Det då Vilken typ av hans om stöd skulle er
+
+866
+00:55:34,399 --> 00:55:36,447
+Organisation behöver
+
+867
+00:55:37,215 --> 00:55:40,031
+Så att jag låter den såg att gå ut
+
+868
+00:55:40,287 --> 00:55:41,823
+Till till alla nu
+
+869
+00:55:42,079 --> 00:55:43,615
+Till om chatt
+
+870
+00:55:44,127 --> 00:55:46,431
+Och under tiden Är det någon som har
+
+871
+00:55:46,687 --> 00:55:48,479
+Trafikfråga till Johan lidåker
+
+872
+00:55:58,719 --> 00:55:59,999
+Det var Glasklart
+
+873
+00:56:00,255 --> 00:56:05,119
+Jag tror att det är verkligen på den där våran att vi har kommit så pass långt I diskussionen att försämras
+
+874
+00:56:05,375 --> 00:56:08,703
+Det finns många saker att ta hänsyn till och vi måste på något sätt kunna
+
+875
+00:56:08,959 --> 00:56:11,263
+Var kan man samla all denna kunskap
+
+876
+00:56:13,055 --> 00:56:16,639
+Någon som vill säga någonting när det är tre minuter
+
+877
+00:56:17,407 --> 00:56:18,175
+Vi åker till
+
+878
+00:56:20,991 --> 00:56:23,039
+Tillägg att jag hoppas att
+
+879
+00:56:23,551 --> 00:56:27,135
+Är digital Arena som vill arbeta med
+
+880
+00:56:28,671 --> 00:56:30,207
+Saker som att
+
+881
+00:56:30,463 --> 00:56:31,231
+Plantera
+
+882
+00:56:31,487 --> 00:56:34,559
+Så Vad heter skapa kunskap kring det här
+
+883
+00:56:34,815 --> 00:56:38,143
+Prata med riktlinjer och rekommendationer kopplat upphandlingarna
+
+884
+00:56:38,399 --> 00:56:40,703
+Alla typer av kunskap
+
+885
+00:56:40,959 --> 00:56:46,335
+Måste ta fram SMS och förvaltas och verkställas genom kurser utbildningar
+
+886
+00:56:46,847 --> 00:56:50,687
+Faciliteras genom aktiv samverkan som inte som inte bara
+
+887
+00:56:51,199 --> 00:56:51,711
+Forum
+
+888
+00:56:51,967 --> 00:56:54,783
+Som man ska förvänta sig Man kan ju liksom det krävs
+
+889
+00:56:57,087 --> 00:56:59,135
+Jag hoppas att han betalar en
+
+890
+00:57:02,207 --> 00:57:03,487
+Eftersom
+
+891
+00:57:03,743 --> 00:57:05,023
+Jag är på Big då
+
+892
+00:57:05,279 --> 00:57:10,655
+Åker delvis deltar jobbet med en digital arenan och in och stötta
+
+893
+00:57:10,911 --> 00:57:12,447
+Tillsammans med Maria
+
+894
+00:57:13,471 --> 00:57:15,263
+Att om man har
+
+895
+00:57:15,519 --> 00:57:16,031
+På TV
+
+896
+00:57:16,287 --> 00:57:19,103
+Tycker borde finnas på en digitalare annars kan man lägga att
+
+897
+00:57:23,199 --> 00:57:24,479
+Så kan vi läsa det
+
+898
+00:57:24,735 --> 00:57:26,271
+Förstår det till dem att de kommer
+
+899
+00:57:29,599 --> 00:57:32,927
+Vi kommer ta fram en kategori som heter en digital Arena
+
+900
+00:57:34,207 --> 00:57:40,351
+Och därför alla ni som ännu inte är med i the Community Man behöver bara ett konto
+
+901
+00:57:40,607 --> 00:57:43,167
+Registreringar så kan det vara med i den här dialogen
+
+902
+00:57:43,423 --> 00:57:44,959
+Följer lite samma
+
+903
+00:57:45,215 --> 00:57:46,495
+Som som bygger
+
+904
+00:57:47,007 --> 00:57:49,567
+Den digitala säkerheten och den digitala framtid
+
+905
+00:57:50,591 --> 00:57:54,431
+Jag passar på också säga att vi kommer han går
+
+906
+00:57:55,455 --> 00:57:57,759
+5 april och då kommer det
+
+907
+00:57:58,015 --> 00:58:01,087
+Med logistik datalab
+
+908
+00:58:01,855 --> 00:58:04,159
+Och det kommer aldrig vara close
+
+909
+00:58:04,415 --> 00:58:05,695
+Produkter
+
+910
+00:58:05,951 --> 00:58:06,719
+Som ingår där
+
+911
+00:58:07,231 --> 00:58:09,279
+Vi har tidigare under dogs
+
+912
+00:58:09,535 --> 00:58:13,631
+Presentera Starta landet som trafiklab och jobb till
+
+913
+00:58:16,447 --> 00:58:22,591
+Och det finns de pratar om datadelning open-source och liknande så det är bra
+
+914
+00:58:22,847 --> 00:58:23,359
+Inspiration
+
+915
+00:58:23,871 --> 00:58:27,711
+Och nästa match och så kommer du trösta om privat offentlig
+
+916
+00:58:28,223 --> 00:58:33,087
+Datadelning när de kommer prata om digitala tvillingar och vi kommer prata om innovation
+
+917
+00:58:33,343 --> 00:58:33,855
+Påmind
+
+918
+00:58:34,367 --> 00:58:35,135
+Data
+
+919
+00:58:37,439 --> 00:58:43,583
+Tack så jättemycket Johan för bra presentation Tack så jättemycket Martin och tack så jättemycket
+
+920
+00:58:43,839 --> 00:58:46,655
+Så väldigt mycket chatten
+
+921
+00:58:46,911 --> 00:58:51,007
+Jag tror att det här är en dialog kommer behöva ha
+
+922
+00:58:52,031 --> 00:58:56,127
+Flera gånger och mycket mer så jag hoppas verkligen att
+
+923
+00:58:56,639 --> 00:58:59,199
+Ses på community data.val.se
+
+924
+00:59:00,479 --> 00:59:01,503
+Och det som
+
+925
+00:59:01,759 --> 00:59:07,903
+Inte har en motsats nyhetsbrev gå in på nosen.se Anmäl dig till nyhetsbrevet så missar du ingenting
+
+926
+00:59:08,159 --> 00:59:12,767
+Vi kommer även lägga in en blänker om intressanta trådar community
+
+927
+00:59:14,047 --> 00:59:15,583
+Vi kan ta del av
+
+928
+00:59:16,095 --> 00:59:17,119
+På torsdag
+
+929
+00:59:18,655 --> 00:59:19,167
+Tack för
