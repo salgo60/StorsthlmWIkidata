@@ -1,0 +1,7863 @@
+1
+00:00:04,608 --> 00:00:07,680
+Då kör vi igång Hej och välkomna
+
+2
+00:00:07,936 --> 00:00:09,216
+Till dagens verk
+
+3
+00:00:10,240 --> 00:00:11,776
+Idag kommer vi prata om den
+
+4
+00:00:12,032 --> 00:00:17,408
+Nationella data strategi och vi kommer prata om de tropiska dataområde
+
+5
+00:00:18,176 --> 00:00:22,528
+Jag som hälsar er välkomna heter Maria dalhage och jag jobbar
+
+6
+00:00:22,784 --> 00:00:23,296
+Musik
+
+7
+00:00:25,088 --> 00:00:29,952
+Nozad Network open source and data i ett nätverk
+
+8
+00:00:30,208 --> 00:00:32,768
+Äter er som jobbar inom offentlig sektor
+
+9
+00:00:33,024 --> 00:00:35,072
+Och för er som är intresserad av att
+
+10
+00:00:35,840 --> 00:00:36,864
+Digitala resurser
+
+11
+00:00:37,376 --> 00:00:39,424
+I det här nätverket så pratar vi
+
+12
+00:00:39,680 --> 00:00:42,496
+Öppna data Epic källkod på 10
+
+13
+00:00:42,752 --> 00:00:43,520
+Standarder
+
+14
+00:00:44,544 --> 00:00:50,688
+Finns det antal loggor här nere till de organisationer som elitserie
+
+15
+00:00:50,944 --> 00:00:52,480
+För två år sedan
+
+16
+00:00:52,736 --> 00:00:53,248
+Big
+
+17
+00:00:53,504 --> 00:00:55,552
+Arbetsförmedlingen via
+
+18
+00:00:55,808 --> 00:00:56,576
+Godnatt
+
+19
+00:00:56,832 --> 00:00:57,600
+Det är inte det
+
+20
+00:00:58,880 --> 00:00:59,904
+BSK
+
+21
+00:01:00,416 --> 00:01:01,696
+Samtrafiken
+
+22
+00:01:02,720 --> 00:01:04,256
+Sedan dess har jag
+
+23
+00:01:04,512 --> 00:01:07,072
+Ungefär 25 digitala workshops
+
+24
+00:01:07,584 --> 00:01:08,608
+Vi har haft
+
+25
+00:01:08,864 --> 00:01:13,216
+70 olika organisationer som har planerat
+
+26
+00:01:13,472 --> 00:01:15,264
+Presentera
+
+27
+00:01:20,640 --> 00:01:22,944
+Så kan man göra
+
+28
+00:01:23,968 --> 00:01:27,808
+3 saker man kan precis med deltat betongvägg Italien
+
+29
+00:01:28,576 --> 00:01:30,880
+Man kan diskutera i vårt
+
+30
+00:01:31,136 --> 00:01:31,904
+Diskussion
+
+31
+00:01:32,160 --> 00:01:34,976
+Mycket samma som Sveriges
+
+32
+00:01:36,768 --> 00:01:40,608
+Om man kan dela och dela med sig av
+
+33
+00:01:40,864 --> 00:01:41,376
+Material
+
+34
+00:01:42,912 --> 00:01:46,240
+Så kan det gå in på norstat.se och surfa runt
+
+35
+00:01:46,496 --> 00:01:48,288
+Och se om vi får
+
+36
+00:01:49,056 --> 00:01:52,384
+Feeling och vill dela med er eller med sig någonting som de andra
+
+37
+00:01:52,640 --> 00:01:55,200
+Det kommer kunna hitta tidigare inspelningar där
+
+38
+00:01:55,712 --> 00:02:00,832
+Ni kommer också kunna hitta offentlig kod är så ni som har
+
+39
+00:02:01,344 --> 00:02:06,720
+En programvara som vi använder dela gärna med er av Vilken programvara det är
+
+40
+00:02:06,976 --> 00:02:08,256
+Och Nilsson
+
+41
+00:02:08,512 --> 00:02:11,328
+Har några repor
+
+42
+00:02:11,584 --> 00:02:13,376
+Äter källkod
+
+43
+00:02:13,632 --> 00:02:14,912
+Spela gärna med det
+
+44
+00:02:20,544 --> 00:02:22,336
+Today we have one guess
+
+45
+00:02:22,848 --> 00:02:24,384
+Sandra Kim Punisher
+
+46
+00:02:25,920 --> 00:02:29,248
+Antonio Garcia warm Welcome to you
+
+47
+00:02:30,528 --> 00:02:32,576
+We will have this
+
+48
+00:02:32,832 --> 00:02:38,976
+Event in Swedish that you would like to ask questions to ask when you
+
+49
+00:02:39,232 --> 00:02:41,536
+I want to comment on this presentation
+
+50
+00:02:43,328 --> 00:02:45,888
+You can do that by commenting in the ass
+
+51
+00:02:49,216 --> 00:02:53,312
+And you can also comment in Swedish and I will help you with the translation
+
+52
+00:02:54,848 --> 00:03:00,992
+I Want You to my colleague Ulrika domellöf från Byggnads i b
+
+53
+00:03:01,248 --> 00:03:02,528
+Moderator
+
+54
+00:03:03,040 --> 00:03:03,552
+This
+
+55
+00:03:04,064 --> 00:03:05,344
+Euro
+
+56
+00:03:05,856 --> 00:03:08,160
+And you will find me in the chat together we
+
+57
+00:03:08,416 --> 00:03:11,232
+Jonas Södergren från
+
+58
+00:03:12,768 --> 00:03:15,072
+Welcome and
+
+59
+00:03:17,888 --> 00:03:22,752
+Ja kul att ha det här välkomna Idag har vi
+
+60
+00:03:23,264 --> 00:03:23,776
+Data
+
+61
+00:03:24,288 --> 00:03:26,592
+Sushi i centrum
+
+62
+00:03:26,848 --> 00:03:28,896
+Vi har ett späckat program
+
+63
+00:03:30,176 --> 00:03:32,480
+Både nationella
+
+64
+00:03:32,736 --> 00:03:35,552
+Europeiska dataområde
+
+65
+00:03:35,808 --> 00:03:37,600
+Myndigheten för Digital förvaltning
+
+66
+00:03:37,856 --> 00:03:44,000
+Har egentligen de olika nationella och europeiska
+
+67
+00:03:46,560 --> 00:03:49,632
+Vi ska få höra om allt det här idag
+
+68
+00:03:50,144 --> 00:03:53,216
+Och jag börjar med att lämna
+
+69
+00:03:57,824 --> 00:03:58,848
+Varsågod
+
+70
+00:04:00,128 --> 00:04:02,176
+Ja men tack Ulrika
+
+71
+00:04:02,432 --> 00:04:04,480
+Tack Maria jättekul att vara här
+
+72
+00:04:05,248 --> 00:04:09,344
+Jag vet om de pratar lite om de nationella data strategin
+
+73
+00:04:09,856 --> 00:04:10,368
+Och
+
+74
+00:04:10,624 --> 00:04:11,904
+Tänkte gå igenom den
+
+75
+00:04:12,416 --> 00:04:15,744
+Och jag är jätteglad att europeiska kommissionen här
+
+76
+00:04:16,256 --> 00:04:20,095
+Kan du prata om europeiska datautrymme eller dejta Space
+
+77
+00:04:20,863 --> 00:04:22,399
+Och varför de sätter
+
+78
+00:04:22,655 --> 00:04:24,191
+En väldigt viktig kontek
+
+79
+00:04:24,447 --> 00:04:25,471
+Bilden svenska
+
+80
+00:04:25,727 --> 00:04:26,239
+Ett skämt
+
+81
+00:04:26,495 --> 00:04:28,799
+Hoppas ni ser nu Den här bilden
+
+82
+00:04:29,823 --> 00:04:35,711
+Och som du känner till så heter ju för att skydda en underutnyttjad resurs för Sverige
+
+83
+00:04:36,223 --> 00:04:40,063
+Jag ska börja prata lite om kontexten till strategi varför den
+
+84
+00:04:40,319 --> 00:04:40,831
+Kom till
+
+85
+00:04:44,415 --> 00:04:50,559
+Det här är bara en inflygning bild det här är olika bilder på stan
+
+86
+00:04:50,815 --> 00:04:52,095
+Skyltar som visar
+
+87
+00:04:52,863 --> 00:04:55,679
+Det här är sånt som Tesla använder för
+
+88
+00:04:55,935 --> 00:04:58,239
+Träna sin AI
+
+89
+00:04:58,751 --> 00:05:00,799
+Som det ser ut i verkligheten ganska
+
+90
+00:05:01,055 --> 00:05:02,079
+Stökig
+
+91
+00:05:02,591 --> 00:05:06,431
+Och det finns många olika sätt som en stoppskylt kan se ut
+
+92
+00:05:06,687 --> 00:05:08,223
+Förrätt Maskin öga
+
+93
+00:05:08,735 --> 00:05:11,551
+Så du träna en AI så behöver man
+
+94
+00:05:11,807 --> 00:05:13,087
+Mycket mycket data
+
+95
+00:05:13,855 --> 00:05:15,903
+Och det här egentligen betecknande för
+
+96
+00:05:16,671 --> 00:05:22,047
+Mycket bra utveckling och Digital Innovation över huvudtaget att hantera det
+
+97
+00:05:22,559 --> 00:05:25,375
+Tillgång till data tillgång till dela data
+
+98
+00:05:25,887 --> 00:05:31,007
+Och sen strukturera den och få den användbar kan
+
+99
+00:05:32,031 --> 00:05:32,799
+Ofta bara
+
+100
+00:05:33,311 --> 00:05:35,103
+90 % utav i arbete
+
+101
+00:05:36,383 --> 00:05:38,687
+Det här är någonting som
+
+102
+00:05:38,943 --> 00:05:41,247
+Jag har börjat se på börserna runt om
+
+103
+00:05:41,759 --> 00:05:43,295
+Vad är för att bygga upp det här
+
+104
+00:05:45,855 --> 00:05:47,391
+Exempel på Tesla i början
+
+105
+00:05:48,415 --> 00:05:49,695
+Ett vanligt
+
+106
+00:05:49,951 --> 00:05:51,743
+Vilket datadrivet företag
+
+107
+00:05:51,999 --> 00:05:55,327
+Om det är en normal värderingen för buss
+
+108
+00:05:55,839 --> 00:05:59,167
+Så eller Gartner Så ser ut data moget företag
+
+109
+00:06:00,959 --> 00:06:01,727
+Ofta
+
+110
+00:06:01,983 --> 00:06:03,775
+Dubbelt så högt värderad
+
+111
+00:06:04,287 --> 00:06:05,823
+Samuel vanligt bolag
+
+112
+00:06:06,335 --> 00:06:07,615
+Och
+
+113
+00:06:07,871 --> 00:06:08,383
+Företag
+
+114
+00:06:09,151 --> 00:06:11,199
+Ett företag som har en produkt
+
+115
+00:06:11,967 --> 00:06:13,247
+Som bär
+
+116
+00:06:13,503 --> 00:06:15,039
+Bygger på data
+
+117
+00:06:16,575 --> 00:06:17,087
+3
+
+118
+00:06:17,343 --> 00:06:18,111
+Värdera
+
+119
+00:06:19,903 --> 00:06:22,719
+Därav den höga Tesla värderingen som
+
+120
+00:06:24,255 --> 00:06:25,791
+Och
+
+121
+00:06:26,047 --> 00:06:27,583
+Det här är någonting Vi har sett
+
+122
+00:06:29,631 --> 00:06:30,911
+Ganska tydligt
+
+123
+00:06:31,167 --> 00:06:34,751
+Om man tittar på nationalekonomiska siffror
+
+124
+00:06:35,007 --> 00:06:39,103
+Visa amerikanska siffror de europeiska ligger lite efter
+
+125
+00:06:39,359 --> 00:06:45,503
+Jag vill se den blå kurvan här Det är investeringar i immateriella
+
+126
+00:06:45,759 --> 00:06:47,551
+Immateriella tillgångar
+
+127
+00:06:48,319 --> 00:06:50,111
+Blandis ligger Data
+
+128
+00:06:50,367 --> 00:06:53,183
+Det kan vara patent icke vara marknadsförare
+
+129
+00:06:54,463 --> 00:06:55,231
+Röda
+
+130
+00:06:55,999 --> 00:06:58,303
+Investeringar i materiella
+
+131
+00:06:58,559 --> 00:06:59,583
+Handboll
+
+132
+00:07:00,351 --> 00:07:02,655
+Du den klassiska Industri
+
+133
+00:07:02,911 --> 00:07:03,935
+Skiner
+
+134
+00:07:04,703 --> 00:07:06,751
+Jag tycker det är ganska fina illustrationer av att
+
+135
+00:07:07,263 --> 00:07:09,311
+En allt större del utav
+
+136
+00:07:09,567 --> 00:07:10,335
+Ekonomi
+
+137
+00:07:10,591 --> 00:07:14,687
+Blir faktiskt digitaliserad Vi ser det tydligt i siffrorna
+
+138
+00:07:15,711 --> 00:07:20,063
+Det här är ju förstås då en väldigt viktig del till varför i ju
+
+139
+00:07:20,831 --> 00:07:22,879
+Inte fånga den här kraften
+
+140
+00:07:23,135 --> 00:07:25,183
+Du måste hänga med det här
+
+141
+00:07:25,439 --> 00:07:31,327
+Sverige ligger långt fram men vi måste klara av vår konkurrenskraft i den digitala ekonomin
+
+142
+00:07:33,119 --> 00:07:39,263
+Och data är på det sättet ett nytt kunskapsbaserat kapital kan man säga
+
+143
+00:07:39,519 --> 00:07:45,663
+Vi kan klättra upp på världsdelarna genom att göra bättre självlärande produkt
+
+144
+00:07:46,431 --> 00:07:48,223
+Och där vi över tid
+
+145
+00:07:48,479 --> 00:07:49,503
+Kan
+
+146
+00:07:50,271 --> 00:07:52,063
+Då skapar mervärde
+
+147
+00:07:52,319 --> 00:07:54,111
+Mindre produkter kan man se
+
+148
+00:07:55,647 --> 00:08:01,791
+Om man tittar globalt sett så kan man se ett nytt strategiskt data landskap växa fram och det här
+
+149
+00:08:02,047 --> 00:08:05,119
+EU och Sverige i det globala konst
+
+150
+00:08:06,143 --> 00:08:07,935
+Om vi tar då USA
+
+151
+00:08:08,191 --> 00:08:10,495
+Synligt så att den affärsmodell
+
+152
+00:08:11,263 --> 00:08:13,823
+Där är företagen som kontrollerade idag
+
+153
+00:08:14,591 --> 00:08:17,919
+Kina så är det staten som kontrollerar din data
+
+154
+00:08:18,175 --> 00:08:20,223
+Det är ju så ska du
+
+155
+00:08:20,479 --> 00:08:22,527
+Är det du som ska kontrollera din dag
+
+156
+00:08:23,295 --> 00:08:29,439
+Här kommer den här fina europeiska värdena Schulman
+
+157
+00:08:30,207 --> 00:08:33,023
+Och det caspases sömnmedlet för
+
+158
+00:08:33,279 --> 00:08:35,071
+Genomdriva
+
+159
+00:08:37,375 --> 00:08:41,727
+Kommissionen ska berätta efter den här då presentationen
+
+160
+00:08:41,983 --> 00:08:44,031
+Om den Europeiska datastativ 7
+
+161
+00:08:44,543 --> 00:08:46,335
+Som ni ser så har den två delar
+
+162
+00:08:47,103 --> 00:08:51,967
+Den vänstra bygger i och för sig
+
+163
+00:08:52,479 --> 00:08:55,295
+Ursäkta du några mikrofonen på Kan du stänga av
+
+164
+00:08:55,551 --> 00:08:56,319
+Jättebra
+
+165
+00:08:56,831 --> 00:09:02,975
+Hoppas högra sidan så ser nu då främjande insatser och det på den högra sidan Vi ska se det
+
+166
+00:09:03,231 --> 00:09:04,255
+Svenska datasat
+
+167
+00:09:04,511 --> 00:09:06,047
+Jackar in i
+
+168
+00:09:06,303 --> 00:09:08,095
+Europeiska datastativ
+
+169
+00:09:08,607 --> 00:09:09,631
+Främjar
+
+170
+00:09:09,887 --> 00:09:11,167
+Data del
+
+171
+00:09:12,959 --> 00:09:15,775
+Var är jag nu den svenska datasat Skynda en bild
+
+172
+00:09:16,543 --> 00:09:21,407
+Gör nuläge med otillräcklig tillgång till data och en låg data mot
+
+173
+00:09:21,663 --> 00:09:22,431
+Generellt
+
+174
+00:09:23,199 --> 00:09:26,783
+Skins 113 tidsatta mål 2526
+
+175
+00:09:27,039 --> 00:09:28,319
+30 som är kopplad
+
+176
+00:09:28,575 --> 00:09:30,879
+Baltic myndigheterna forskningsdata också
+
+177
+00:09:31,135 --> 00:09:31,647
+Företag
+
+178
+00:09:32,415 --> 00:09:35,743
+Sex finansierade insatsområden som jag ska gå igenom
+
+179
+00:09:35,999 --> 00:09:39,583
+Och vi hoppas du från 25 och framåt Att tillgången till inne
+
+180
+00:09:39,839 --> 00:09:43,423
+Till till och innovativa utnyttjandet av data ökar
+
+181
+00:09:46,751 --> 00:09:50,847
+Ett annat sätt att visa på data strategin om sex
+
+182
+00:09:51,103 --> 00:09:54,943
+Är insatsområden det jag ska gå igenom den en efter en
+
+183
+00:09:55,455 --> 00:10:00,575
+Så de förstår vad datasets skin gör Vilka insatser som är igång och hur det
+
+184
+00:10:00,831 --> 00:10:01,599
+Ska kunna säljas
+
+185
+00:10:01,855 --> 00:10:02,879
+Styra
+
+186
+00:10:04,415 --> 00:10:10,559
+Hur kallt är det i Family parningstid med uppdrag ganska operativa sallad idag Vi ska höra om under
+
+187
+00:10:10,815 --> 00:10:11,327
+2
+
+188
+00:10:12,863 --> 00:10:14,655
+Och innan det så ska vi höra
+
+189
+00:10:14,911 --> 00:10:19,263
+Dick som har fått regeringens uppdrag att höja myndigheternas förmåga
+
+190
+00:10:19,519 --> 00:10:22,079
+Eller samla in del av nyttiggöra data
+
+191
+00:10:22,591 --> 00:10:25,919
+Ryggskott och främja samverkan genom en arena
+
+192
+00:10:26,687 --> 00:10:27,967
+Och ett partnerskap
+
+193
+00:10:29,503 --> 00:10:31,551
+Om du säger fyran här så ska de ringa
+
+194
+00:10:31,807 --> 00:10:37,951
+Jacka upp sin styrning och uppföljning ett av området genom en årlig handlingsplan som vi kan få
+
+195
+00:10:38,207 --> 00:10:42,303
+Utvecklingen i ta med svenska dagar dataekonomi datadrivna förval
+
+196
+00:10:42,815 --> 00:10:43,583
+Datadrivna
+
+197
+00:10:45,119 --> 00:10:50,239
+Sammanhanget utrednings insatser för Nova titta på ytterligare behov från
+
+198
+00:10:50,751 --> 00:10:52,287
+I näringslivet för
+
+199
+00:10:54,079 --> 00:10:56,127
+Det stöd inom data del
+
+200
+00:10:56,895 --> 00:11:01,759
+Och sen så ser det här då som sagt en integrerad del av det internationella samarbetet
+
+201
+00:11:02,271 --> 00:11:04,063
+Så nu börjar min insatsområde
+
+202
+00:11:05,599 --> 00:11:10,975
+Och de fem finansierade uppdrag de finansierad från innovationsrådet medel
+
+203
+00:11:12,255 --> 00:11:18,399
+Där regeringen ger olika myndigheter i uppdrag att främja de lingon Ytterjärna
+
+204
+00:11:18,655 --> 00:11:20,959
+Data för fem konkreta politiska så
+
+205
+00:11:21,215 --> 00:11:22,751
+Förbättra cancerdiagnostik
+
+206
+00:11:23,775 --> 00:11:26,335
+Smart elektrifiering av transportsektorn
+
+207
+00:11:26,591 --> 00:11:28,895
+Livslångt lärande arbetsmarknaden
+
+208
+00:11:29,407 --> 00:11:30,943
+Klimat och miljö forskning
+
+209
+00:11:31,711 --> 00:11:35,039
+Och smart visualiserad statistik för mobil
+
+210
+00:11:35,807 --> 00:11:38,623
+Tanken är att dra igång ett antal arbeten
+
+211
+00:11:39,135 --> 00:11:41,695
+Sedan låta digg
+
+212
+00:11:42,719 --> 00:11:44,767
+Stötta de här myndigheterna
+
+213
+00:11:45,023 --> 00:11:49,119
+Så att de kan bli bättre på att just dela nyttiggöra data
+
+214
+00:11:49,887 --> 00:11:51,679
+Så det insatsområde 2
+
+215
+00:11:51,935 --> 00:11:53,215
+Att vi drar igång
+
+216
+00:11:53,471 --> 00:11:57,055
+N11 stöttande arbete där
+
+217
+00:11:57,311 --> 00:11:59,615
+Allt fler myndigheter kan komma
+
+218
+00:11:59,871 --> 00:12:01,663
+Delta i det här arbetet
+
+219
+00:12:02,175 --> 00:12:03,455
+Just nu ska det vara
+
+220
+00:12:03,711 --> 00:12:04,735
+På den här sen
+
+221
+00:12:06,271 --> 00:12:08,063
+Insatsområde 3
+
+222
+00:12:09,855 --> 00:12:10,367
+Dot
+
+223
+00:12:11,135 --> 00:12:13,439
+Också uppdrag till digg
+
+224
+00:12:14,463 --> 00:12:16,511
+Som bygger på
+
+225
+00:12:17,791 --> 00:12:18,559
+Digster
+
+226
+00:12:18,815 --> 00:12:20,095
+Öka samordningen
+
+227
+00:12:20,863 --> 00:12:23,679
+Först och främst mellan de här fem myndigheterna
+
+228
+00:12:24,191 --> 00:12:30,335
+Men även de myndigheter som har fått regeringens uppdrag att höja förvaltningens förmåga att använda AI
+
+229
+00:12:32,383 --> 00:12:38,527
+Och tanken är att andra resurser till till exempel nationella rymd datalab 1
+
+230
+00:12:38,783 --> 00:12:42,367
+Nationella samverkan som finns inom Västra Götalandsregionen
+
+231
+00:12:42,623 --> 00:12:46,463
+Och de data labben som Vinnova finansierar alla dem
+
+232
+00:12:46,975 --> 00:12:48,767
+Jag hitta en hemvist på
+
+233
+00:12:49,023 --> 00:12:55,167
+Den här arenan så att vi kan nyttja de resurserna som finns publicerade spretar ett mycket
+
+234
+00:12:56,191 --> 00:12:58,495
+Att främja en datadriven kultur
+
+235
+00:12:58,751 --> 00:12:59,775
+Vad är det för
+
+236
+00:13:00,543 --> 00:13:02,591
+Ja det är egentligen
+
+237
+00:13:03,359 --> 00:13:04,639
+Insikten om
+
+238
+00:13:05,151 --> 00:13:10,015
+Att data är ny typ ett kunskapsbaserat kapital som man kan använda för
+
+239
+00:13:10,271 --> 00:13:12,319
+Att utveckla nya affärsmodeller
+
+240
+00:13:12,575 --> 00:13:18,463
+Utveckla Den offentliga verksamheter eller bedriva ny typ av till exempel data till befolkning
+
+241
+00:13:19,743 --> 00:13:23,071
+Tidskapsel erbjuda partnerskap så att
+
+242
+00:13:23,327 --> 00:13:27,935
+Inte bara statliga förvaltningsmyndigheter kan ingå i detta utan även då
+
+243
+00:13:28,191 --> 00:13:32,287
+Kommuner regioner men även organisationer företag ska kunna det
+
+244
+00:13:34,591 --> 00:13:36,895
+Jag syftar till att stimulera datadelning
+
+245
+00:13:37,151 --> 00:13:39,711
+Att främja innovativa försök
+
+246
+00:13:44,063 --> 00:13:46,623
+Det fjärde insatsområdet handlar om
+
+247
+00:13:46,879 --> 00:13:48,159
+Regeringen ska bli
+
+248
+00:13:48,415 --> 00:13:49,695
+Styra
+
+249
+00:13:50,975 --> 00:13:53,023
+Som det är nu så ser vi ju
+
+250
+00:13:53,279 --> 00:13:54,815
+Massa goda exempel
+
+251
+00:13:55,071 --> 00:13:55,839
+Nosade
+
+252
+00:13:56,607 --> 00:14:00,959
+Och vi ser flera olika aktörer som
+
+253
+00:14:01,471 --> 00:14:05,055
+Bidrar till datadelning Men det är ganska splittrat
+
+254
+00:14:05,311 --> 00:14:06,079
+Och
+
+255
+00:14:06,847 --> 00:14:08,895
+Vi ser risk för dubbelarbete
+
+256
+00:14:09,407 --> 00:14:10,175
+Och
+
+257
+00:14:10,687 --> 00:14:12,991
+Tanken är då att vi försöker samla
+
+258
+00:14:13,503 --> 00:14:14,783
+Allt som pågår
+
+259
+00:14:15,039 --> 00:14:20,927
+Innan de här olika insatsområden i det vi kallar en årlig nationell handlingsplan
+
+260
+00:14:21,951 --> 00:14:24,767
+Och tanken är att den ska
+
+261
+00:14:25,023 --> 00:14:26,303
+Skicka sintering
+
+262
+00:14:27,327 --> 00:14:31,167
+För att regeringen de ska kunna få en översikt av vad som är på gång
+
+263
+00:14:31,679 --> 00:14:35,519
+Ute i minnesvärd än men även ute i näringslivet
+
+264
+00:14:37,055 --> 00:14:40,127
+Satt Regeringen kan skapa ny
+
+265
+00:14:40,383 --> 00:14:44,223
+Nya insatser vid behov men även kunna följa upp
+
+266
+00:14:45,503 --> 00:14:46,015
+Dan
+
+267
+00:14:48,575 --> 00:14:50,367
+Mål mål födelse
+
+268
+00:14:50,623 --> 00:14:51,135
+Så
+
+269
+00:14:52,671 --> 00:14:54,207
+50 insatsområdet
+
+270
+00:14:55,999 --> 00:14:57,791
+Ett uppdrag till Vinnova
+
+271
+00:14:59,071 --> 00:15:00,863
+Så vi hoppas han ska kunna ta vidare
+
+272
+00:15:01,119 --> 00:15:04,959
+Och tanken att du lova ska utreda behov av kompetensutveckling
+
+273
+00:15:05,215 --> 00:15:08,031
+Kapacitetsbyggande insatser
+
+274
+00:15:08,543 --> 00:15:12,639
+Vad gäller datahantering och datadelning för företag och organisation
+
+275
+00:15:13,151 --> 00:15:15,967
+De ska kartlägga och analysera behovet av
+
+276
+00:15:16,479 --> 00:15:17,503
+Spetsforskning
+
+277
+00:15:18,271 --> 00:15:19,295
+Vi tror ju
+
+278
+00:15:19,551 --> 00:15:21,343
+Till exempel Då att
+
+279
+00:15:21,855 --> 00:15:24,159
+Det rättsliga osäkerheten idag
+
+280
+00:15:24,415 --> 00:15:28,767
+Data delningar till exempel inte inte integritetskänsliga data
+
+281
+00:15:29,023 --> 00:15:35,167
+Aktivister vägas upp ett av användningen utav till exempel privacy enhancing Technologies Nya Tider
+
+282
+00:15:35,679 --> 00:15:37,471
+Ring Johanna
+
+283
+00:15:38,495 --> 00:15:39,007
+Men
+
+284
+00:15:39,263 --> 00:15:40,543
+Vi måste på något sätt
+
+285
+00:15:40,799 --> 00:15:41,823
+Lärosäte
+
+286
+00:15:42,335 --> 00:15:47,455
+Och det måste vi nästan göra på en forsknings nivå så finns behovet av spetsforskning
+
+287
+00:15:48,223 --> 00:15:50,015
+Finns behovet av testmiljöer
+
+288
+00:15:50,783 --> 00:15:54,111
+Det finns stora burkar kompetensutvecklingsinsatser
+
+289
+00:15:55,135 --> 00:15:56,415
+Ytterligare
+
+290
+00:15:56,671 --> 00:16:02,047
+Förstå att skapa en översikt över tillgängliga standards tur för att de kontrollerar datadelning
+
+291
+00:16:02,815 --> 00:16:04,095
+Du behöver förstå
+
+292
+00:16:04,607 --> 00:16:06,143
+Hur data marknader
+
+293
+00:16:06,399 --> 00:16:07,167
+Uppstår
+
+294
+00:16:07,423 --> 00:16:11,775
+Hur mycket det som vann Europeiska regleringen som du kommer få höra av mig efter här
+
+295
+00:16:12,031 --> 00:16:13,055
+Syfta till
+
+296
+00:16:13,311 --> 00:16:16,895
+Att få level playing Field zatvoru Twitter rättvis
+
+297
+00:16:17,407 --> 00:16:21,247
+En rättvis fördelning ut av värde
+
+298
+00:16:22,015 --> 00:16:25,343
+På den framväxande inre marknaden för dag
+
+299
+00:16:25,855 --> 00:16:29,183
+Den kommer bestå av ett antal olika mindre typer utav
+
+300
+00:16:29,695 --> 00:16:32,255
+Marknad inom respektive data områden
+
+301
+00:16:33,791 --> 00:16:35,327
+Och de kommer att behöva förstå
+
+302
+00:16:36,607 --> 00:16:40,703
+Kyrkogatan värderas datan knivigt på att det är svårt att sätta
+
+303
+00:16:41,727 --> 00:16:45,823
+Ett värde på det där för att värdet är så beroende utav kontexten
+
+304
+00:16:46,335 --> 00:16:47,871
+Vem som använder den
+
+305
+00:16:48,127 --> 00:16:49,663
+För Vilket syfte
+
+306
+00:16:50,687 --> 00:16:52,735
+Det är lite som vatten i öknen att
+
+307
+00:16:52,991 --> 00:16:55,039
+Visst utav data kan vara väldigt
+
+308
+00:16:55,295 --> 00:16:56,575
+Visa kontakt
+
+309
+00:16:58,111 --> 00:17:02,463
+Och sen så ska vi några ändå lista framgångsrika datadelning 16
+
+310
+00:17:05,535 --> 00:17:11,679
+De sista området och det här är sista bilden på min presentation blev breddat och fördjupat internationell
+
+311
+00:17:11,935 --> 00:17:12,447
+Samarbete
+
+312
+00:17:12,959 --> 00:17:15,263
+Som jag är väldigt glad att kommissionen
+
+313
+00:17:15,775 --> 00:17:17,055
+Fortsätta
+
+314
+00:17:17,311 --> 00:17:22,431
+Diskutera detta efteråt i mitten här så ser ni en ny station 19 minuter ska prata strategi
+
+315
+00:17:22,943 --> 00:17:26,271
+Med dataområde som är egentligen de sju
+
+316
+00:17:27,295 --> 00:17:30,879
+Saab den Europeiska hinder marknaden för data kommer att bestå
+
+317
+00:17:32,415 --> 00:17:36,511
+Till höger på bilden Så ser ni då ursprunget egentligen till
+
+318
+00:17:37,023 --> 00:17:38,047
+Delta species
+
+319
+00:17:38,303 --> 00:17:41,119
+Vilket är det internationella spacers socialtjänst
+
+320
+00:17:41,631 --> 00:17:45,471
+Men du ska ta fram hårfrisör typ som egentligen tagit fram faktura för
+
+321
+00:17:46,495 --> 00:17:48,799
+Och sen då möjliggör
+
+322
+00:17:49,055 --> 00:17:50,079
+Datadelning
+
+323
+00:17:50,335 --> 00:17:53,919
+Bibehållen kontroll över sekundär användning
+
+324
+00:17:54,687 --> 00:17:57,247
+Det innebär att vi kan dela data
+
+325
+00:17:57,503 --> 00:17:58,015
+Med
+
+326
+00:17:58,271 --> 00:17:59,551
+Hög grad av säkerhet
+
+327
+00:17:59,807 --> 00:18:05,183
+Bibehållen kontroll över hur den används bland annat genom då har varit
+
+328
+00:18:05,439 --> 00:18:06,719
+Baserad
+
+329
+00:18:07,231 --> 00:18:11,327
+Standard baserat standardiserade
+
+330
+00:18:11,583 --> 00:18:12,863
+Verktyg för data
+
+331
+00:18:15,935 --> 00:18:22,079
+En viktig koppling som är och gör som vi inte gör i den svenska data strategin
+
+332
+00:18:22,335 --> 00:18:23,359
+Rosita
+
+333
+00:18:23,615 --> 00:18:26,687
+Koppling till det som ligger under den röda
+
+334
+00:18:26,943 --> 00:18:27,711
+Rektangel
+
+335
+00:18:28,735 --> 00:18:31,039
+Det gröna och du egentligen mål
+
+336
+00:18:32,063 --> 00:18:32,575
+Om jag
+
+337
+00:18:32,831 --> 00:18:34,623
+Förenklar och sen så
+
+338
+00:18:35,135 --> 00:18:37,439
+Hpc tv-serie
+
+339
+00:18:39,999 --> 00:18:42,303
+Vad heter den snabba snabba datorer snabb
+
+340
+00:18:42,559 --> 00:18:43,583
+Process och tjänster
+
+341
+00:18:44,351 --> 00:18:46,143
+Tanken är verkligen där
+
+342
+00:18:47,423 --> 00:18:51,263
+Mycket av det här kommer upp att behöva ske i moln
+
+343
+00:18:52,031 --> 00:18:55,103
+Jaja eksemet intressant
+
+344
+00:18:55,871 --> 00:19:02,015
+Men även kommissionen till exempel i den kommande dact ställer krav på molntjänst
+
+345
+00:19:03,551 --> 00:19:07,903
+Jag vill bara peka på till vänster oecds rekommendation
+
+346
+00:19:08,159 --> 00:19:11,999
+Som Sverige har antagit innan vi sitter i rådet hocd
+
+347
+00:19:12,255 --> 00:19:15,327
+Sören Hans taxes and sharing of data
+
+348
+00:19:15,583 --> 00:19:18,143
+Det är inte den en global kan man se
+
+349
+00:19:18,655 --> 00:19:24,031
+Vägledning för datadelning att det är viktigt är att vi inte fastnar i bara det
+
+350
+00:19:24,543 --> 00:19:26,591
+Vi behöver upprätthålla goda
+
+351
+00:19:26,847 --> 00:19:28,383
+Transatlantiska data
+
+352
+00:19:28,639 --> 00:19:29,663
+Avdelnings
+
+353
+00:19:29,919 --> 00:19:35,295
+Relationer med även till exempel med handelspartner som Kina som behöver bygga de här data
+
+354
+00:19:37,343 --> 00:19:39,391
+Sams med sin globala en titt
+
+355
+00:19:41,183 --> 00:19:45,023
+Ja det var en kort översikt över data strategi
+
+356
+00:19:45,279 --> 00:19:51,423
+Och jag lämnar tillbaka stod det där Ja men tack så jättemycket
+
+357
+00:19:51,679 --> 00:19:52,703
+Intressant
+
+358
+00:19:52,959 --> 00:19:58,079
+Jag tänkte höra om det är någon som har frågor räcker upp handen i snoppen också
+
+359
+00:20:10,367 --> 00:20:12,927
+Jag ska Jonas
+
+360
+00:20:16,767 --> 00:20:18,559
+Ja gymnast egen Arbetsförmedling
+
+361
+00:20:20,095 --> 00:20:23,167
+Jag skulle gärna se att öppen källkod
+
+362
+00:20:23,423 --> 00:20:26,495
+Musik Jag tror att det hände så med motor för att kunna
+
+363
+00:20:27,007 --> 00:20:29,055
+Producera data
+
+364
+00:20:30,079 --> 00:20:32,383
+Ja vi använder oss av data säger
+
+365
+00:20:32,895 --> 00:20:33,663
+Kod 5
+
+366
+00:20:33,919 --> 00:20:34,431
+Kör
+
+367
+00:20:35,455 --> 00:20:37,503
+Det tror jag blir lite motor
+
+368
+00:20:41,087 --> 00:20:45,695
+Det kan mycket väl vara så framförallt inom offentlig förvaltning gata strategin
+
+369
+00:20:45,951 --> 00:20:50,303
+Täcker både data-driven ekonomidata den forskning och datadriven förvaltning
+
+370
+00:20:51,071 --> 00:20:52,863
+Som som
+
+371
+00:20:53,375 --> 00:20:56,191
+3 mottagare ett av de insatserna som gör
+
+372
+00:20:56,959 --> 00:20:58,495
+Och det är öppen källkod
+
+373
+00:20:59,263 --> 00:21:03,359
+Ett möjligt verktyg men vi egentligen inte så specifik agatas
+
+374
+00:21:06,943 --> 00:21:09,247
+Den typen utav insatt Men jag håller med dig
+
+375
+00:21:10,527 --> 00:21:12,831
+Björn Hagström
+
+376
+00:21:17,696 --> 00:21:18,976
+Magnus
+
+377
+00:21:19,488 --> 00:21:21,792
+Bra dragning tack det är bra genomgång
+
+378
+00:21:22,048 --> 00:21:27,168
+Jag funderar lite på demokrati aspekterna som egentligen saknas är alltså jag pratar lite om det förut men
+
+379
+00:21:27,424 --> 00:21:33,568
+Vad nämns = bisats och där Hur tänker regeringen kring kring demokrati
+
+380
+00:21:33,824 --> 00:21:37,408
+Som kan främja samarbete med har skrivit och kan prata mer öppet
+
+381
+00:21:38,944 --> 00:21:40,736
+Definitivt
+
+382
+00:21:41,248 --> 00:21:47,392
+Den finns med egentligen som / data arbetet i refererar till kommer nästa
+
+383
+00:21:47,648 --> 00:21:48,160
+Lagen
+
+384
+00:21:49,696 --> 00:21:50,976
+Den
+
+385
+00:21:51,488 --> 00:21:56,352
+Dyker upp som som del utav en Apple datadriven förvaltning
+
+386
+00:21:56,608 --> 00:21:58,144
+Men vi
+
+387
+00:21:58,656 --> 00:22:00,704
+Pratar du egentligen med dem
+
+388
+00:22:01,984 --> 00:22:04,544
+Starta dig min ekonomi datadriven forskning
+
+389
+00:22:04,800 --> 00:22:05,312
+Och
+
+390
+00:22:06,080 --> 00:22:09,920
+Effektivisering och ökad transparens inom en datadelning förvar
+
+391
+00:22:10,176 --> 00:22:15,040
+Inom transparent ställen i staden datadrivna förvaltningsavgift demokrativärden
+
+392
+00:22:15,552 --> 00:22:21,696
+Den finns i demokrati värdena mycket även på den Europeiska nivån ska vi komma ihåg där
+
+393
+00:22:21,952 --> 00:22:22,464
+Då
+
+394
+00:22:23,232 --> 00:22:26,816
+Bäddat skönt Har in de europeiska värdena i det
+
+395
+00:22:27,072 --> 00:22:28,352
+Kundcenter
+
+396
+00:22:31,936 --> 00:22:33,216
+Götene bygga på
+
+397
+00:22:35,008 --> 00:22:36,288
+Ja
+
+398
+00:22:37,312 --> 00:22:40,128
+För mig så Jensen de gamla
+
+399
+00:22:40,640 --> 00:22:46,016
+Renässans världarna som som återuppstår nu i datadriven
+
+400
+00:22:49,600 --> 00:22:51,136
+Det är något engelska
+
+401
+00:22:51,392 --> 00:22:51,904
+Kör till oss
+
+402
+00:22:52,160 --> 00:22:57,280
+Men men du har rätt i det att vi pratar rättsligt om demokrati i detta strategi
+
+403
+00:22:57,792 --> 00:22:58,560
+Inte riktigt
+
+404
+00:22:59,328 --> 00:23:00,864
+Det syftet jag skulle säga
+
+405
+00:23:03,424 --> 00:23:09,568
+Jag kanske ska säga så här Vi har ju vi har ju genom uppdrag till till dig och den handlingsplan som de
+
+406
+00:23:09,824 --> 00:23:10,848
+Framför öppna data
+
+407
+00:23:12,128 --> 00:23:15,456
+Säg tanken att data satte skin att titta lite mer
+
+408
+00:23:16,736 --> 00:23:18,016
+Som kommissionen
+
+409
+00:23:18,272 --> 00:23:20,576
+Titta på den typen av skyddade data
+
+410
+00:23:21,088 --> 00:23:24,416
+David Avicii skapar ekonomisk
+
+411
+00:23:24,672 --> 00:23:25,696
+Till exempel för
+
+412
+00:23:25,952 --> 00:23:26,976
+Delning utav
+
+413
+00:23:27,744 --> 00:23:29,024
+Välj en annan logik
+
+414
+00:23:29,280 --> 00:23:30,816
+En transparent logiken
+
+415
+00:23:31,072 --> 00:23:31,840
+Samsung
+
+416
+00:23:32,352 --> 00:23:33,376
+I min flicka
+
+417
+00:23:33,632 --> 00:23:34,400
+Viktig
+
+418
+00:23:34,656 --> 00:23:36,192
+Kanske ännu viktigare idag
+
+419
+00:23:37,216 --> 00:23:39,776
+Men den är liten annan annan riktning
+
+420
+00:23:49,248 --> 00:23:55,392
+Regeringen ganska höga ambitioner man pratar om att vi ligger lite efter på fotograferings området
+
+421
+00:23:55,648 --> 00:23:59,488
+Undersökningen pekar på det Ja vi ska ju vara bäst i klassen och inte riktigt det
+
+422
+00:24:00,000 --> 00:24:06,144
+Mandatet ändå hittat offensiv framförallt ner och ekonomiska bitarna och
+
+423
+00:24:06,400 --> 00:24:06,912
+Tagande
+
+424
+00:24:07,168 --> 00:24:13,312
+Entreprenörskap men ska man implementera en ny lag för datadelning öppna datalagen eller
+
+425
+00:24:13,824 --> 00:24:18,944
+Hur gör man en min implementationen av öppna data direktiv knappens där Jag får inte lite här och går
+
+426
+00:24:19,456 --> 00:24:22,784
+Jag tycker man får säger olika saker samtidigt
+
+427
+00:24:26,112 --> 00:24:32,256
+Ja jag vet inte om jag vill kalla dig min inflammation äta datalagen
+
+428
+00:24:32,512 --> 00:24:34,304
+Knivig
+
+429
+00:24:34,560 --> 00:24:39,168
+Vi har slagit hårt kring begrepp som datainformation och handlingar
+
+430
+00:24:40,960 --> 00:24:41,984
+Och det
+
+431
+00:24:42,240 --> 00:24:44,544
+Är en stegvis
+
+432
+00:24:48,128 --> 00:24:50,432
+Komplettering till
+
+433
+00:24:51,200 --> 00:24:53,504
+Tryckfrihetsförordningen öppenhetsprincipen
+
+434
+00:24:54,016 --> 00:24:56,064
+Som gör de den
+
+435
+00:24:56,320 --> 00:24:59,136
+Störande faktor på ett sätt Det är därför
+
+436
+00:25:01,696 --> 00:25:05,536
+Det har varit svårt att publicerat man pratar bara baserat på TF
+
+437
+00:25:06,304 --> 00:25:11,168
+Den stora saken som schemaappen datalagen jag tänkte för en ny rättsgrund för
+
+438
+00:25:11,680 --> 00:25:12,192
+Öppna
+
+439
+00:25:12,448 --> 00:25:13,984
+Dela data som äta data
+
+440
+00:25:14,752 --> 00:25:16,544
+Jag använder till med mycket data
+
+441
+00:25:17,824 --> 00:25:20,128
+Vilket en liten liten Revolution
+
+442
+00:25:20,384 --> 00:25:21,920
+Islandshäst
+
+443
+00:25:22,176 --> 00:25:22,688
+Ska jag säga
+
+444
+00:25:23,200 --> 00:25:26,016
+Jag tror att det ligger en bra rättslig grund
+
+445
+00:25:28,320 --> 00:25:29,856
+Tror jag
+
+446
+00:25:30,112 --> 00:25:30,880
+Att
+
+447
+00:25:32,928 --> 00:25:34,464
+Att öppna data i
+
+448
+00:25:35,488 --> 00:25:36,512
+Viktiga
+
+449
+00:25:36,768 --> 00:25:39,072
+Framförallt demokrati och transparens perspektiv
+
+450
+00:25:39,328 --> 00:25:41,632
+Men det är en en liten del 1
+
+451
+00:25:41,888 --> 00:25:43,168
+Stora dataland
+
+452
+00:25:43,936 --> 00:25:45,472
+Stora data landskap
+
+453
+00:25:45,728 --> 00:25:49,056
+Kommer att behöva driva sitt kommersiella drivkrafter
+
+454
+00:25:50,592 --> 00:25:51,104
+Och
+
+455
+00:25:52,640 --> 00:25:54,944
+Handlar med dem
+
+456
+00:25:55,200 --> 00:25:56,224
+Få igång
+
+457
+00:25:56,480 --> 00:25:58,528
+Level playing Field
+
+458
+00:25:59,040 --> 00:26:04,928
+Okej köpt förtroende på framväxande data marknad Det är där vi kommer se dom stora
+
+459
+00:26:06,208 --> 00:26:07,744
+Framstegen Vad gäller data det
+
+460
+00:26:11,584 --> 00:26:13,888
+Kristina knaving på det
+
+461
+00:26:15,936 --> 00:26:20,032
+Hejsan nyfiken på frågorna runt jeansen
+
+462
+00:26:20,800 --> 00:26:23,360
+Och hur man jobbar med
+
+463
+00:26:24,128 --> 00:26:25,664
+Förstå vad det innebär
+
+464
+00:26:26,176 --> 00:26:27,712
+I frågan
+
+465
+00:26:27,968 --> 00:26:28,480
+Ja
+
+466
+00:26:28,736 --> 00:26:30,528
+Brasiliens dragare
+
+467
+00:26:30,784 --> 00:26:32,320
+Skanska tydligt
+
+468
+00:26:32,576 --> 00:26:35,904
+Det kommer ju med det här liksom bara att vi Starta delning och
+
+469
+00:26:36,160 --> 00:26:41,536
+Frågor runt hur hur data och det skulle vara att prata så Vet du redan
+
+470
+00:26:42,304 --> 00:26:43,840
+Om jag har BankID
+
+471
+00:26:44,352 --> 00:26:46,400
+Jag tror att det var intensiv som påpekade
+
+472
+00:26:46,656 --> 00:26:52,800
+Många äldre som har BankID Södra annan som sköter BankID och de kan inte göra det
+
+473
+00:26:53,312 --> 00:26:55,360
+Om du tänker på oss att du ska förstå
+
+474
+00:26:55,616 --> 00:26:57,920
+Smögen datadelning ge
+
+475
+00:26:58,176 --> 00:27:00,480
+Ge till återanvändning och vilket datum
+
+476
+00:27:00,992 --> 00:27:05,344
+Där vi egentligen kanske inte har den grunden till förståelse
+
+477
+00:27:06,624 --> 00:27:11,488
+Så jag är lite nyfiken på det som generellt sett liksom typ om vi tänker oss imorgon centrerad
+
+478
+00:27:12,000 --> 00:27:16,352
+Vilka Vilka processer tänker du jobba med för att att komma fram till vad det innebär
+
+479
+00:27:18,912 --> 00:27:21,216
+För det första så ser det väldigt olika ut
+
+480
+00:27:21,728 --> 00:27:23,776
+Genom olika data domäner
+
+481
+00:27:25,312 --> 00:27:28,128
+Hälsodata genom helt annat än miljödata
+
+482
+00:27:28,384 --> 00:27:29,920
+Och
+
+483
+00:27:30,176 --> 00:27:34,016
+Jag skulle säga att data mognaden skiljer sig också mellan olika datum domäner
+
+484
+00:27:34,528 --> 00:27:38,112
+Det är därför den här datasat 79 lite
+
+485
+00:27:38,624 --> 00:27:42,720
+Pröva nåt experimenterande i den meningen att regeringen ger fem
+
+486
+00:27:43,232 --> 00:27:45,792
+Jensen utforskande utvecklingsuppdrag
+
+487
+00:27:46,048 --> 00:27:48,352
+Till myndigheter att dra igång
+
+488
+00:27:48,864 --> 00:27:51,424
+Ett antal utvecklingsinsatser
+
+489
+00:27:51,680 --> 00:27:53,216
+Inom fem olika områden
+
+490
+00:27:53,728 --> 00:27:58,336
+Och sedan sätter vi ihop dem så Vi skapar grund för ett institutionellt lärande inom området
+
+491
+00:27:58,848 --> 00:28:01,152
+Det är fortfarande så nytt så att
+
+492
+00:28:01,664 --> 00:28:02,944
+Jag har ingen data mognad
+
+493
+00:28:03,200 --> 00:28:06,528
+Jag har inte tillräcklig förståelse för man prinsessorna en
+
+494
+00:28:07,040 --> 00:28:07,552
+Så
+
+495
+00:28:07,808 --> 00:28:08,576
+Yr
+
+496
+00:28:08,832 --> 00:28:13,696
+I den bästa av världar så det vi gör nu är att skapa en lärande strategi
+
+497
+00:28:14,208 --> 00:28:18,304
+Den här typen utav frågor kommer att dyka upp som brev på posten
+
+498
+00:28:18,560 --> 00:28:20,608
+Men det kommer se olika ut
+
+499
+00:28:20,864 --> 00:28:23,424
+Inom olika domäner Det kan inte vara så
+
+500
+00:28:23,680 --> 00:28:29,056
+Här har du en stor kontrollpanel Nu får du sköta om allting indata så kommer inte se
+
+501
+00:28:29,568 --> 00:28:31,360
+Nej det är inte jag
+
+502
+00:28:33,408 --> 00:28:38,272
+Nyfiken säger att de kommer att vara iterativa lärande för att du misstänker att första
+
+503
+00:28:38,528 --> 00:28:41,600
+Att första försöket komma ut för deras ganska tydligt
+
+504
+00:28:42,624 --> 00:28:44,416
+Jag ska sen kanske
+
+505
+00:28:45,184 --> 00:28:48,256
+Var ska vi ett spännande kommissionen efter jag skulle säga
+
+506
+00:28:48,512 --> 00:28:49,280
+En
+
+507
+00:28:50,304 --> 00:28:51,584
+Okej 22 saker
+
+508
+00:28:52,096 --> 00:28:54,912
+USA gjort en spännande de kallar future
+
+509
+00:28:55,168 --> 00:28:55,680
+Kjol
+
+510
+00:28:56,192 --> 00:28:58,240
+Future career
+
+511
+00:28:59,520 --> 00:29:02,592
+När man har infört ett förbud mot information Block
+
+512
+00:29:03,360 --> 00:29:09,504
+De vänder på hela logiken och säger att det är förbjudet för en organisation
+
+513
+00:29:09,760 --> 00:29:10,784
+Hindra data del
+
+514
+00:29:11,808 --> 00:29:14,624
+Om det finns nyttig för patienten att hämta hem
+
+515
+00:29:15,136 --> 00:29:15,648
+Så
+
+516
+00:29:17,184 --> 00:29:23,328
+Vi får se vad som kommer nu i-förordningen för de europeiska datautrymme
+
+517
+00:29:28,448 --> 00:29:32,800
+Det ska bli spännande att se vilka principer de bygger på men det är ju samma sak där att mycket av det
+
+518
+00:29:33,824 --> 00:29:35,616
+Kommer du att trivas regulativ
+
+519
+00:29:35,872 --> 00:29:37,152
+Ifrån öl
+
+520
+00:29:37,408 --> 00:29:38,432
+Det vi kan göra
+
+521
+00:29:38,944 --> 00:29:40,224
+I Sverige det
+
+522
+00:29:40,992 --> 00:29:41,760
+Främja
+
+523
+00:29:42,016 --> 00:29:45,344
+Att bygga organisatorisk kapacitet för att tillämpa den här regeln
+
+524
+00:29:45,856 --> 00:29:46,368
+Stadium
+
+525
+00:29:47,648 --> 00:29:48,672
+Ja ja
+
+526
+00:29:49,184 --> 00:29:52,000
+Tror att jag inte vill få fram att det finns ju sagt
+
+527
+00:29:52,512 --> 00:29:53,792
+Trophies in the pudding
+
+528
+00:29:54,048 --> 00:29:55,072
+Aspekter
+
+529
+00:29:55,328 --> 00:29:57,888
+Om hur vi till djur vi faktiskt
+
+530
+00:29:58,144 --> 00:30:01,216
+Tillämpa har stor betydelse vid alla vet man tittar på
+
+531
+00:30:01,728 --> 00:30:04,544
+100 fönster om att dela sin data på webbsidor
+
+532
+00:30:05,056 --> 00:30:06,336
+Du är en jätte viktig fråga
+
+533
+00:30:07,360 --> 00:30:09,664
+Det är liksom mycket av problem
+
+534
+00:30:13,504 --> 00:30:16,832
+Tack
+
+535
+00:30:17,088 --> 00:30:22,208
+Jätte snabb fråga också bara från Sven Erik sedig på Huddig Vill du ställa en själv eller
+
+536
+00:30:26,304 --> 00:30:28,096
+Ja det kan jag göra
+
+537
+00:30:28,352 --> 00:30:34,240
+Jag jobbar mest det från insidan Together Forever eller ser ingen som har du något fan lyssnar
+
+538
+00:30:34,496 --> 00:30:37,824
+USÖ vann Stanley principer för datadelning som ju
+
+539
+00:30:38,336 --> 00:30:43,712
+Galler över landsgränserna ska säga lite Hur ser att attraktionen relaterat
+
+540
+00:30:44,480 --> 00:30:45,248
+Avanza
+
+541
+00:30:49,856 --> 00:30:51,136
+Brottsregistret
+
+542
+00:30:51,392 --> 00:30:51,904
+Nummer
+
+543
+00:30:52,672 --> 00:30:56,256
+Insatser för att göra lite grann
+
+544
+00:30:56,512 --> 00:30:59,328
+Jag skulle sett strategin
+
+545
+00:31:01,376 --> 00:31:02,656
+Är lite vid sidan av
+
+546
+00:31:02,912 --> 00:31:04,448
+Oj
+
+547
+00:31:04,704 --> 00:31:06,752
+Syftet med strategin var att
+
+548
+00:31:07,520 --> 00:31:09,312
+Precis som de kommande dagar
+
+549
+00:31:09,568 --> 00:31:11,360
+Eller dataakuten som nyhet
+
+550
+00:31:11,872 --> 00:31:16,992
+Så ligger fokus på med den typen utav roterbart elmaskiner maskindata
+
+551
+00:31:17,760 --> 00:31:21,856
+Sdg och mycket av det klassiska är förvaltningsarbete
+
+552
+00:31:23,904 --> 00:31:26,464
+Alarm om informationsutbyte
+
+553
+00:31:26,720 --> 00:31:28,256
+En del av det
+
+554
+00:31:29,024 --> 00:31:30,048
+Kan mycket väl ske
+
+555
+00:31:30,560 --> 00:31:33,888
+Maskinläsbart där information är en produkt utav
+
+556
+00:31:34,912 --> 00:31:36,192
+Datautbyte
+
+557
+00:31:36,960 --> 00:31:41,056
+Men den want only principle
+
+558
+00:31:44,640 --> 00:31:48,992
+Den finns ju där och den är viktig del men den är inte det lite av datastativ själv
+
+559
+00:31:49,504 --> 00:31:50,016
+Massage
+
+560
+00:31:51,040 --> 00:31:54,112
+Den är ritad av den Den ligger på mer nivå
+
+561
+00:31:54,368 --> 00:31:55,904
+Digital förvaltning
+
+562
+00:31:57,696 --> 00:32:01,536
+Om du tycker att jag tittar en stationär uppe så har vi
+
+563
+00:32:03,840 --> 00:32:05,120
+Data strategin
+
+564
+00:32:05,376 --> 00:32:06,400
+Oj
+
+565
+00:32:06,656 --> 00:32:09,216
+Strategin under digitaliseringsstrategi
+
+566
+00:32:09,728 --> 00:32:11,520
+Och då ligger det Ligger
+
+567
+00:32:12,288 --> 00:32:13,824
+One only principle
+
+568
+00:32:14,080 --> 00:32:16,640
+Digitaliseringsstrategi
+
+569
+00:32:17,152 --> 00:32:18,688
+När går liksom
+
+570
+00:32:18,944 --> 00:32:19,456
+Under
+
+571
+00:32:19,968 --> 00:32:21,248
+Undrar precis
+
+572
+00:32:21,504 --> 00:32:22,784
+Jag kan inte
+
+573
+00:32:23,808 --> 00:32:29,952
+Tack till Magnus
+
+574
+00:32:30,208 --> 00:32:32,512
+Kul att du idag
+
+575
+00:32:32,768 --> 00:32:35,840
+Welcome to
+
+576
+00:32:37,888 --> 00:32:44,032
+Now will hear about the European commission division of database in Europe
+
+577
+00:32:44,544 --> 00:32:45,568
+Välkommen
+
+578
+00:32:47,360 --> 00:32:48,128
+Traxxas
+
+579
+00:32:48,384 --> 00:32:49,152
+Skicka
+
+580
+00:32:49,664 --> 00:32:52,480
+Measurement for having today
+
+581
+00:32:52,736 --> 00:32:55,808
+Particle e525
+
+582
+00:32:57,856 --> 00:33:04,000
+Capturing good is a very interesting but words can download
+
+583
+00:33:05,024 --> 00:33:06,560
+Evanescence live
+
+584
+00:33:06,816 --> 00:33:07,840
+Arbete
+
+585
+00:33:08,096 --> 00:33:11,424
+Familiar to work at Red condition
+
+586
+00:33:11,936 --> 00:33:15,008
+So I am just that I hope that I am not
+
+587
+00:33:15,264 --> 00:33:19,104
+Standing on Toes Repeat information by swimming password
+
+588
+00:33:19,360 --> 00:33:21,408
+Adams with that
+
+589
+00:33:21,664 --> 00:33:24,992
+Smoke Happy glass share my screen now
+
+590
+00:33:25,760 --> 00:33:26,272
+ADD
+
+591
+00:33:26,528 --> 00:33:27,552
+Talk to you about
+
+592
+00:33:30,624 --> 00:33:33,952
+Commuting bases and European integration
+
+593
+00:33:35,744 --> 00:33:38,816
+Stranger things Hopper
+
+594
+00:33:39,584 --> 00:33:40,864
+With That's all
+
+595
+00:33:41,120 --> 00:33:45,216
+Vision first name of this Audio Pro Windows
+
+596
+00:33:47,520 --> 00:33:50,336
+Speaker Magnus you have been learning to this
+
+597
+00:33:50,592 --> 00:33:51,104
+Sverige
+
+598
+00:33:51,616 --> 00:33:53,664
+But I will do drag me
+
+599
+00:34:01,600 --> 00:34:03,904
+G2a
+
+600
+00:34:04,160 --> 00:34:05,184
+Single
+
+601
+00:34:06,976 --> 00:34:07,744
+Genuine
+
+602
+00:34:08,000 --> 00:34:13,120
+Single internal Market for date our date in Flow Free Across sectors
+
+603
+00:34:13,632 --> 00:34:19,776
+Online what you can do about it when the Line that photo you can Parliament
+
+604
+00:34:20,032 --> 00:34:22,336
+Stronger
+
+605
+00:34:25,408 --> 00:34:27,968
+Do you finish recently combined
+
+606
+00:34:28,224 --> 00:34:30,016
+Add to Following Circle
+
+607
+00:34:30,272 --> 00:34:36,160
+Switch the cross-sectoral the Framework many of Which and have been are you doing
+
+608
+00:34:38,208 --> 00:34:40,768
+Activate at specific
+
+609
+00:34:41,024 --> 00:34:44,864
+Combining and funding of the coming year
+
+610
+00:34:45,888 --> 00:34:46,400
+Dö
+
+611
+00:34:46,656 --> 00:34:47,424
+Genesis
+
+612
+00:34:47,680 --> 00:34:52,544
+How to keep up with I Was Looking up happening
+
+613
+00:34:53,824 --> 00:34:57,152
+So ever Mistake of developing Business
+
+614
+00:34:57,408 --> 00:35:00,992
+And the commission took Visa Star Coins and
+
+615
+00:35:01,248 --> 00:35:05,344
+Creating a more overarching approach to Scale up
+
+616
+00:35:06,624 --> 00:35:07,136
+ADD
+
+617
+00:35:07,392 --> 00:35:11,744
+We adopt it's on the same day that
+
+618
+00:35:12,000 --> 00:35:14,304
+Dokument
+
+619
+00:35:14,560 --> 00:35:15,584
+Which deals
+
+620
+00:35:15,840 --> 00:35:19,424
+With
+
+621
+00:35:19,680 --> 00:35:21,472
+Steak holders and members
+
+622
+00:35:21,984 --> 00:35:25,824
+Play recordings computer space and future
+
+623
+00:35:26,848 --> 00:35:30,688
+Activities in this Field
+
+624
+00:35:30,944 --> 00:35:35,040
+Faster than Wind
+
+625
+00:35:35,552 --> 00:35:38,112
+The Concept of this Space
+
+626
+00:35:40,160 --> 00:35:40,672
+To
+
+627
+00:35:40,928 --> 00:35:42,976
+Laitis.se
+
+628
+00:35:43,488 --> 00:35:49,376
+What Matters is not to create a strict definition of a common European Space
+
+629
+00:35:49,888 --> 00:35:50,912
+We want to
+
+630
+00:35:51,936 --> 00:35:53,472
+Brother want to develop
+
+631
+00:35:53,728 --> 00:35:55,264
+Understanding this
+
+632
+00:35:55,520 --> 00:36:00,128
+The principles that allow for the development of
+
+633
+00:36:00,640 --> 00:36:03,200
+Space required will leave room
+
+634
+00:36:03,456 --> 00:36:04,992
+Fyra sektorer specificitet
+
+635
+00:36:05,248 --> 00:36:06,784
+Johan overa
+
+636
+00:36:08,576 --> 00:36:09,856
+Levels of Cursed
+
+637
+00:36:10,112 --> 00:36:10,624
+Progress
+
+638
+00:36:10,880 --> 00:36:11,648
+Betalning
+
+639
+00:36:11,904 --> 00:36:14,720
+Indifferent
+
+640
+00:36:15,232 --> 00:36:15,744
+Sector
+
+641
+00:36:16,000 --> 00:36:19,328
+So the database of the staff working document
+
+642
+00:36:19,584 --> 00:36:23,424
+Presents the horizontal aspects today
+
+643
+00:36:23,680 --> 00:36:27,008
+Can you play the space of the concept
+
+644
+00:36:31,360 --> 00:36:35,712
+From which the sexual initiatives kanbanflow not respond
+
+645
+00:36:35,968 --> 00:36:36,480
+To
+
+646
+00:36:36,736 --> 00:36:37,760
+Difference 9
+
+647
+00:36:39,808 --> 00:36:44,416
+Talking like about somebody that is in Division 4
+
+648
+00:36:44,672 --> 00:36:45,696
+Go
+
+649
+00:36:45,952 --> 00:36:46,976
+What's the
+
+650
+00:36:47,232 --> 00:36:49,024
+Staff working document also offer
+
+651
+00:36:49,536 --> 00:36:50,560
+Soft
+
+652
+00:36:50,816 --> 00:36:54,912
+Definition Which would be happy command York in the space
+
+653
+00:36:55,936 --> 00:37:02,080
+Combine all Bring together infrastructure and governance structures and governance framework
+
+654
+00:37:02,592 --> 00:37:05,152
+Date pudding
+
+655
+00:37:05,408 --> 00:37:05,920
+Cheering
+
+656
+00:37:09,248 --> 00:37:09,760
+What's
+
+657
+00:37:13,344 --> 00:37:16,416
+Men jag vet bixby service and to overcome
+
+658
+00:37:16,672 --> 00:37:18,720
+Stigbygel i technical
+
+659
+00:37:18,976 --> 00:37:20,512
+H&m
+
+660
+00:37:20,768 --> 00:37:21,792
+Anthony Mackie
+
+661
+00:37:22,560 --> 00:37:25,632
+Pictures with a CB
+
+662
+00:37:26,144 --> 00:37:27,680
+Security
+
+663
+00:37:27,936 --> 00:37:28,960
+Open number
+
+664
+00:37:29,984 --> 00:37:34,336
+The state must be made available on a voluntary basis
+
+665
+00:37:34,592 --> 00:37:35,104
+That
+
+666
+00:37:36,896 --> 00:37:38,944
+Prenumeration or 3
+
+667
+00:37:39,200 --> 00:37:40,736
+Opening on the shoulders
+
+668
+00:37:42,272 --> 00:37:46,112
+And this is like that
+
+669
+00:37:46,624 --> 00:37:49,952
+Soldiers for guidance take off when you're talking about
+
+670
+00:37:50,208 --> 00:37:51,488
+First design principles
+
+671
+00:37:52,000 --> 00:37:53,280
+Du kan inte du kan
+
+672
+00:37:53,536 --> 00:37:56,096
+You want to the app for the computer specs
+
+673
+00:37:56,352 --> 00:37:59,424
+280 make more weight of a Box
+
+674
+00:37:59,936 --> 00:38:01,472
+Favor
+
+675
+00:38:01,984 --> 00:38:03,520
+Respekt
+
+676
+00:38:04,032 --> 00:38:05,312
+Jordan Valley
+
+677
+00:38:05,568 --> 00:38:06,080
+Zoe
+
+678
+00:38:06,336 --> 00:38:06,848
+This
+
+679
+00:38:07,104 --> 00:38:07,872
+Expressen
+
+680
+00:38:08,128 --> 00:38:11,712
+Not only to comply with applicable
+
+681
+00:38:12,224 --> 00:38:14,016
+Play
+
+682
+00:38:14,272 --> 00:38:17,344
+Measures to prevent and after ice
+
+683
+00:38:17,600 --> 00:38:18,112
+Dejta
+
+684
+00:38:18,368 --> 00:38:21,440
+Like I said the open messages
+
+685
+00:38:21,696 --> 00:38:22,976
+All actors
+
+686
+00:38:24,000 --> 00:38:25,536
+Respect Too Bad
+
+687
+00:38:25,792 --> 00:38:27,584
+Comply with euro
+
+688
+00:38:27,840 --> 00:38:29,376
+Spiral
+
+689
+00:38:30,912 --> 00:38:31,680
+Damm
+
+690
+00:38:32,192 --> 00:38:33,728
+Common European Database
+
+691
+00:38:33,984 --> 00:38:36,800
+Show Records participants in the data
+
+692
+00:38:37,824 --> 00:38:41,152
+To use a common technical data
+
+693
+00:38:41,408 --> 00:38:43,456
+Where should I Go
+
+694
+00:38:43,712 --> 00:38:45,248
+Sodastream test
+
+695
+00:38:46,528 --> 00:38:47,552
+More efficiently
+
+696
+00:38:50,112 --> 00:38:53,440
+And I Brian Pontus World of cars to avoid
+
+697
+00:38:53,696 --> 00:38:54,720
+Fragmentation
+
+698
+00:38:54,976 --> 00:38:56,768
+Vi kommer ju Playstation
+
+699
+00:38:58,560 --> 00:38:59,328
+Standard
+
+700
+00:38:59,584 --> 00:39:01,376
+To favor
+
+701
+00:39:02,144 --> 00:39:08,288
+Connections and Therefore leading progressive to get a single European
+
+702
+00:39:10,080 --> 00:39:11,104
+Anders
+
+703
+00:39:11,616 --> 00:39:12,896
+Comprehensive
+
+704
+00:39:13,152 --> 00:39:14,688
+Infrastructure
+
+705
+00:39:14,944 --> 00:39:15,968
+Cannoli
+
+706
+00:39:16,736 --> 00:39:18,272
+Take Place There is also in
+
+707
+00:39:18,528 --> 00:39:20,832
+Proclear 1 day turbons framework
+
+708
+00:39:21,344 --> 00:39:22,624
+That's deals with
+
+709
+00:39:24,672 --> 00:39:29,024
+Rules and regulations for contractual
+
+710
+00:39:29,280 --> 00:39:30,304
+Nej
+
+711
+00:39:30,560 --> 00:39:31,840
+Germany
+
+712
+00:39:32,096 --> 00:39:33,888
+Transparent way
+
+713
+00:39:34,144 --> 00:39:37,472
+Rise of the Swedish taxes and crosses the day
+
+714
+00:39:37,984 --> 00:39:40,032
+So close all of these
+
+715
+00:39:40,800 --> 00:39:41,312
+Pitchers
+
+716
+00:39:41,824 --> 00:39:47,968
+Will allow data from crossing new from the public sector to the private sector
+
+717
+00:39:48,224 --> 00:39:49,504
+Individuals
+
+718
+00:39:52,064 --> 00:39:54,368
+That should be made available
+
+719
+00:39:54,624 --> 00:39:55,136
+Exchange
+
+720
+00:39:55,392 --> 00:39:57,184
+Trustworthy
+
+721
+00:39:57,440 --> 00:39:58,464
+Secure manner
+
+722
+00:40:01,024 --> 00:40:03,840
+To Support the deployment and governance
+
+723
+00:40:04,096 --> 00:40:06,656
+Kommer
+
+724
+00:40:06,912 --> 00:40:08,704
+Find the setting up and opera
+
+725
+00:40:14,848 --> 00:40:15,872
+Word program
+
+726
+00:40:16,640 --> 00:40:17,152
+No
+
+727
+00:40:17,408 --> 00:40:20,736
+The Call for creation of the
+
+728
+00:40:20,992 --> 00:40:22,784
+These three main
+
+729
+00:40:24,832 --> 00:40:26,112
+Död
+
+730
+00:40:26,624 --> 00:40:27,648
+Vårdcentral
+
+731
+00:40:27,904 --> 00:40:29,184
+Workout
+
+732
+00:40:35,584 --> 00:40:40,704
+Steakhouse in the fields in order to promote and coordinate
+
+733
+00:40:41,472 --> 00:40:43,264
+Call Robin actions
+
+734
+00:40:43,520 --> 00:40:45,312
+Spacers
+
+735
+00:40:45,568 --> 00:40:48,128
+For today science
+
+736
+00:40:48,384 --> 00:40:51,456
+Isosurface second element squishies
+
+737
+00:40:51,712 --> 00:40:53,760
+Identify the coming
+
+738
+00:40:54,016 --> 00:40:55,552
+Infrastructure
+
+739
+00:40:57,088 --> 00:40:59,136
+R center for creation
+
+740
+00:41:01,440 --> 00:41:03,488
+Will define What happen
+
+741
+00:41:03,744 --> 00:41:06,048
+Patience should i use Tinder
+
+742
+00:41:06,816 --> 00:41:09,888
+Visa gå specifications are the crimes of 2
+
+743
+00:41:10,144 --> 00:41:10,656
+Software
+
+744
+00:41:10,912 --> 00:41:15,008
+That the commission and open source to everyone
+
+745
+00:41:16,032 --> 00:41:16,544
+And
+
+746
+00:41:17,056 --> 00:41:19,104
+Detta
+
+747
+00:41:19,360 --> 00:41:23,968
+Support Centre will support the work of the European Innovation award
+
+748
+00:41:24,224 --> 00:41:26,528
+Which episode of Pirate Bay
+
+749
+00:41:27,040 --> 00:41:33,184
+And has the main enhancing jeans
+
+750
+00:41:33,440 --> 00:41:36,000
+Actors in the movie
+
+751
+00:41:38,048 --> 00:41:41,120
+That knowledge
+
+752
+00:41:43,168 --> 00:41:43,936
+Change
+
+753
+00:41:44,448 --> 00:41:48,288
+All actors of you call me and I will of course be
+
+754
+00:41:48,800 --> 00:41:53,151
+Used as Richard essinger built in between different Day
+
+755
+00:41:55,199 --> 00:41:55,711
+No
+
+756
+00:41:56,223 --> 00:42:01,599
+Dislike Your weekends overview of how the morning
+
+757
+00:42:03,647 --> 00:42:05,439
+Will action min pension
+
+758
+00:42:05,695 --> 00:42:07,999
+Dead Space Center
+
+759
+00:42:08,255 --> 00:42:10,559
+Will be checking centraal
+
+760
+00:42:11,583 --> 00:42:13,375
+Wide spacers
+
+761
+00:42:13,631 --> 00:42:15,679
+What is supported by the Database
+
+762
+00:42:15,935 --> 00:42:16,703
+Poolcenter
+
+763
+00:42:16,959 --> 00:42:19,519
+Asian Not Only
+
+764
+00:42:19,775 --> 00:42:24,895
+Between a
+
+765
+00:42:27,199 --> 00:42:27,711
+So
+
+766
+00:42:28,479 --> 00:42:29,247
+Visine
+
+767
+00:42:30,783 --> 00:42:31,551
+De
+
+768
+00:42:31,807 --> 00:42:37,439
+Green star coldwater into the
+
+769
+00:42:37,695 --> 00:42:38,207
+Where
+
+770
+00:42:38,463 --> 00:42:42,815
+Birds of the day that space is Pasi
+
+771
+00:42:43,071 --> 00:42:44,351
+Djurprogram
+
+772
+00:42:44,607 --> 00:42:46,143
+The appointment of the Queen
+
+773
+00:42:47,679 --> 00:42:50,239
+Jesper Börjesson
+
+774
+00:42:50,495 --> 00:42:52,031
+Piccadilly Gardens
+
+775
+00:42:52,543 --> 00:42:53,567
+Antik
+
+776
+00:42:53,823 --> 00:42:58,431
+Building of the necessary inför structured Tools
+
+777
+00:42:58,687 --> 00:43:01,247
+Actors and governance Mechanisms
+
+778
+00:43:02,015 --> 00:43:02,527
+ADD
+
+779
+00:43:02,783 --> 00:43:04,575
+Speak English
+
+780
+00:43:04,831 --> 00:43:05,855
+Porten
+
+781
+00:43:07,391 --> 00:43:09,439
+Which mobile development of
+
+782
+00:43:10,463 --> 00:43:11,743
+E&y
+
+783
+00:43:11,999 --> 00:43:14,559
+Kommande Spaces by parkering
+
+784
+00:43:14,815 --> 00:43:16,607
+Solution
+
+785
+00:43:16,863 --> 00:43:19,423
+Being open-source smart
+
+786
+00:43:19,679 --> 00:43:21,471
+Middleware platform
+
+787
+00:43:21,727 --> 00:43:26,079
+Infrastructure standby enable
+
+788
+00:43:26,847 --> 00:43:27,359
+Vi
+
+789
+00:43:28,639 --> 00:43:32,479
+Possible division of the European
+
+790
+00:43:32,735 --> 00:43:34,015
+Cloudformation
+
+791
+00:43:34,783 --> 00:43:37,087
+So this point of the
+
+792
+00:43:38,367 --> 00:43:38,879
+Edge
+
+793
+00:43:41,183 --> 00:43:42,463
+Must be compliant
+
+794
+00:43:43,487 --> 00:43:46,047
+You can universe and the show
+
+795
+00:43:46,303 --> 00:43:52,447
+Hypercolor recordings on secure the protection of privacy
+
+796
+00:43:55,007 --> 00:43:56,799
+Begagnade Saab b
+
+797
+00:43:57,311 --> 00:43:57,823
+Open
+
+798
+00:43:58,079 --> 00:43:58,847
+By default
+
+799
+00:43:59,103 --> 00:44:00,127
+Wishful
+
+800
+00:44:00,383 --> 00:44:02,943
+Inshore sweetie in i glas
+
+801
+00:44:04,479 --> 00:44:05,247
+And
+
+802
+00:44:05,759 --> 00:44:06,783
+Dizzy
+
+803
+00:44:07,039 --> 00:44:09,343
+Slide isn't shows black screen
+
+804
+00:44:09,599 --> 00:44:10,111
+What
+
+805
+00:44:10,367 --> 00:44:13,951
+Would be very short in the foreseeable show Space
+
+806
+00:44:14,463 --> 00:44:14,975
+In
+
+807
+00:44:15,487 --> 00:44:20,095
+Josefine Jinder Moving from a political system with the code number of participants
+
+808
+00:44:20,351 --> 00:44:20,863
+2
+
+809
+00:44:21,119 --> 00:44:22,399
+Desperation av
+
+810
+00:44:23,423 --> 00:44:28,287
+And the movie about talking about Who we are important to allow
+
+811
+00:44:28,543 --> 00:44:29,823
+European Fighters
+
+812
+00:44:30,335 --> 00:44:32,383
+To function
+
+813
+00:44:33,151 --> 00:44:35,455
+Federated multi vendor
+
+814
+00:44:36,223 --> 00:44:36,991
+Spiderman
+
+815
+00:44:44,159 --> 00:44:49,791
+And What exactly is the role of the commission the creation of the day
+
+816
+00:44:51,071 --> 00:44:52,351
+Informationskällor
+
+817
+00:44:52,607 --> 00:44:57,983
+But I was just on the line
+
+818
+00:44:59,263 --> 00:44:59,775
+Measure
+
+819
+00:45:00,543 --> 00:45:02,847
+So that will be
+
+820
+00:45:03,871 --> 00:45:04,895
+Ring Christer
+
+821
+00:45:05,151 --> 00:45:07,455
+Harmony nice framework for the strangers with
+
+822
+00:45:07,967 --> 00:45:11,039
+Nudging
+
+823
+00:45:11,551 --> 00:45:13,087
+David Do you want to work
+
+824
+00:45:16,415 --> 00:45:19,487
+Windows update
+
+825
+00:45:20,255 --> 00:45:23,839
+And this also also makes sure that
+
+826
+00:45:24,095 --> 00:45:26,655
+There is more that is held by the public sector
+
+827
+00:45:27,167 --> 00:45:31,007
+Other Guys
+
+828
+00:45:31,519 --> 00:45:34,847
+Anders Didrik
+
+829
+00:45:35,103 --> 00:45:39,967
+Stamsaas the European Innovation Born to Be Alive
+
+830
+00:45:43,039 --> 00:45:44,575
+The date
+
+831
+00:45:45,087 --> 00:45:47,135
+I will have
+
+832
+00:45:48,415 --> 00:45:50,207
+Empowers
+
+833
+00:45:50,463 --> 00:45:51,487
+Abonnemang
+
+834
+00:45:51,743 --> 00:45:54,559
+Picture of the titans and Powers
+
+835
+00:45:55,071 --> 00:45:57,119
+To be able to step in
+
+836
+00:45:57,375 --> 00:45:59,935
+When there is a lack of
+
+837
+00:46:00,191 --> 00:46:01,727
+Chopper bild
+
+838
+00:46:03,007 --> 00:46:03,519
+Zachary
+
+839
+00:46:03,775 --> 00:46:06,847
+And the big mission baby
+
+840
+00:46:11,711 --> 00:46:12,223
+Subs
+
+841
+00:46:12,479 --> 00:46:14,527
+Chopper billigt i Cindy
+
+842
+00:46:16,831 --> 00:46:18,879
+Avsnitt talking with the funding
+
+843
+00:46:19,135 --> 00:46:22,207
+Ivory mentions de
+
+844
+00:46:22,463 --> 00:46:27,071
+Our program Which would be really essentiel to Uddevalla
+
+845
+00:46:27,327 --> 00:46:30,143
+Android a community Days Space
+
+846
+00:46:30,655 --> 00:46:33,983
+And we can also think about and
+
+847
+00:46:34,239 --> 00:46:40,383
+Jurassic World 2 be used for focusing on research and Innovation aspects and
+
+848
+00:46:41,663 --> 00:46:43,199
+Kom in
+
+849
+00:46:43,967 --> 00:46:45,759
+40
+
+850
+00:46:46,015 --> 00:46:51,135
+Connecting your facility
+
+851
+00:46:51,647 --> 00:46:55,487
+And Of course I am very special
+
+852
+00:46:55,999 --> 00:46:56,511
+Mobil
+
+853
+00:46:56,767 --> 00:47:00,863
+What to use by several member States
+
+854
+00:47:02,655 --> 00:47:03,167
+Date
+
+855
+00:47:04,959 --> 00:47:05,471
+No
+
+856
+00:47:06,751 --> 00:47:09,567
+Number of
+
+857
+00:47:10,335 --> 00:47:11,871
+Babysitter happy now
+
+858
+00:47:12,639 --> 00:47:14,943
+En kattkompis
+
+859
+00:47:16,991 --> 00:47:18,271
+Samma vis
+
+860
+00:47:18,527 --> 00:47:19,039
+Majs
+
+861
+00:47:19,295 --> 00:47:20,063
+Rehab
+
+862
+00:47:20,831 --> 00:47:23,647
+Where are you and What's this
+
+863
+00:47:25,439 --> 00:47:26,463
+Be lights in bedroom
+
+864
+00:47:26,719 --> 00:47:27,487
+System
+
+865
+00:47:27,743 --> 00:47:28,255
+Where
+
+866
+00:47:28,767 --> 00:47:31,327
+There are common Elements throughout this
+
+867
+00:47:32,351 --> 00:47:33,375
+Princeton
+
+868
+00:47:33,631 --> 00:47:38,239
+Occasion mechanism for authentication mechanism for
+
+869
+00:47:39,519 --> 00:47:41,311
+Nrj.se
+
+870
+00:47:41,567 --> 00:47:42,847
+Would be the same
+
+871
+00:47:43,103 --> 00:47:45,663
+Mechanism to be used in the movie
+
+872
+00:47:46,175 --> 00:47:48,223
+Swedish or that user
+
+873
+00:47:48,479 --> 00:47:51,551
+And use the same system and software
+
+874
+00:47:53,855 --> 00:47:55,135
+Annes
+
+875
+00:47:56,415 --> 00:47:58,207
+There's also perhaps
+
+876
+00:47:58,975 --> 00:47:59,999
+Highlighting the fact
+
+877
+00:48:00,511 --> 00:48:02,303
+Today I will have
+
+878
+00:48:02,815 --> 00:48:03,839
+Vin
+
+879
+00:48:04,095 --> 00:48:04,607
+Mission
+
+880
+00:48:04,863 --> 00:48:06,143
+Mobile.de
+
+881
+00:48:06,911 --> 00:48:09,215
+Secondary education for special
+
+882
+00:48:10,239 --> 00:48:12,799
+Space
+
+883
+00:48:18,687 --> 00:48:19,967
+Paper Space
+
+884
+00:48:20,223 --> 00:48:21,759
+To insert a picture
+
+885
+00:48:22,015 --> 00:48:24,575
+Have better access to the priming calculator
+
+886
+00:48:25,087 --> 00:48:27,903
+Add control over and also
+
+887
+00:48:29,183 --> 00:48:30,719
+4 sekunder Youtube
+
+888
+00:48:30,975 --> 00:48:32,767
+Search and research
+
+889
+00:48:33,023 --> 00:48:34,303
+Pausa
+
+890
+00:48:35,071 --> 00:48:36,095
+Så
+
+891
+00:48:40,447 --> 00:48:41,727
+Patience
+
+892
+00:48:41,983 --> 00:48:42,495
+CoD
+
+893
+00:48:43,007 --> 00:48:45,567
+Big Travel to Germany and they could be
+
+894
+00:48:46,847 --> 00:48:48,639
+Picking up the kitchen
+
+895
+00:48:51,967 --> 00:48:54,527
+Give the sign how to use
+
+896
+00:48:55,039 --> 00:48:56,319
+That's data
+
+897
+00:48:56,831 --> 00:48:58,111
+For research
+
+898
+00:48:58,879 --> 00:49:00,415
+Skördetid
+
+899
+00:49:03,743 --> 00:49:05,535
+This afternoon
+
+900
+00:49:05,791 --> 00:49:11,935
+The commission will be sending out that has been working and how are you
+
+901
+00:49:12,191 --> 00:49:12,959
+Patience
+
+902
+00:49:13,215 --> 00:49:15,007
+Research and regulations
+
+903
+00:49:15,263 --> 00:49:16,543
+I want to act
+
+904
+00:49:16,799 --> 00:49:17,823
+The Daily Star
+
+905
+00:49:18,079 --> 00:49:20,383
+Trabea
+
+906
+00:49:22,687 --> 00:49:23,199
+And
+
+907
+00:49:23,967 --> 00:49:24,991
+So finally
+
+908
+00:49:25,503 --> 00:49:26,271
+The slide
+
+909
+00:49:27,039 --> 00:49:31,903
+Chosen to me What is blacking the is the funding counter for sale
+
+910
+00:49:32,159 --> 00:49:34,975
+Funny color for the computer
+
+911
+00:49:35,487 --> 00:49:36,767
+And we
+
+912
+00:49:37,023 --> 00:49:40,607
+Under the work programme for the first two years
+
+913
+00:49:40,863 --> 00:49:45,727
+So for research
+
+914
+00:49:46,239 --> 00:49:51,359
+Over all induktiv budget of around 410 years
+
+915
+00:49:51,615 --> 00:49:54,943
+Det så be used in a multitude of different
+
+916
+00:49:57,503 --> 00:49:58,271
+Ja precis
+
+917
+00:49:58,527 --> 00:50:00,063
+For instance Deezer
+
+918
+00:50:06,719 --> 00:50:12,863
+Sport Center for any number of Open data related product
+
+919
+00:50:13,119 --> 00:50:15,167
+Well as for the setting up
+
+920
+00:50:15,935 --> 00:50:16,703
+German
+
+921
+00:50:19,263 --> 00:50:20,799
+Välkommen
+
+922
+00:50:22,079 --> 00:50:23,615
+Building Blocks
+
+923
+00:50:23,871 --> 00:50:26,175
+The Clouds Edge
+
+924
+00:50:27,967 --> 00:50:29,503
+Millwork
+
+925
+00:50:31,039 --> 00:50:31,551
+So
+
+926
+00:50:31,807 --> 00:50:33,855
+That would be It For Me
+
+927
+00:50:34,111 --> 00:50:35,391
+So thank you very much
+
+928
+00:50:37,695 --> 00:50:42,815
+Thank you very much
+
+929
+00:50:46,655 --> 00:50:48,447
+Läppsyl
+
+930
+00:50:56,127 --> 00:50:56,895
+Alex
+
+931
+00:50:57,919 --> 00:50:59,455
+Forsberg pass
+
+932
+00:51:03,807 --> 00:51:06,879
+So questions Reddit
+
+933
+00:51:07,135 --> 00:51:09,439
+Questions about the interoperability Aspect
+
+934
+00:51:09,695 --> 00:51:10,975
+Avbryta spacers
+
+935
+00:51:11,487 --> 00:51:14,559
+U.s. mention in the Swedish strategy
+
+936
+00:51:14,815 --> 00:51:17,375
+Sharing data we talk about the Earth
+
+937
+00:51:17,631 --> 00:51:18,143
+Paus
+
+938
+00:51:18,399 --> 00:51:19,935
+Just wanna a
+
+939
+00:51:20,191 --> 00:51:21,471
+How the commission
+
+940
+00:51:22,239 --> 00:51:28,127
+Gjorde valuation process of Which frameworks for standard to use regards
+
+941
+00:51:28,383 --> 00:51:34,527
+In regards to which sector for in this type of database just regarding at the mastec components
+
+942
+00:51:34,783 --> 00:51:37,855
+Like Transports War Energy
+
+943
+00:51:38,367 --> 00:51:40,671
+How do you do How do you do a
+
+944
+00:51:41,183 --> 00:51:43,231
+Framework for standard Select
+
+945
+00:51:43,487 --> 00:51:45,535
+Ok Google define principles
+
+946
+00:51:48,607 --> 00:51:53,471
+Thanks for watching Alex This is going to be a
+
+947
+00:51:56,031 --> 00:51:57,311
+Ongoing Bass
+
+948
+00:51:57,823 --> 00:51:59,359
+Sagobibliotek
+
+949
+00:51:59,615 --> 00:52:00,639
+Certain
+
+950
+00:52:00,895 --> 00:52:04,991
+Showbiz situations Where do you find the vision board
+
+951
+00:52:05,247 --> 00:52:10,367
+What have to be taking into consideration What is happening on Field and what will be
+
+952
+00:52:10,623 --> 00:52:11,135
+Anne
+
+953
+00:52:14,207 --> 00:52:14,975
+How
+
+954
+00:52:15,231 --> 00:52:15,999
+40 color
+
+955
+00:52:16,255 --> 00:52:17,279
+Dejt kärring
+
+956
+00:52:17,791 --> 00:52:20,863
+Situation would in default filter printz-påhlson
+
+957
+00:52:21,375 --> 00:52:22,655
+That's with B
+
+958
+00:52:23,423 --> 00:52:27,263
+Wake me up a bit about in conjunction with steak holders
+
+959
+00:52:27,775 --> 00:52:33,919
+Escuela ass initiatives That is happening Elsewhere from the industry
+
+960
+00:52:34,175 --> 00:52:36,223
+Galaxy
+
+961
+00:52:36,479 --> 00:52:42,623
+Or if you think about the alliance Alive
+
+962
+00:52:42,879 --> 00:52:45,183
+Edge hobbyboden
+
+963
+00:52:45,439 --> 00:52:45,951
+Stopp
+
+964
+00:52:46,463 --> 00:52:47,743
+The Hobbit
+
+965
+00:52:48,255 --> 00:52:49,279
+Number of
+
+966
+00:52:52,095 --> 00:52:53,631
+Condition Dobby
+
+967
+00:52:59,519 --> 00:53:01,311
+Jag förstår men det var fel kundsupport
+
+968
+00:53:01,823 --> 00:53:04,127
+Bird ready to work
+
+969
+00:53:04,383 --> 00:53:07,967
+Generation War Viaplay
+
+970
+00:53:10,271 --> 00:53:11,295
+Thanks so much
+
+971
+00:53:11,807 --> 00:53:17,951
+Okej thank you very much and I wonder if you have the time to stay on our song Precious in
+
+972
+00:53:18,207 --> 00:53:19,743
+Chat brb
+
+973
+00:53:21,791 --> 00:53:25,887
+Och nu Varsågod Victoria så ska du se väg till ett annat möte
+
+974
+00:53:26,143 --> 00:53:28,703
+Men en liten snopp överflygning
+
+975
+00:53:28,959 --> 00:53:31,519
+Om vigsel roll i det här
+
+976
+00:53:32,287 --> 00:53:33,055
+Ja tack
+
+977
+00:53:33,311 --> 00:53:35,615
+Jätteroligt att få vara med
+
+978
+00:53:35,871 --> 00:53:41,759
+Superduper spännande Thank you Antonio och får ledigt here so much but I you you
+
+979
+00:53:42,015 --> 00:53:43,551
+Work in this
+
+980
+00:53:43,807 --> 00:53:45,087
+My name is
+
+981
+00:53:45,343 --> 00:53:45,855
+Sorry
+
+982
+00:53:46,111 --> 00:53:46,623
+Swish
+
+983
+00:53:46,879 --> 00:53:49,183
+Viktoria hagelstedt
+
+984
+00:53:49,695 --> 00:53:55,071
+Jag är ledare på de frågor som rör samordning av Digital utveckling
+
+985
+00:53:55,839 --> 00:54:01,983
+Och det är jätteroligt att många vill delta och kul att se er från jobba med olika dator trimmern olika
+
+986
+00:54:02,239 --> 00:54:03,263
+Uppdragen som vi har
+
+987
+00:54:03,775 --> 00:54:08,127
+Digg har ett väldigt viktigt uppdrag att samordna stöd digitalisering
+
+988
+00:54:08,383 --> 00:54:09,407
+Easy
+
+989
+00:54:09,663 --> 00:54:11,455
+Offentlig förvaltning men även samhället
+
+990
+00:54:11,711 --> 00:54:15,295
+Och det ska vi göra Såklart du läsa olika typer av samhällsutmaning
+
+991
+00:54:16,575 --> 00:54:19,135
+Och vi på digg Vi lever ju
+
+992
+00:54:19,391 --> 00:54:25,279
+Samordnar och utvecklar någonting som skall förena Sveriges digitala infrastruktur
+
+993
+00:54:26,047 --> 00:54:27,839
+Vid den så finns det både
+
+994
+00:54:28,095 --> 00:54:30,399
+Många olika nationella
+
+995
+00:54:30,655 --> 00:54:34,239
+Standardformat arbetssätt specifikationer
+
+996
+00:54:34,495 --> 00:54:36,543
+Till exempel som vi jobbar med
+
+997
+00:54:37,055 --> 00:54:40,895
+Playbook Vi har ett grunddata ramverk som går att använda
+
+998
+00:54:41,407 --> 00:54:46,271
+Är det på många olika arbeten grunddata inom den innan
+
+999
+00:54:46,527 --> 00:54:52,671
+Områden som Hälsa vård och omsorg men också inom geodata området inom person
+
+1000
+00:54:52,927 --> 00:54:53,951
+Företagsområde
+
+1001
+00:54:54,975 --> 00:54:57,791
+Och även som spelades innan transportsystem
+
+1002
+00:54:58,815 --> 00:55:04,959
+Vi också med tjänster och Infrastruktur komponenter som till exempel Digital Post och bygge
+
+1003
+00:55:05,215 --> 00:55:10,591
+Identitet innan den här infrastrukturen och säg hur många andra myndigheter in och gör det
+
+1004
+00:55:10,847 --> 00:55:11,871
+Till exempel så jobb
+
+1005
+00:55:12,127 --> 00:55:14,943
+Bolagsverket med mina om du då
+
+1006
+00:55:15,199 --> 00:55:15,967
+Och
+
+1007
+00:55:16,991 --> 00:55:22,367
+Skatteverket med mina ärenden skulle pågå väldigt mycket arbete i denna digitala infrastrukturen
+
+1008
+00:55:22,623 --> 00:55:26,975
+Vad ska man med en digital Infrastruktur till om man inte har tillgång till data
+
+1009
+00:55:27,231 --> 00:55:29,279
+Grunden till det vi behöver
+
+1010
+00:55:29,791 --> 00:55:35,679
+För att kunna lösa olika samhällsutmaningar och kunna lösa vårt uppdrag i det offentliga
+
+1011
+00:55:36,959 --> 00:55:37,983
+Jag sa att vi har
+
+1012
+00:55:38,239 --> 00:55:40,799
+HDF upptaget sämjedelning
+
+1013
+00:55:41,055 --> 00:55:42,335
+Gör en av data
+
+1014
+00:55:42,847 --> 00:55:47,455
+Och där ska vi knyta samman arbetet som sker hos olika aktörer in
+
+1015
+00:55:47,711 --> 00:55:48,479
+Området
+
+1016
+00:55:48,735 --> 00:55:54,879
+Men vi ska också Se till att det blir ökat lärande för området men också att det faktiskt nyttig görs mer
+
+1017
+00:55:55,647 --> 00:55:57,439
+Det kommer ut med datakatten
+
+1018
+00:55:57,951 --> 00:55:58,719
+Användning
+
+1019
+00:55:59,487 --> 00:56:01,279
+Även om de hänger ju såklart
+
+1020
+00:56:01,535 --> 00:56:07,679
+Alla andra som är här och många som inte här också att man behöver jobba då med sin data för att tillägga
+
+1021
+00:56:07,935 --> 00:56:12,543
+Göra det men också att du måste ta reda på vilken data finns de och Var kan vi använda
+
+1022
+00:56:13,055 --> 00:56:13,823
+Jätte
+
+1023
+00:56:14,591 --> 00:56:17,663
+Men det viktiga med det här i alla fall att vi ska använda det här för
+
+1024
+00:56:17,919 --> 00:56:18,687
+För att
+
+1025
+00:56:18,943 --> 00:56:20,991
+Kunna skapa nytt
+
+1026
+00:56:21,247 --> 00:56:25,855
+Som de här utmaningarna som ni tittar på garantin livslångt lärande
+
+1027
+00:56:26,111 --> 00:56:28,159
+Bättre möjlighet diagnoser
+
+1028
+00:56:28,415 --> 00:56:29,183
+Osv
+
+1029
+00:56:31,231 --> 00:56:31,999
+Sätt
+
+1030
+00:56:32,255 --> 00:56:32,767
+Vi
+
+1031
+00:56:33,023 --> 00:56:35,839
+Jobbar mycket också med rekommendationer om hur
+
+1032
+00:56:36,095 --> 00:56:39,679
+Ska man äta när man har du berätta vad det har du fortsätta att utveckla
+
+1033
+00:56:39,935 --> 00:56:46,079
+Vi har sveriges dataportal Ja så det till kommer länka till åtminstone Avbryt profilen
+
+1034
+00:56:46,335 --> 00:56:49,407
+Vi har sveriges dataportalen det finns möjlighet att jobba både med
+
+1035
+00:56:49,663 --> 00:56:53,247
+Att dela av p r us och gränssnitt för att dela data
+
+1036
+00:56:53,503 --> 00:56:59,647
+Det finns möjligheter där också att dela Lovisa Barkman var man ha sin data hur den är strukturerad
+
+1037
+00:56:59,903 --> 00:57:00,671
+Specialisera
+
+1038
+00:57:00,927 --> 00:57:02,207
+Finns jättemycket där så
+
+1039
+00:57:02,463 --> 00:57:04,511
+Ni har kanske varit där redan Men det
+
+1040
+00:57:04,767 --> 00:57:07,071
+En viktig grund i det här
+
+1041
+00:57:08,095 --> 00:57:14,239
+Och sen så har vi ju våra medarbetare här är ju lika med och Maria och Nina med
+
+1042
+00:57:14,495 --> 00:57:17,567
+Jobba med de här frågorna varje dag
+
+1043
+00:57:18,335 --> 00:57:20,639
+Säkert fler som jag inte ser bild
+
+1044
+00:57:22,687 --> 00:57:23,711
+Och
+
+1045
+00:57:23,967 --> 00:57:27,039
+Det är också viktigt för oss att kunna liksom
+
+1046
+00:57:27,551 --> 00:57:29,599
+Funkar som ett Kitt mellan er som jobbar
+
+1047
+00:57:30,111 --> 00:57:31,903
+De är olika datum dragen
+
+1048
+00:57:32,927 --> 00:57:33,951
+Engagerade
+
+1049
+00:57:34,719 --> 00:57:36,767
+Och det blir så spännande förvirrad
+
+1050
+00:57:37,791 --> 00:57:38,559
+Efteråt
+
+1051
+00:57:39,071 --> 00:57:40,863
+Jag behöver mera Vad händer idag
+
+1052
+00:57:41,887 --> 00:57:42,911
+Uppdragen
+
+1053
+00:57:43,423 --> 00:57:44,959
+Äter det ni ska
+
+1054
+00:57:45,215 --> 00:57:45,727
+Vidar
+
+1055
+00:57:45,983 --> 00:57:47,263
+Och sen har ni redan nu
+
+1056
+00:57:47,519 --> 00:57:48,031
+Höra
+
+1057
+00:57:48,543 --> 00:57:53,919
+Inflygningen från Sveriges arbete med Sveriges data strategi istället
+
+1058
+00:57:54,175 --> 00:57:55,711
+Data strategi så jag tänkte
+
+1059
+00:57:56,479 --> 00:57:57,503
+Kycklingkorv
+
+1060
+00:57:58,015 --> 00:58:03,647
+Inspel inblick i och för sig och det vill vi göra vidare att göra vidare med många av er
+
+1061
+00:58:04,159 --> 00:58:05,183
+Det är
+
+1062
+00:58:06,207 --> 00:58:10,815
+Väldigt kort i fem minuter vad vi gör Hoppas att du får en
+
+1063
+00:58:11,327 --> 00:58:13,375
+Spännande dag hoppas jag hoppa här nu då
+
+1064
+00:58:14,911 --> 00:58:15,679
+Tack för mig
+
+1065
+00:58:15,935 --> 00:58:17,471
+Här kom dataportalen också
+
+1066
+00:58:17,727 --> 00:58:18,495
+Tack för den
+
+1067
+00:58:21,567 --> 00:58:27,711
+Tack Viktoria och Tack allesammans för att ni var med på den här
+
+1068
+00:58:27,967 --> 00:58:28,735
+Första timmen
+
+1069
+00:58:28,991 --> 00:58:30,271
+Och jag hoppas
+
+1070
+00:58:30,527 --> 00:58:32,831
+Att ni har fått ut någonting av det
+
+1071
+00:58:33,087 --> 00:58:38,719
+Fortsätt gärna ställa frågor i chatten ska vi se om vi kan få möjlighet att få att han besvarade senare
+
+1072
+00:58:39,487 --> 00:58:41,279
+Nu tar vi en
+
+1073
+00:58:41,535 --> 00:58:43,839
+5 minuters bensträckare
+
+1074
+00:58:44,607 --> 00:58:49,215
+Är tillbaka några minuter över elva
+
+1075
+00:58:49,727 --> 00:58:50,239
+Tack
+
+1076
+00:59:11,231 --> 00:59:11,743
+Ja
+
+1077
+00:59:11,999 --> 00:59:13,791
+Ja det verkar så
+
+1078
+00:59:14,559 --> 00:59:15,327
+Vad bra
+
+1079
+00:59:16,095 --> 00:59:20,959
+Drar vi igång Men nu ska vi
+
+1080
+00:59:23,007 --> 00:59:24,543
+Dragen
+
+1081
+00:59:26,079 --> 00:59:28,639
+Nationella data strategin
+
+1082
+00:59:28,895 --> 00:59:31,711
+Och vi har då kontaktpersoner för
+
+1083
+00:59:31,967 --> 00:59:34,783
+Eller inte alla
+
+1084
+00:59:35,039 --> 00:59:38,111
+Områdena i alla fall
+
+1085
+00:59:38,623 --> 00:59:44,511
+Det är fem stycken personer som kommer att presentera lite grann hur långt man har kommit
+
+1086
+00:59:44,767 --> 00:59:46,559
+Om man håller på med
+
+1087
+00:59:47,071 --> 00:59:48,351
+Och gärna då med
+
+1088
+00:59:48,607 --> 00:59:50,399
+Tilda också
+
+1089
+00:59:51,423 --> 00:59:54,495
+Vi drar igång med data
+
+1090
+00:59:54,751 --> 00:59:59,615
+Försörjning och livslångt lärande Erik lejdemyr
+
+1091
+01:00:00,127 --> 01:00:03,199
+Lämnar ordet till dig Varsågod
+
+1092
+01:00:04,223 --> 01:00:04,991
+Tacka
+
+1093
+01:00:05,247 --> 01:00:06,015
+Då ska vi se
+
+1094
+01:00:06,527 --> 01:00:07,295
+Ska delas
+
+1095
+01:00:17,535 --> 01:00:19,583
+Nähä nu får jag nog Jonas hjälpa mig
+
+1096
+01:00:25,983 --> 01:00:26,751
+Sådär
+
+1097
+01:00:28,543 --> 01:00:29,823
+Sen i
+
+1098
+01:00:32,127 --> 01:00:32,895
+Skelett
+
+1099
+01:00:33,919 --> 01:00:34,431
+Amen
+
+1100
+01:00:35,455 --> 01:00:41,087
+Ja Eric Liedman heter jag Jag jobbar på arbetsförmedlingen på en enhet som heter jobb
+
+1101
+01:00:42,879 --> 01:00:47,999
+I juni förra året så fick vi tillsammans med sju andra myndigheter
+
+1102
+01:00:48,511 --> 01:00:51,327
+I uppdrag att utveckla en sammanhållen data
+
+1103
+01:00:53,119 --> 01:00:54,399
+Livslångt lärande
+
+1104
+01:00:56,191 --> 01:00:59,775
+Bärighet uppdrag som Arbetsförmedlingen har i uppdrag att samordna
+
+1105
+01:01:00,287 --> 01:01:02,591
+Och det gör vi ganska mycket vi
+
+1106
+01:01:02,847 --> 01:01:04,895
+Sekretariat som jag inte
+
+1107
+01:01:05,663 --> 01:01:07,455
+Flera som ingår i det
+
+1108
+01:01:10,783 --> 01:01:11,551
+Vi
+
+1109
+01:01:11,807 --> 01:01:14,623
+De redovisade här uppdraget nu i januari
+
+1110
+01:01:14,879 --> 01:01:17,439
+Så det kan vi ta del av den årsrapporten
+
+1111
+01:01:17,695 --> 01:01:18,463
+Hemsida
+
+1112
+01:01:18,975 --> 01:01:21,023
+Och vi fick precis också
+
+1113
+01:01:21,279 --> 01:01:21,791
+Slut
+
+1114
+01:01:22,047 --> 01:01:22,559
+Om
+
+1115
+01:01:22,815 --> 01:01:26,399
+Det här uppdraget ska förlängas med ett år satt slutredovisningen
+
+1116
+01:01:26,655 --> 01:01:29,215
+Kommer ske i januari 2024
+
+1117
+01:01:29,983 --> 01:01:31,519
+Set dj
+
+1118
+01:01:31,775 --> 01:01:32,799
+Goda
+
+1119
+01:01:33,055 --> 01:01:33,567
+Tänka
+
+1120
+01:01:33,823 --> 01:01:38,175
+Långsiktigt men samtidigt så är det också ganska mycket liksom här och nu som vi ska
+
+1121
+01:01:38,687 --> 01:01:39,455
+Göra lite värk
+
+1122
+01:01:42,527 --> 01:01:47,903
+Jag tänkte bara börja lite med utmaningar just kompetensförsörjning och livslångt lärande i ett ganska bra
+
+1123
+01:01:48,159 --> 01:01:48,927
+Område
+
+1124
+01:01:49,439 --> 01:01:55,583
+Det sträcker sig liksom genom olika sektorer utbildning arbetsmarknaden näringsliv
+
+1125
+01:01:56,607 --> 01:01:57,631
+Är det säkert också
+
+1126
+01:01:57,887 --> 01:01:58,911
+Liksom
+
+1127
+01:01:59,167 --> 01:02:00,703
+Mellan olika
+
+1128
+01:02:00,959 --> 01:02:04,543
+Myndigheter eller genom olika myndigheter genom olika departement
+
+1129
+01:02:05,311 --> 01:02:06,335
+Sofie
+
+1130
+01:02:07,103 --> 01:02:11,967
+Jag har bidragit till att myndigheten kanske har jobbat ganska mycket med min egen data
+
+1131
+01:02:12,223 --> 01:02:14,783
+Apex Rapport eget språk och bild
+
+1132
+01:02:15,807 --> 01:02:20,671
+Och så kan det kanske att låsa in där liksom olika typer av tekniska struktur
+
+1133
+01:02:21,183 --> 01:02:24,255
+Den liksom problembilden som
+
+1134
+01:02:24,511 --> 01:02:27,071
+Jag har uppdraget bild vill lösa ut
+
+1135
+01:02:27,839 --> 01:02:33,215
+Så vi jobbar mer mer med öppen data om öppenhet så att vi får till de här
+
+1136
+01:02:33,727 --> 01:02:37,055
+Eller motverkar man stuprören som tidigare
+
+1137
+01:02:40,127 --> 01:02:46,015
+Vårt mål är att uppdraget är att vi ska just skapa förutsättningar för andra aktörer
+
+1138
+01:02:46,527 --> 01:02:49,855
+Ska kunna utveckla bra digitala tjänster som
+
+1139
+01:02:50,111 --> 01:02:53,183
+Just nu äter De hära olika behoven som finns
+
+1140
+01:02:53,439 --> 01:02:54,975
+Kompetensförsörjning och livslångt lärande
+
+1141
+01:02:55,743 --> 01:02:57,791
+Och det lite spännande utifrån liksom
+
+1142
+01:02:58,047 --> 01:03:00,095
+Ja det är lite ovant tror jag från att
+
+1143
+01:03:00,351 --> 01:03:04,447
+För oss myndigheter att få ett uppdrag där vi ska skapa förutsättningar för andra
+
+1144
+01:03:04,959 --> 01:03:08,287
+Vi brukar ofta få uppdrag där vi ska liksom
+
+1145
+01:03:08,543 --> 01:03:11,359
+Förbättra vårt eget eller vårt kärnuppdrag
+
+1146
+01:03:11,871 --> 01:03:17,759
+Men hur ska vi tänka med gemensamma och då behöver vi liksom höja blicken lite från det som kanske
+
+1147
+01:03:18,015 --> 01:03:19,807
+Är mindre specifikt i många fall
+
+1148
+01:03:20,319 --> 01:03:22,367
+Sen så är vi myndigheter också viktig
+
+1149
+01:03:24,159 --> 01:03:27,487
+Vi producerar också digitala tjänster och behöver näring
+
+1150
+01:03:28,511 --> 01:03:33,375
+Det är klart att vi liksom behöver ta med er i arbetet också men det är lite sånt där
+
+1151
+01:03:33,887 --> 01:03:39,775
+Bamse pellets föräldraperspektiv som vi myndigheter i det här uppdraget behöver ta med oss
+
+1152
+01:03:40,287 --> 01:03:42,079
+I Hur uttalas a uppdrag
+
+1153
+01:03:44,383 --> 01:03:48,991
+Och hur gör vi då det Ja men det blir ju datadelning
+
+1154
+01:03:49,503 --> 01:03:50,015
+Central
+
+1155
+01:03:51,039 --> 01:03:53,087
+Öppna data men också
+
+1156
+01:03:53,599 --> 01:03:55,647
+Öppen källkod har
+
+1157
+01:03:56,159 --> 01:03:56,927
+Vi har ett
+
+1158
+01:03:57,183 --> 01:04:01,279
+Liksom principbeslut mellan oss myndighet att vi så hög utsträckning också ska
+
+1159
+01:04:01,535 --> 01:04:04,607
+Använda sista av öppen källkod i
+
+1160
+01:04:04,863 --> 01:04:08,703
+Kdv utvecklar innan uppdraget och den också Jag blir kanske anskaffar
+
+1161
+01:04:09,471 --> 01:04:11,775
+Och det är ju liksom För att vi ska
+
+1162
+01:04:12,031 --> 01:04:15,359
+Försöka skapa förutsättningar för andra färdigt skapa på det vi gör
+
+1163
+01:04:16,127 --> 01:04:17,919
+Så vi får till en bättre
+
+1164
+01:04:18,175 --> 01:04:19,455
+Effekto 1
+
+1165
+01:04:19,967 --> 01:04:21,503
+Mer effektiv verksamhet
+
+1166
+01:04:26,367 --> 01:04:27,647
+Ja nej men
+
+1167
+01:04:27,903 --> 01:04:31,231
+Jäst datadelning blir där öppen
+
+1168
+01:04:31,487 --> 01:04:37,631
+Med fokus på appen data blir väldigt centralt men såklart också liksom att vi behöver tänka på integritet
+
+1169
+01:04:40,703 --> 01:04:41,471
+Till Vi har ju
+
+1170
+01:04:41,727 --> 01:04:46,847
+Inom regeringsuppdraget är att vi fokuserar på tre stycken delområden
+
+1171
+01:04:47,615 --> 01:04:49,919
+När vi har olika pilotprojekt som
+
+1172
+01:04:50,175 --> 01:04:52,991
+Är igång olika utvecklings initiativ
+
+1173
+01:04:53,759 --> 01:04:59,135
+Och det handlar om att dels utveckla säkra metoder för hantering av individ data
+
+1174
+01:04:59,903 --> 01:05:01,439
+Och där har vi ju
+
+1175
+01:05:01,695 --> 01:05:06,047
+Ja men projekt för att försöka få till en mer individcentrerad
+
+1176
+01:05:06,559 --> 01:05:08,863
+Infrastruktur ska vi testa den
+
+1177
+01:05:09,631 --> 01:05:15,775
+Vi jobbar också med att försöka få till den här gemensamma begrepp strukturen mellan utbildnings och
+
+1178
+01:05:16,031 --> 01:05:17,055
+Arbetsmarknadsområdet
+
+1179
+01:05:18,079 --> 01:05:18,847
+Hockey
+
+1180
+01:05:19,103 --> 01:05:20,895
+I det så har också
+
+1181
+01:05:21,663 --> 01:05:26,527
+Vi uppdrag att utveckla en kvalifikation databas och det
+
+1182
+01:05:26,783 --> 01:05:31,647
+Men det är ca skola som fokuserar på det som har den som tidigare men som ska utveckla den vid
+
+1183
+01:05:32,671 --> 01:05:35,231
+Och vi jobbar också med att
+
+1184
+01:05:35,743 --> 01:05:39,071
+Tillgängliga att länka data om utbildningsutbud
+
+1185
+01:05:39,839 --> 01:05:44,703
+Vad är det utveckling av de här så kallade Susanne Adolfsson Skolverkets
+
+1186
+01:05:44,959 --> 01:05:46,751
+Innehåller en bixby
+
+1187
+01:05:47,007 --> 01:05:48,031
+Komponent i det
+
+1188
+01:05:49,823 --> 01:05:50,335
+Och
+
+1189
+01:05:50,847 --> 01:05:54,943
+Datadelning för stark innovationskraft i ska liksom sträcka sig
+
+1190
+01:05:55,199 --> 01:05:56,991
+Jag ska skära genom
+
+1191
+01:05:57,247 --> 01:05:58,783
+Alla de här områden
+
+1192
+01:05:59,551 --> 01:06:02,111
+Vi har också
+
+1193
+01:06:02,367 --> 01:06:03,135
+I uppdrag att
+
+1194
+01:06:03,647 --> 01:06:04,159
+Försöka
+
+1195
+01:06:04,671 --> 01:06:09,279
+Få till en mer långsiktig förvaltning av den här sammanhållna data infrastrukturen
+
+1196
+01:06:09,791 --> 01:06:12,351
+I de här pilotprojektet att de utvecklas
+
+1197
+01:06:12,607 --> 01:06:18,239
+Initiativ som finns inom delområdena så försöker vi hitta de insikter som vi kan dra nytta av i ett
+
+1198
+01:06:18,495 --> 01:06:20,031
+Ta ut formen
+
+1199
+01:06:22,079 --> 01:06:23,359
+En långsiktig förvaltning
+
+1200
+01:06:23,615 --> 01:06:24,127
+Hemtex
+
+1201
+01:06:28,735 --> 01:06:34,367
+Och det finns så klart liksom koppling till data strategin till C1 som stat område som om
+
+1202
+01:06:35,135 --> 01:06:41,279
+Och där behöver vi dock försöka i det här uppdraget hittar kopplingar och Sigge exempel som hände
+
+1203
+01:06:43,583 --> 01:06:45,119
+Det händer också väldigt mycket annat
+
+1204
+01:06:45,375 --> 01:06:46,911
+Brevlåda
+
+1205
+01:06:47,679 --> 01:06:49,471
+Tex Europe
+
+1206
+01:06:49,983 --> 01:06:52,287
+Ett sånt initiativ som både är
+
+1207
+01:06:52,799 --> 01:06:58,943
+Vad jobbar liksom jag med inflation Infrastruktur men också som en en digital Schweiz
+
+1208
+01:06:59,967 --> 01:07:02,527
+Och då behöver vi det här igen
+
+1209
+01:07:02,783 --> 01:07:07,135
+Försöka hitta kopplingar på sin kroppsdel som vi allihop på nationell nivå
+
+1210
+01:07:07,647 --> 01:07:09,951
+Kan användas att dra nytta av energinivå
+
+1211
+01:07:10,463 --> 01:07:13,535
+Sdg har ju nämnt också det är också en viktig som
+
+1212
+01:07:14,303 --> 01:07:18,143
+Utveckling som sker av i det här uppdraget behöver se hur det
+
+1213
+01:07:18,911 --> 01:07:21,471
+Ja vad får det för konsekvenser inom
+
+1214
+01:07:21,983 --> 01:07:22,751
+Kompis
+
+1215
+01:07:23,007 --> 01:07:24,287
+Livslångt lärande
+
+1216
+01:07:28,639 --> 01:07:30,687
+Här är några som är axplock
+
+1217
+01:07:31,711 --> 01:07:36,063
+Ja men lite insatser på eu-nivå som vi har lite extra span på i vårt regeringsuppdraget
+
+1218
+01:07:38,623 --> 01:07:43,999
+Och tanken är ju liksom att ställa in nu utvecklar oss Vi myndigheter oss emellan
+
+1219
+01:07:44,255 --> 01:07:44,767
+Att
+
+1220
+01:07:45,279 --> 01:07:48,607
+Just försöker skapa en infrastruktur
+
+1221
+01:07:49,887 --> 01:07:51,935
+Jag menar även på eu-nivå Så ska man
+
+1222
+01:07:52,191 --> 01:07:55,007
+Dra nytta av den i domslut tjänster som utvecklas
+
+1223
+01:07:55,775 --> 01:07:57,823
+Och viceversa att den infrastruktur
+
+1224
+01:07:58,591 --> 01:08:00,639
+Rebecca spraymåla sidan utav det
+
+1225
+01:08:00,895 --> 01:08:01,407
+Adressen
+
+1226
+01:08:01,663 --> 01:08:02,687
+Händer på nationell nivå
+
+1227
+01:08:05,247 --> 01:08:10,623
+Har lite sådär rent konkret Ja men vad står det här och nu då Ja men vi
+
+1228
+01:08:11,135 --> 01:08:13,951
+Kartlägger ganska mycket datamängd
+
+1229
+01:08:15,743 --> 01:08:19,583
+Och även begreppslistor och vi försöker just utforska
+
+1230
+01:08:20,095 --> 01:08:23,679
+Utredaren här kopplingen liksom till
+
+1231
+01:08:23,935 --> 01:08:25,215
+Senap
+
+1232
+01:08:25,471 --> 01:08:28,799
+Förvaltningsgemensam Infrastruktur men också vad som hände på eu-nivå
+
+1233
+01:08:30,847 --> 01:08:35,967
+Och vi jobbar också utforskande jag skriver här med individ data och hur det är kopplat till
+
+1234
+01:08:36,479 --> 01:08:37,759
+Utvecklingen på ljudnivå
+
+1235
+01:08:40,063 --> 01:08:42,623
+Några sån här datorn
+
+1236
+01:08:42,879 --> 01:08:49,023
+Ja datamängder som vi försöker tillgängliggöra nu mycket via Sveriges stat
+
+1237
+01:08:49,279 --> 01:08:49,791
+Ja det är ju
+
+1238
+01:08:50,303 --> 01:08:54,655
+Pågår ett arbete kring Susanne havet som jag pratade omkring
+
+1239
+01:08:55,423 --> 01:08:57,983
+Uppfinnings beskrivningar eller utgångsdatum
+
+1240
+01:08:59,007 --> 01:09:02,591
+Men också den data som händer och kvalifikationer
+
+1241
+01:09:03,871 --> 01:09:09,247
+Och sen så just också kopplingen däremellan Hur får vi till den här översättnings nycklarna mellan
+
+1242
+01:09:10,015 --> 01:09:14,879
+De datamängder som finns inom området kompetensförsörjning och liksom köra
+
+1243
+01:09:18,719 --> 01:09:19,487
+Jag tror att
+
+1244
+01:09:19,999 --> 01:09:20,767
+Stanna där
+
+1245
+01:09:21,023 --> 01:09:24,095
+Jag hälsade kanske på för snabbt
+
+1246
+01:09:24,351 --> 01:09:25,119
+När
+
+1247
+01:09:25,375 --> 01:09:29,983
+Tack så jättemycket Eric att vi gör så här att vi kör diskussion
+
+1248
+01:09:30,239 --> 01:09:32,287
+Alla har presidera senare
+
+1249
+01:09:32,543 --> 01:09:33,055
+Ja
+
+1250
+01:09:33,311 --> 01:09:38,431
+Vi skrev gärna fråga i chatten om du vill men att ni kom ihåg
+
+1251
+01:09:40,479 --> 01:09:42,527
+Nu hoppade vidare till då
+
+1252
+01:09:43,039 --> 01:09:44,831
+En ståtlig
+
+1253
+01:09:45,087 --> 01:09:45,855
+Bild
+
+1254
+01:09:46,623 --> 01:09:49,951
+Varsågod Michel silver ifrån
+
+1255
+01:09:52,255 --> 01:09:53,535
+Tack så mycket
+
+1256
+01:09:53,791 --> 01:09:54,815
+Ska vi se
+
+1257
+01:09:55,327 --> 01:09:56,863
+Jag lyckas få fram
+
+1258
+01:09:59,679 --> 01:10:01,983
+Sen är min bildskärm på rätt sätt
+
+1259
+01:10:05,311 --> 01:10:07,871
+Tystnaden som att det funkar
+
+1260
+01:10:08,127 --> 01:10:11,967
+Michel silvestri enhetschef på samlings avdelningen på i Helsingör
+
+1261
+01:10:12,223 --> 01:10:12,991
+Jag ska prata om
+
+1262
+01:10:13,247 --> 01:10:16,063
+Regeringsuppdrag med den här Titta den 1 oktober start
+
+1263
+01:10:16,575 --> 01:10:19,135
+Nationellt datautrymme för bilddiagnostik
+
+1264
+01:10:20,671 --> 01:10:22,975
+Nu har jag hört till exempel igår
+
+1265
+01:10:23,231 --> 01:10:29,375
+Utmärkt presentation av Magnus enzell att vi egentligen skriva dataområde men i det här fallet den här
+
+1266
+01:10:30,399 --> 01:10:31,679
+I regeringsuppdrag
+
+1267
+01:10:32,447 --> 01:10:35,007
+Och som vi kanske fortsätter vi det här läget i alla fall
+
+1268
+01:10:36,287 --> 01:10:42,431
+Det här gäller alltså en förstudie som jag fått i uppdrag de ska bidra till ökad sekundär användning
+
+1269
+01:10:42,687 --> 01:10:47,807
+Hälsodata det viset man använder hälsodata i annat syfte än vad jag har insamlat för
+
+1270
+01:10:48,575 --> 01:10:53,183
+Normalt sett handlar det om forskning Innovation kan också vara beslutsfattande annat
+
+1271
+01:10:53,951 --> 01:10:58,815
+Jag ska bidra till hälsodata utrymmen både nationellt och internationellt
+
+1272
+01:10:59,327 --> 01:11:05,471
+De ska bidra till utveckling och dra fördel av artificiell intelligens inom hälsa
+
+1273
+01:11:06,751 --> 01:11:09,823
+De ska boka an till Europas plan mot cancer
+
+1274
+01:11:11,103 --> 01:11:15,455
+Jag ska bidra till nationell samordning inom bilddiagnostik och de ska bidra till
+
+1275
+01:11:15,711 --> 01:11:16,991
+Registrera patient
+
+1276
+01:11:17,503 --> 01:11:18,271
+Studier
+
+1277
+01:11:18,783 --> 01:11:24,415
+Att det här skall utmynna i lösningsförslaget eller flera just genom mammografi
+
+1278
+01:11:24,927 --> 01:11:25,695
+Innerdörr
+
+1279
+01:11:26,463 --> 01:11:26,975
+Ska vara färdig
+
+1280
+01:11:27,231 --> 01:11:28,255
+I december i år
+
+1281
+01:11:30,047 --> 01:11:33,631
+Det som lite extra roligt med det här inslaget tycker det att det är
+
+1282
+01:11:33,887 --> 01:11:36,447
+Samordnat uppdrag från socialdepartementet
+
+1283
+01:11:36,703 --> 01:11:37,471
+Ahmed zaki
+
+1284
+01:11:40,031 --> 01:11:43,615
+Och som sagt nu går vi från mammografi enligt Ring så Brage
+
+1285
+01:11:44,383 --> 01:11:47,455
+Men Naturligtvis så är det då en del av bilddiagnostik
+
+1286
+01:11:47,967 --> 01:11:54,111
+Och bilddiagnostik i sin tur kan ju ses som en del av ett större nationellt hälsodata utrymme mer
+
+1287
+01:11:54,367 --> 01:11:54,879
+Generellt
+
+1288
+01:11:55,135 --> 01:12:01,279
+Och det i sin tur kan naturligtvis ses som en del av ett internationellt hälsodata utrymme så att vi ser ju att det
+
+1289
+01:12:02,047 --> 01:12:04,351
+Börja med nu är just den början
+
+1290
+01:12:05,375 --> 01:12:05,887
+Ska
+
+1291
+01:12:06,143 --> 01:12:07,423
+Skalas upp och utveck
+
+1292
+01:12:08,191 --> 01:12:09,215
+Större bredare
+
+1293
+01:12:10,239 --> 01:12:15,103
+Godnatt tydligt visat det här är en del av den digitala informationsförsörjning än i en större koll
+
+1294
+01:12:15,871 --> 01:12:18,943
+Och självklart sissman m så ska vi också Det här
+
+1295
+01:12:19,199 --> 01:12:25,087
+Vad är Harmoni med hela Sveriges digitala Infrastruktur där vi också involverade i
+
+1296
+01:12:25,343 --> 01:12:25,855
+Det
+
+1297
+01:12:26,111 --> 01:12:28,927
+Grunddata grunddata demens
+
+1298
+01:12:29,183 --> 01:12:31,487
+Vi får du ska heta Hälsa vård och omsorg
+
+1299
+01:12:31,743 --> 01:12:33,023
+Cycling kanal
+
+1300
+01:12:33,279 --> 01:12:34,047
+Tillbehör
+
+1301
+01:12:34,559 --> 01:12:35,839
+Persdotter
+
+1302
+01:12:37,375 --> 01:12:43,519
+Enligt uppdraget så ska vi göra ta ett antal hänsyn beakta den som ni ser här
+
+1303
+01:12:43,775 --> 01:12:44,799
+Och
+
+1304
+01:12:46,591 --> 01:12:49,151
+Det är också så att vi ska
+
+1305
+01:12:49,407 --> 01:12:51,199
+Har gjort också ta hänsyn till
+
+1306
+01:12:51,711 --> 01:12:55,807
+Både primär användare och sekundär Använder du
+
+1307
+01:12:56,319 --> 01:13:00,415
+Den vårdpersonal och de delar av vår organisationen
+
+1308
+01:13:01,439 --> 01:13:03,999
+Som producerar den här typen av bilddata
+
+1309
+01:13:04,511 --> 01:13:09,887
+I sitt syfte för hälso- och sjukvården att utbrista också sekundär användarna
+
+1310
+01:13:10,399 --> 01:13:12,447
+Synpunkter behov
+
+1311
+01:13:13,215 --> 01:13:13,727
+Kingdom
+
+1312
+01:13:14,239 --> 01:13:17,823
+För att kunna återanvända samma data för forskning innovation
+
+1313
+01:13:19,359 --> 01:13:21,151
+Policy-making beslutsfattande
+
+1314
+01:13:22,175 --> 01:13:26,527
+Har vi genomfört ett stort antal intervjuer och samlat ett antal
+
+1315
+01:13:26,783 --> 01:13:28,319
+Användarfall för det
+
+1316
+01:13:29,087 --> 01:13:30,879
+Bygga våran lösningsförslag på
+
+1317
+01:13:31,391 --> 01:13:34,719
+Vi ska naturligtvis samverka med en stor viktig del av det här
+
+1318
+01:13:35,743 --> 01:13:41,887
+Med statliga myndigheter ett flertal och även andra instanser och
+
+1319
+01:13:42,143 --> 01:13:43,679
+Stationer självklart ut över det
+
+1320
+01:13:43,935 --> 01:13:45,215
+Och vi har också
+
+1321
+01:13:45,471 --> 01:13:49,567
+Valt att samarbeta med Rice i det här fallet för att
+
+1322
+01:13:50,335 --> 01:13:55,199
+Får ta del av deras expertis inom bland annat data datadelning ja
+
+1323
+01:13:55,455 --> 01:13:55,967
+Och annat
+
+1324
+01:13:57,759 --> 01:14:00,831
+Det Finns internationella kopplingar även här naturligtvis
+
+1325
+01:14:01,599 --> 01:14:03,391
+Ni ser till vänster där de kan
+
+1326
+01:14:03,647 --> 01:14:07,487
+Fredag som är förkortning för 12 European space alltså
+
+1327
+01:14:07,999 --> 01:14:10,815
+Det är ett EU konsortium
+
+1328
+01:14:11,071 --> 01:14:16,703
+Från Sveriges sida och leder bland annat ett arbetspaket inom
+
+1329
+01:14:16,959 --> 01:14:19,263
+Governance styrning regler
+
+1330
+01:14:19,519 --> 01:14:21,055
+Och det här är ju
+
+1331
+01:14:21,311 --> 01:14:23,871
+Siktade mot
+
+1332
+01:14:24,895 --> 01:14:25,919
+Förenkla för
+
+1333
+01:14:26,431 --> 01:14:30,527
+Förbättra datadelning för sekundär användning Hur ser forskningen i Vara
+
+1334
+01:14:32,575 --> 01:14:35,135
+Och delning över över landsgränser är det
+
+1335
+01:14:35,903 --> 01:14:41,791
+I mitten Säg någonting som heter XE helt eller uttalas Crossy helt i det fallet så är det
+
+1336
+01:14:42,047 --> 01:14:48,191
+Ett annat djur konsortium där vi medverkar från Sveriges sida och leder ett arbetspaket inom
+
+1337
+01:14:48,447 --> 01:14:50,495
+Arkitektur och implementering
+
+1338
+01:14:51,007 --> 01:14:52,287
+Och i det fallet så är det
+
+1339
+01:14:52,543 --> 01:14:57,407
+Lägga grunden för nya informationsmängden bland annat medicinsk bild Hans bilder
+
+1340
+01:14:57,663 --> 01:14:58,687
+Bildata
+
+1341
+01:14:59,199 --> 01:15:03,551
+Återlämna kolla dela de över landsgränser och i de fall så är det framförallt
+
+1342
+01:15:03,807 --> 01:15:06,879
+Primära Medusa för hälso- och sjukvård
+
+1343
+01:15:07,903 --> 01:15:09,951
+Att kunna dela data över landsgränser
+
+1344
+01:15:11,231 --> 01:15:17,375
+Jag har en blå bok där uppe som beskriver versionen the Nordic Commons och det är ju en nordisk motsvarig
+
+1345
+01:15:17,631 --> 01:15:18,399
+Vision
+
+1346
+01:15:18,911 --> 01:15:23,775
+Till biologiska hälsoteamet visa att kunna etablera
+
+1347
+01:15:24,287 --> 01:15:30,431
+Motsvarande data i hälsodata utrymme eller område och så mer i samverkan med de nordiska länderna
+
+1348
+01:15:31,455 --> 01:15:37,599
+Även där sitter vi ner från ehalsomyndigheten i styr organisationen kring det och sen
+
+1349
+01:15:37,855 --> 01:15:43,999
+Det här bör och kan hänga ihop en röd tråd och också docka in i deras uppdrag som
+
+1350
+01:15:46,047 --> 01:15:48,863
+Visst är här också bland annat franska helt dig för hub
+
+1351
+01:15:49,887 --> 01:15:52,447
+Som är av stort intresse och inte minst
+
+1352
+01:15:52,703 --> 01:15:55,775
+Sin datasmeden Latif ny finländsk myndig
+
+1353
+01:15:56,287 --> 01:15:57,823
+Som ett slags one-stop-shop
+
+1354
+01:15:58,591 --> 01:16:02,687
+För att ansöka om att få tillgång till just hälsodata för
+
+1355
+01:16:02,943 --> 01:16:03,967
+Sekundär anemi
+
+1356
+01:16:06,015 --> 01:16:12,159
+I Rimbo laget så anges också att vi ska bistå eventuellt svenska ansökan till
+
+1357
+01:16:12,415 --> 01:16:13,951
+Program Digital
+
+1358
+01:16:14,975 --> 01:16:21,119
+ÖoB under samling av myndigheten digg och där har vi alltså när jag tidigare Antonio
+
+1359
+01:16:21,375 --> 01:16:23,167
+Eliasson tider som händer här med
+
+1360
+01:16:23,679 --> 01:16:28,799
+Annat utvisnings områden en av Hälsa genomik och Hälsa
+
+1361
+01:16:29,055 --> 01:16:30,591
+Cancer images
+
+1362
+01:16:31,871 --> 01:16:35,711
+Där har vi naturligtvis står det här med bilddiagnostik återigen som en del av det
+
+1363
+01:16:35,967 --> 01:16:39,807
+UB också in i diskussioner och köpte bistå
+
+1364
+01:16:40,575 --> 01:16:44,415
+När det gäller en ansökan
+
+1365
+01:16:44,927 --> 01:16:45,439
+Titta på
+
+1366
+01:16:45,695 --> 01:16:49,791
+Genetisk data koppla till cancerdiagnoser och kanske var han
+
+1367
+01:16:50,303 --> 01:16:53,631
+Och det här kan man koppla ihop de här olika
+
+1368
+01:16:53,887 --> 01:17:00,031
+Datamängden asociala områdena så kan man plötsligt få ett plus ett till tre Vi skapar ny kund
+
+1369
+01:17:00,543 --> 01:17:06,175
+Helt nya förutsättningar för så kallat precisionsmedicin med närmaste individuell
+
+1370
+01:17:06,431 --> 01:17:08,991
+Skräddarsydd cancerbehandling
+
+1371
+01:17:09,247 --> 01:17:10,015
+I bästa fall
+
+1372
+01:17:12,575 --> 01:17:18,719
+Det här är legend train inom EU och vi har hört piano om nytt
+
+1373
+01:17:18,975 --> 01:17:19,487
+Förslag
+
+1374
+01:17:19,999 --> 01:17:24,863
+Och när vi påbörjade arbetet med deras projektet så smått att det ska komma fram förslag
+
+1375
+01:17:25,375 --> 01:17:26,655
+I slutet av 2020
+
+1376
+01:17:27,167 --> 01:17:32,031
+Till Media duktig kanske för de som här i hdflex specialist
+
+1377
+01:17:32,543 --> 01:17:37,407
+Sedan sköts det på usa:s kvartal två kanske april i år
+
+1378
+01:17:37,663 --> 01:17:40,223
+Och sedan sköts ytterligare på och nu är
+
+1379
+01:17:40,479 --> 01:17:41,503
+Det sagt det idag
+
+1380
+01:17:41,759 --> 01:17:46,111
+Det är med stor spänning som väntar på att lagförslaget skall 50 göras
+
+1381
+01:17:46,367 --> 01:17:48,927
+Det har läckt ett lagförslag sedan tidigare som
+
+1382
+01:17:49,183 --> 01:17:50,975
+Påbörjat analyser av det
+
+1383
+01:17:51,487 --> 01:17:52,511
+Av stort intresse
+
+1384
+01:17:52,767 --> 01:17:56,351
+Och det fallet omfattar både primära men grisar hälso- och sjukvård
+
+1385
+01:17:56,607 --> 01:17:59,935
+Och sekunder användnings reglering av hälsodata för
+
+1386
+01:18:00,191 --> 01:18:01,215
+Forskning innovation
+
+1387
+01:18:02,751 --> 01:18:06,847
+Avslutningsvis innan jag kom till hälsomyndigheten så var jag
+
+1388
+01:18:07,103 --> 01:18:10,175
+Några år på Visby lasarett arbetade där
+
+1389
+01:18:11,199 --> 01:18:12,479
+Jag är vacker
+
+1390
+01:18:12,735 --> 01:18:18,879
+Dyr ut över Östersjön här så vill jag bara nämna att när vi pratar om den här typen av hälsodata
+
+1391
+01:18:20,415 --> 01:18:23,487
+Så är det sannolikt inte en stor datasjö vi pratar
+
+1392
+01:18:23,999 --> 01:18:25,791
+De är skickade revade lösning
+
+1393
+01:18:26,303 --> 01:18:30,399
+Distribuerade där vi i första hand ger åtkomst
+
+1394
+01:18:30,911 --> 01:18:31,423
+Till
+
+1395
+01:18:31,679 --> 01:18:36,287
+Hälsodata där den befinner sig i original så här ute i regionerna i det här för
+
+1396
+01:18:36,799 --> 01:18:40,127
+Men på ett säkert och effektivt sätt
+
+1397
+01:18:41,151 --> 01:18:43,967
+Men samtidigt satte i en centraliserad form
+
+1398
+01:18:44,735 --> 01:18:49,087
+Jag vill se att den som behöver den här typen av data för sin verksamhet
+
+1399
+01:18:49,343 --> 01:18:50,623
+Till exempel forskning
+
+1400
+01:18:50,879 --> 01:18:54,719
+Sektion i bästa fall ha en enda ingången one-stop-shop
+
+1401
+01:18:55,231 --> 01:19:01,375
+Kanske borde för ansökan om att få tillstånd till här också få åtkomst till hälsodata
+
+1402
+01:19:01,631 --> 01:19:02,655
+Att man sedan också
+
+1403
+01:19:03,167 --> 01:19:05,215
+Få tillgång till den här typen av hälsodata
+
+1404
+01:19:05,727 --> 01:19:11,871
+Som kan gå in innehålla personinformation att man får tillgång till den och bearbeta analysera
+
+1405
+01:19:12,127 --> 01:19:13,919
+Man får inte ut hemsida
+
+1406
+01:19:14,687 --> 01:19:17,503
+Utan sen tar man ut sina resultat arbeta vidare
+
+1407
+01:19:19,039 --> 01:19:22,367
+Det är nog i huvudsak den dem lösning
+
+1408
+01:19:22,623 --> 01:19:23,647
+Vi kommer senare idag
+
+1409
+01:19:24,671 --> 01:19:25,183
+Dator
+
+1410
+01:19:26,207 --> 01:19:30,559
+Naturligtvis kommer att ha inslag av datasjö detta liksom
+
+1411
+01:19:31,327 --> 01:19:32,095
+I viss mån
+
+1412
+01:19:32,607 --> 01:19:34,143
+Ja men det är så tackar för uppmärksamheten
+
+1413
+01:19:34,399 --> 01:19:34,911
+Tack så
+
+1414
+01:19:35,935 --> 01:19:40,543
+Superintressant Tack så mycket spännande och se
+
+1415
+01:19:41,311 --> 01:19:45,407
+Skriv gärna frågor i chatten som sagt om ni har frågor så tar vi det
+
+1416
+01:19:46,687 --> 01:19:50,271
+Vi har kunskap om elektrifiering av
+
+1417
+01:19:50,527 --> 01:19:55,135
+Varsågod Lina Nordin statens vägtrafik forskningsinstitut
+
+1418
+01:20:00,511 --> 01:20:03,071
+Så nu är jag arg utan också
+
+1419
+01:20:04,607 --> 01:20:06,143
+Finns den som den ska
+
+1420
+01:20:09,727 --> 01:20:10,495
+Bra tack
+
+1421
+01:20:10,751 --> 01:20:14,336
+Ja nej men den heter jag och jobbar som forskare på
+
+1422
+01:20:14,592 --> 01:20:17,920
+Försöker transportforskningsinstitut som vi kallar för arbete i
+
+1423
+01:20:18,944 --> 01:20:25,088
+Jag skrev prata lite om det regeringsuppdrag som vi fick i höstas som handlar om att bidra till ökad
+
+1424
+01:20:25,344 --> 01:20:26,368
+Jag kommer lite försent
+
+1425
+01:20:26,624 --> 01:20:32,256
+Av Transporter och det är min kollega Arne nåbo som är huvudkudden datorföretag
+
+1426
+01:20:32,512 --> 01:20:33,024
+Jag
+
+1427
+01:20:33,280 --> 01:20:35,584
+Biträdande koordinator jag
+
+1428
+01:20:36,096 --> 01:20:36,864
+Uppdatera idag
+
+1429
+01:20:39,424 --> 01:20:42,496
+Om det ändrar sig när jag gör mål
+
+1430
+01:20:44,800 --> 01:20:46,080
+Kom ihåg
+
+1431
+01:20:46,336 --> 01:20:46,848
+Knappen
+
+1432
+01:20:48,640 --> 01:20:54,016
+Uppdraget handlar som sagt om då att bidra till kunskapsspridning kring en snopp
+
+1433
+01:20:54,272 --> 01:20:54,784
+Smart
+
+1434
+01:20:55,040 --> 01:20:59,136
+Samhällsekonomiskt effektiv rekrytering av transportsektorn
+
+1435
+01:20:59,392 --> 01:21:03,232
+Och här Ska vi titta på alla relevanta tekniker för
+
+1436
+01:21:03,488 --> 01:21:04,512
+95
+
+1437
+01:21:05,024 --> 01:21:10,656
+Och även hela transportsektorn för alla typer av Transporter och kan borsta och så
+
+1438
+01:21:10,912 --> 01:21:12,704
+Flyg och sjöfart English
+
+1439
+01:21:14,240 --> 01:21:16,800
+Bakgrunden till det här handlar om
+
+1440
+01:21:17,056 --> 01:21:20,896
+Sverige ska bli världens första fossilfria välfärdsland
+
+1441
+01:21:21,152 --> 01:21:27,296
+Men Netonnet 12045 och då en jätteviktig blir det att vi liksom får igång ut
+
+1442
+01:21:27,552 --> 01:21:29,088
+Kultur
+
+1443
+01:21:29,344 --> 01:21:34,976
+För att det ska funka på ett bra sätt och optimalt sätt så krävs samordning av data från
+
+1444
+01:21:36,256 --> 01:21:40,608
+Och där är ju datorn väldigt härifrån resurs men det behövs
+
+1445
+01:21:41,120 --> 01:21:44,704
+De här lösningarna för att kunna samordna och spela dator
+
+1446
+01:21:45,728 --> 01:21:47,776
+Nu pratas det mycket om här idag
+
+1447
+01:21:49,568 --> 01:21:55,712
+Det här uppdraget är uppdelat i åtta punkter bara de fem första delen
+
+1448
+01:21:55,968 --> 01:21:58,784
+Som de jag har markerat mörkt här
+
+1449
+01:21:59,552 --> 01:22:01,088
+Redan levererat
+
+1450
+01:22:01,600 --> 01:22:04,672
+I början på februari och en del
+
+1451
+01:22:06,208 --> 01:22:11,840
+4 som vi på arbetar med just nu och kommer att leverera i slutet på maj
+
+1452
+01:22:12,352 --> 01:22:15,936
+Men jag kommer fokusera den här presentationen på nu
+
+1453
+01:22:16,192 --> 01:22:22,080
+Johanna digitalisering för snabb och effektiv elektrifiering för den som har koppling till Hertz
+
+1454
+01:22:23,360 --> 01:22:29,504
+Sen har vi också uppdrag att fortsätta ta fram kunskapsunderlag för elektrifiering av regionala godstransport
+
+1455
+01:22:29,760 --> 01:22:31,808
+Vi jobbar mycket med andra perioder
+
+1456
+01:22:32,576 --> 01:22:35,392
+Pågående demonstrationer och projekt koppla
+
+1457
+01:22:35,648 --> 01:22:38,208
+Industrialisering av gods Transport
+
+1458
+01:22:38,976 --> 01:22:43,840
+Också är en del av uppdraget också att hitta på att göra egna produkter
+
+1459
+01:22:44,352 --> 01:22:45,632
+Ta fram modeller
+
+1460
+01:22:47,424 --> 01:22:53,568
+Så då hamnade jag modeller för data i praktiken och bästa sätt kan tillgänglig
+
+1461
+01:22:54,336 --> 01:22:58,432
+Spela Sonic göras för att Optimera planering utveckling och drift av
+
+1462
+01:22:59,200 --> 01:23:03,040
+Affärsmodeller för laddinfrastruktur så det väldigt stort fokus på latin
+
+1463
+01:23:03,296 --> 01:23:03,808
+Faktura
+
+1464
+01:23:04,320 --> 01:23:09,440
+Och där pågår nu då utveckling av modellbaserad Per
+
+1465
+01:23:09,696 --> 01:23:13,024
+Är du tittar på samverkan mellan energisystem och la
+
+1466
+01:23:13,280 --> 01:23:15,328
+System mellan fordon och
+
+1467
+01:23:15,584 --> 01:23:16,864
+Uppdrag olika panna
+
+1468
+01:23:17,120 --> 01:23:22,752
+Och samverkan mellan aktörer och sen kommer också i Nytro följeforskning men det här
+
+1469
+01:23:23,008 --> 01:23:24,288
+Samhälle
+
+1470
+01:23:24,800 --> 01:23:27,616
+Organism eller vi inte samarbeta lite mer
+
+1471
+01:23:29,408 --> 01:23:29,920
+Okej
+
+1472
+01:23:31,200 --> 01:23:37,344
+Så över till den här första delen leveransen som jag hade kopplat till digitalisering
+
+1473
+01:23:37,600 --> 01:23:41,440
+Det har varit syftet att de ska beskriva hur digitalisering och
+
+1474
+01:23:41,952 --> 01:23:44,256
+Europeiska gemensamma datum lådorna
+
+1475
+01:23:44,512 --> 01:23:48,864
+Tillsammans med uppkoppling och innovativa lösningar yttre kan påskynda
+
+1476
+01:23:49,120 --> 01:23:52,448
+Och effektivisera isolering inom transportområdet
+
+1477
+01:23:52,704 --> 01:23:57,312
+Vårat Fokus var lite grann på att förstå vad det är som ISF stoppar upp
+
+1478
+01:23:58,080 --> 01:24:00,896
+Den här elektrifieringen
+
+1479
+01:24:01,152 --> 01:24:06,784
+För att förstå det så har vi fört diverse dialoger du har haft diskussioner och workshops under vårt samtal
+
+1480
+01:24:07,040 --> 01:24:10,368
+Seminarium med flera olika myndigheter och andra
+
+1481
+01:24:10,624 --> 01:24:14,208
+Organisationer som arbetar inom de här områdena
+
+1482
+01:24:14,464 --> 01:24:19,072
+Näringslivet åkerier transportföretag som gick att det var de som lyckades
+
+1483
+01:24:19,328 --> 01:24:24,192
+Elektrifieringen för att förstå var behovet är var det vi behöver göra
+
+1484
+01:24:25,984 --> 01:24:27,264
+Och hur det så har vi det
+
+1485
+01:24:27,520 --> 01:24:33,664
+Beskrivning av systemen ofta så beskriver man transportskydd
+
+1486
+01:24:33,920 --> 01:24:37,248
+Systemet för sig som ett stuprör energisystemet på Shake
+
+1487
+01:24:37,760 --> 01:24:38,272
+Anna
+
+1488
+01:24:38,528 --> 01:24:40,832
+Alltså finns det inte så mycket kopplingar emellan
+
+1489
+01:24:41,344 --> 01:24:45,184
+Men det då som gör det de här tvärade digitala in
+
+1490
+01:24:45,440 --> 01:24:47,744
+Som krävs för att vi ska kunna
+
+1491
+01:24:48,000 --> 01:24:50,304
+Få en vän optimerad
+
+1492
+01:24:50,816 --> 01:24:56,192
+Elektrifiering och sedan Behöver du också förhålla oss till den legala infrastrukturen
+
+1493
+01:24:57,984 --> 01:25:00,800
+Flygresan styr hela
+
+1494
+01:25:02,336 --> 01:25:08,480
+När du har tittat på och pratat med alla de aktörer som finns här så har
+
+1495
+01:25:09,504 --> 01:25:15,648
+Identifiera tre olika områden investering planering och samverkan kopplat till dem
+
+1496
+01:25:15,904 --> 01:25:16,672
+Stopp
+
+1497
+01:25:17,184 --> 01:25:20,768
+Och då kan vi göra en god samverkan är de som har störst
+
+1498
+01:25:21,280 --> 01:25:24,864
+Nytta av att kunna dela data
+
+1499
+01:25:26,912 --> 01:25:33,056
+Recept till planeringen så finns det behov från transportsektorn att kunna planera
+
+1500
+01:25:33,312 --> 01:25:37,408
+När man vill kunna hinna med en färja som går till Tyskland till exempel
+
+1501
+01:25:37,920 --> 01:25:44,064
+Och då kan man inte stå och vänta på att få ladda nånstans i mitten har Sverige
+
+1502
+01:25:44,576 --> 01:25:50,720
+Utan då finns det för att man ska kunna boka in sig på en laddpunkt med en viss tid
+
+1503
+01:25:52,256 --> 01:25:54,816
+Att man vet och kan man säkert på att man kommer fram i tid
+
+1504
+01:25:55,072 --> 01:25:58,400
+Man vill alltså kunna ställa sig något slags virtuell kö
+
+1505
+01:25:59,424 --> 01:26:05,568
+Och då för att det ska fungera så kommer det behövas Digital Infrastruktur och möjlighet till kommunikation
+
+1506
+01:26:05,824 --> 01:26:10,176
+Fordon och laddinfrastruktur för att veta vilka fordon som är på väg in
+
+1507
+01:26:10,688 --> 01:26:14,272
+Som är på plats och så vidare Det är bara en av alla dem
+
+1508
+01:26:14,528 --> 01:26:15,552
+Mängder med
+
+1509
+01:26:16,064 --> 01:26:16,832
+Med
+
+1510
+01:26:17,088 --> 01:26:21,696
+Saker man skulle kunna behöva just för planering men jag bara plockat ut några
+
+1511
+01:26:22,720 --> 01:26:28,864
+Går vi över till samverkan så är det oftast det kommuner och fastighetsägare de som 8
+
+1512
+01:26:29,120 --> 01:26:30,656
+Studerar i
+
+1513
+01:26:30,912 --> 01:26:34,752
+Installera olika typer av infrastruktur
+
+1514
+01:26:35,264 --> 01:26:39,616
+Och det hade vi också samordnat så jag får kommunen Jag vill gärna ha en öl
+
+1515
+01:26:39,872 --> 01:26:44,224
+Bredda sin helhet spridning av laddinfrastruktur
+
+1516
+01:26:44,480 --> 01:26:48,320
+De vill inte gärna sätta på samma ställen Därför är det bra att ha
+
+1517
+01:26:49,088 --> 01:26:51,648
+Samlad information om vad som planeras i området
+
+1518
+01:26:52,160 --> 01:26:56,000
+Det här också någonting som efterfrågas av energibolagen
+
+1519
+01:26:56,256 --> 01:27:02,400
+Som vill veta vad som planeras Framåt för att också kunna planera sin egen verksamhet för att man har
+
+1520
+01:27:03,168 --> 01:27:05,728
+Kapacitet i elnäten
+
+1521
+01:27:07,008 --> 01:27:10,592
+Så det är jätteviktigt att få den här stora systemet att fungera ihop
+
+1522
+01:27:11,360 --> 01:27:13,152
+Laddinfrastruktur
+
+1523
+01:27:13,408 --> 01:27:16,992
+Även ekonomi för svenska inom betala också för
+
+1524
+01:27:19,040 --> 01:27:22,624
+Anna som har framkommit vid den här dialogerna som vi haft dem
+
+1525
+01:27:23,136 --> 01:27:26,720
+När delen av uppdraget är att det saknas Digital kompetens
+
+1526
+01:27:27,488 --> 01:27:29,024
+Man har inte kunskap
+
+1527
+01:27:29,280 --> 01:27:33,632
+Om Digital trygghet integritet IKEA
+
+1528
+01:27:34,144 --> 01:27:36,448
+De här cybersäkerhet och så
+
+1529
+01:27:36,704 --> 01:27:38,496
+Svåra grejer
+
+1530
+01:27:38,752 --> 01:27:42,080
+Det finns också osäkerhet kring
+
+1531
+01:27:42,336 --> 01:27:45,152
+Just att man måste dela korrekt data
+
+1532
+01:27:45,920 --> 01:27:52,064
+Oj allt det här sig blir då en varg är till att man vågar inte dela med sig ändå
+
+1533
+01:27:52,320 --> 01:27:54,368
+Svårt att veta hur man ska göra det
+
+1534
+01:27:55,904 --> 01:28:01,280
+Sen finns det andra som säger att Ja men det har ju jätte jättemycket dator men vet inte vad vi ska göra med den
+
+1535
+01:28:01,536 --> 01:28:03,840
+Vilken dator som faktiskt är k
+
+1536
+01:28:04,608 --> 01:28:08,704
+Och hur ska lämna in hur ska den till deras tatuering
+
+1537
+01:28:09,472 --> 01:28:10,496
+Till att servern
+
+1538
+01:28:11,008 --> 01:28:13,056
+Så att det finns mycket som jag frågar
+
+1539
+01:28:13,568 --> 01:28:15,104
+Som vi pratat om idag
+
+1540
+01:28:15,360 --> 01:28:16,896
+Vi också ser
+
+1541
+01:28:17,152 --> 01:28:20,736
+Om man ska titta på den här uppgiften med mandatområde
+
+1542
+01:28:21,504 --> 01:28:26,880
+Så vi fokuserar lite just nu och sitter på kan jag extra Det finns kopplingar
+
+1543
+01:28:27,136 --> 01:28:32,512
+Just den här kopplingen mellan transportområdet och energiområdet
+
+1544
+01:28:33,024 --> 01:28:36,608
+Och just det här att kunna dela data årets
+
+1545
+01:28:37,376 --> 01:28:38,400
+Och tryckte
+
+1546
+01:28:38,912 --> 01:28:44,032
+Vi ser att det är jätte stor potential att komma framåt just nu på Skynda också
+
+1547
+01:28:44,288 --> 01:28:47,616
+Elektrifiering Transporter med hjälp av Europeiska gemensamma
+
+1548
+01:28:48,384 --> 01:28:49,152
+Aftonbladet
+
+1549
+01:28:49,920 --> 01:28:51,712
+Och med det säger jag
+
+1550
+01:28:51,968 --> 01:28:55,552
+Ni får jättegärna läsa våra rapporter som har kommit ut
+
+1551
+01:28:56,320 --> 01:28:59,904
+Hör av er till mig om ni har mer frågor kopplat till uppdrag
+
+1552
+01:29:01,184 --> 01:29:02,208
+Men det är
+
+1553
+01:29:02,720 --> 01:29:03,744
+Jag hinner inte
+
+1554
+01:29:05,024 --> 01:29:07,584
+Tack så jättemycket Lina
+
+1555
+01:29:07,840 --> 01:29:11,168
+Som sagt skriv frågor i chatten så fortsätter vi
+
+1556
+01:29:11,424 --> 01:29:16,288
+Då tar vi data från satelliter för hållbar utveckling
+
+1557
+01:29:16,544 --> 01:29:19,616
+Välkommen Tobias Hedman från rymdstyrelsen
+
+1558
+01:29:20,384 --> 01:29:21,152
+Tack så mycket
+
+1559
+01:29:21,920 --> 01:29:22,944
+Nu ska vi se här
+
+1560
+01:29:26,016 --> 01:29:27,040
+Töreboda
+
+1561
+01:29:28,832 --> 01:29:29,600
+Och
+
+1562
+01:29:29,856 --> 01:29:31,648
+Är som sagt bättre att man jobbar på
+
+1563
+01:29:31,904 --> 01:29:33,696
+Rymdstyrelsen med innovation
+
+1564
+01:29:33,952 --> 01:29:34,720
+Samhällsnytta
+
+1565
+01:29:38,304 --> 01:29:40,096
+Och de har ju
+
+1566
+01:29:40,352 --> 01:29:43,680
+Vad grundläggande uppdrag kring det här egentligen ska verka för
+
+1567
+01:29:43,936 --> 01:29:47,008
+Olika intressenters verksamhet på grund av fel adress området samordnas
+
+1568
+01:29:47,520 --> 01:29:51,872
+Statligt stöd till forskning inom teknisk utvecklingsarbetet bedrivs verksamhet
+
+1569
+01:29:52,384 --> 01:29:56,992
+Och främjande månsken informationsdokument Auktionsverk som heter på rymd och fjäril symbol
+
+1570
+01:29:57,248 --> 01:29:58,784
+Och det är liksom det är själva
+
+1571
+01:29:59,040 --> 01:30:01,088
+Grunden för de regeringsuppdrag som
+
+1572
+01:30:01,600 --> 01:30:02,112
+Cars
+
+1573
+01:30:02,368 --> 01:30:03,136
+Ring Larsa
+
+1574
+01:30:03,392 --> 01:30:04,416
+Återkommer till
+
+1575
+01:30:05,440 --> 01:30:06,976
+Och vi jobbar naturligtvis med
+
+1576
+01:30:07,232 --> 01:30:09,536
+Hållbarhetsmålen också att se
+
+1577
+01:30:09,792 --> 01:30:10,560
+Rymd
+
+1578
+01:30:10,816 --> 01:30:12,096
+Okej om data har en
+
+1579
+01:30:12,352 --> 01:30:12,864
+Viktig
+
+1580
+01:30:13,120 --> 01:30:16,704
+Betydelse en del tilldela för att hjälpa till att nå dem med henne
+
+1581
+01:30:16,960 --> 01:30:21,568
+Rymde data till OBS för att övervaka och styra genom väg 13
+
+1582
+01:30:21,824 --> 01:30:22,592
+13
+
+1583
+01:30:22,848 --> 01:30:24,640
+Men som sagt också en del av själva
+
+1584
+01:30:24,896 --> 01:30:25,408
+Lösning
+
+1585
+01:30:27,456 --> 01:30:27,968
+Och
+
+1586
+01:30:28,480 --> 01:30:32,832
+En viktig grundsten i arbetet har de att jag ska komma
+
+1587
+01:30:33,088 --> 01:30:33,600
+Programmet
+
+1588
+01:30:34,368 --> 01:30:34,880
+Som är
+
+1589
+01:30:35,136 --> 01:30:38,720
+Miljö och säkerhet samarbete
+
+1590
+01:30:40,000 --> 01:30:41,024
+Inom
+
+1591
+01:30:41,536 --> 01:30:42,048
+EU
+
+1592
+01:30:42,304 --> 01:30:44,096
+När man har ett stort internminne
+
+1593
+01:30:44,352 --> 01:30:47,168
+Satelliter som heter Sentinel satelliterna
+
+1594
+01:30:47,424 --> 01:30:47,936
+Och sen
+
+1595
+01:30:48,448 --> 01:30:52,800
+Bygma tjänster på data från och med satelliterna och från isigt mätningar
+
+1596
+01:30:53,568 --> 01:30:57,408
+Och den här datamängden som skapas incitament ett av zombies
+
+1597
+01:30:57,664 --> 01:31:00,480
+Det finns möjlighet att få utväxling på
+
+1598
+01:31:01,504 --> 01:31:02,528
+Migrerar här
+
+1599
+01:31:03,040 --> 01:31:04,064
+Arbetet
+
+1600
+01:31:05,600 --> 01:31:07,904
+Okej jag vet myndighetssamarbete kring
+
+1601
+01:31:08,160 --> 01:31:11,744
+Miljösamverkan Copernicus 19 myndigheter som deltar
+
+1602
+01:31:12,256 --> 01:31:15,584
+Och har återkommande möten för att diskutera med var
+
+1603
+01:31:16,352 --> 01:31:18,400
+Händer inom området men också
+
+1604
+01:31:18,912 --> 01:31:21,216
+Vad kan man göra vilka behov finns och så vidare
+
+1605
+01:31:23,008 --> 01:31:24,288
+Företräde också
+
+1606
+01:31:24,544 --> 01:31:25,824
+Sverige i r
+
+1607
+01:31:26,080 --> 01:31:28,128
+Populationen i
+
+1608
+01:31:28,640 --> 01:31:30,944
+Copernicus konfigurations möten innan
+
+1609
+01:31:31,200 --> 01:31:32,480
+ISS rymdprogram
+
+1610
+01:31:32,736 --> 01:31:36,576
+Också i Europeiska unionen och Mattias program tillgjord observation
+
+1611
+01:31:37,600 --> 01:31:38,624
+Så vi har liksom en
+
+1612
+01:31:38,880 --> 01:31:42,464
+Samlad bild av både nationellt och internationellt samarbete kring
+
+1613
+01:31:44,256 --> 01:31:45,280
+Mackan
+
+1614
+01:31:45,536 --> 01:31:48,352
+Säger jag som också är en eva-lena till
+
+1615
+01:31:49,120 --> 01:31:52,704
+De satsningar som vi hade ju datainsamling från i det här fallet
+
+1616
+01:31:52,960 --> 01:31:55,264
+Är servering bloggandet och NASA
+
+1617
+01:31:55,776 --> 01:31:56,544
+Vad gör du
+
+1618
+01:31:56,800 --> 01:31:57,568
+Väldigt väldigt
+
+1619
+01:31:57,824 --> 01:31:59,616
+Det började 1972
+
+1620
+01:31:59,872 --> 01:32:00,896
+I stort sett mellan sätt
+
+1621
+01:32:01,664 --> 01:32:02,176
+1
+
+1622
+01:32:02,432 --> 01:32:04,992
+Samlar in data första USA för att man ska
+
+1623
+01:32:05,248 --> 01:32:09,344
+Kontroll på sitt närområde och sen över Sovjetunionen och de vanliga Klein
+
+1624
+01:32:10,112 --> 01:32:11,392
+För att man ska se vad är det för
+
+1625
+01:32:11,648 --> 01:32:13,952
+Kapacitet som finns i de här områdena
+
+1626
+01:32:14,464 --> 01:32:16,512
+Men här datamängden har ökat
+
+1627
+01:32:17,280 --> 01:32:18,816
+Jätte jätte jättemycket
+
+1628
+01:32:19,072 --> 01:32:20,096
+Nu pratar vi på
+
+1629
+01:32:21,632 --> 01:32:23,168
+Årsbasis
+
+1630
+01:32:24,704 --> 01:32:26,240
+Videor
+
+1631
+01:32:28,288 --> 01:32:30,080
+PB som samlas in över
+
+1632
+01:32:31,360 --> 01:32:32,128
+Är världen
+
+1633
+01:32:32,384 --> 01:32:35,200
+Över Sverige Det här gör att det blir svårt att hantera
+
+1634
+01:32:35,712 --> 01:32:40,576
+Data och analyser fram du ska göra ganska enkla saker så behöver du väldigt mycket dator
+
+1635
+01:32:40,832 --> 01:32:41,344
+Mycket kompetent
+
+1636
+01:32:42,624 --> 01:32:48,768
+Återvinningscentral som jag har i nuläget under att utreda förutsättningarna för att utveckla nationellt rymd
+
+1637
+01:32:49,536 --> 01:32:50,560
+Elgiganten avsluta
+
+1638
+01:32:50,816 --> 01:32:51,328
+Det
+
+1639
+01:32:51,840 --> 01:32:57,984
+Det visar vi i februari sen har vi också fått en budget lösning för att jag kan hitta något exploatering av
+
+1640
+01:32:58,240 --> 01:32:58,752
+Prata
+
+1641
+01:32:59,008 --> 01:33:00,288
+För miljön
+
+1642
+01:33:01,056 --> 01:33:01,824
+Och
+
+1643
+01:33:02,336 --> 01:33:03,104
+Det här
+
+1644
+01:33:04,896 --> 01:33:07,968
+Sedan jobbar vi just med de här människorna
+
+1645
+01:33:08,480 --> 01:33:12,576
+Gymnasiala och / finansiering av forskningsprojekt för att göra
+
+1646
+01:33:13,600 --> 01:33:15,392
+Och målbilden för
+
+1647
+01:33:15,904 --> 01:33:17,952
+Ledarutvecklare nationella gymnasiet
+
+1648
+01:33:18,464 --> 01:33:19,232
+Som
+
+1649
+01:33:20,512 --> 01:33:23,840
+Heter de slöt Sweden och det är för att vi bygger
+
+1650
+01:33:24,352 --> 01:33:30,240
+En del av ett internationellt samarbete kan ses vi har körkortet med mjukvara
+
+1651
+01:33:30,752 --> 01:33:31,776
+Utvecklats
+
+1652
+01:33:32,032 --> 01:33:32,544
+Början
+
+1653
+01:33:32,800 --> 01:33:33,568
+Australien
+
+1654
+01:33:34,080 --> 01:33:35,104
+Open Delta COOP
+
+1655
+01:33:35,360 --> 01:33:38,944
+Det finns andra portalen som heter 80 slottsvillans vi tycker att det
+
+1656
+01:33:39,200 --> 01:33:41,504
+Finns det någon poäng att göra det här
+
+1657
+01:33:41,760 --> 01:33:42,784
+Jämförbart
+
+1658
+01:33:43,040 --> 01:33:46,112
+Men Målet är att vi ska ta hem data och myndigheter
+
+1659
+01:33:46,368 --> 01:33:48,160
+Samarbeten och miljöinspektion
+
+1660
+01:33:49,696 --> 01:33:54,560
+I på plattformen kan jobba när det är för att öka digitalisering öka Innovation och konkurrenskraft
+
+1661
+01:33:54,816 --> 01:33:56,864
+Och att det inte står ökad användning av
+
+1662
+01:33:59,168 --> 01:34:02,240
+Och på nationell nivå så måste vi
+
+1663
+01:34:02,752 --> 01:34:07,104
+Jämka ihop här och samarbetar kring deras Hur ska de här för att hålla sig till kilo data
+
+1664
+01:34:08,128 --> 01:34:11,712
+Satellitbilder din dator en del av en större geodata Nämen
+
+1665
+01:34:12,736 --> 01:34:13,248
+Det
+
+1666
+01:34:13,760 --> 01:34:17,856
+Hur får man sig till Anna rasterdata så men det kanske aldrig göra också
+
+1667
+01:34:18,368 --> 01:34:21,184
+Och till olika former av miljödata Hur
+
+1668
+01:34:21,440 --> 01:34:24,256
+Hur ska det här kommunicera med vartannat Vilken
+
+1669
+01:34:24,768 --> 01:34:28,608
+Starta Bird olika var att de vill titta på hjort framförallt för
+
+1670
+01:34:29,120 --> 01:34:31,936
+Satellitbilder att komma en centraliserad lösning som vi har
+
+1671
+01:34:33,216 --> 01:34:34,496
+I samarbete med Rise
+
+1672
+01:34:35,520 --> 01:34:39,616
+Bygga upp den Infrastruktur som krävs på Datacenter i Luleå för
+
+1673
+01:34:40,128 --> 01:34:43,200
+All lagring och fästing på samma ställe
+
+1674
+01:34:43,712 --> 01:34:44,480
+Sverige
+
+1675
+01:34:45,504 --> 01:34:50,880
+SD för att tillgängliggöra data för nedladdning utan ledsystem för att tillgängliggöra data
+
+1676
+01:34:51,392 --> 01:34:52,416
+Åkpåse sockra
+
+1677
+01:34:52,672 --> 01:34:55,744
+Och analys analysverktyg på samma ställe
+
+1678
+01:34:56,256 --> 01:34:57,792
+För att jag ska komma undan från
+
+1679
+01:34:58,816 --> 01:35:00,096
+Att föra över data
+
+1680
+01:35:00,608 --> 01:35:01,888
+Sms:a med datamängd
+
+1681
+01:35:03,168 --> 01:35:06,752
+Och andas med cityterminal trivs på
+
+1682
+01:35:07,264 --> 01:35:10,592
+EU och europeiskt initiativ och säga Men hur ska du
+
+1683
+01:35:11,104 --> 01:35:13,920
+Passa in vad ska vi göra Vad är det som ska depreciera
+
+1684
+01:35:14,432 --> 01:35:16,992
+41 delar så finns det ett intresse av att ha
+
+1685
+01:35:17,248 --> 01:35:22,112
+Exempel datalager på svenskt territorium så att de vet att du har tillgång till den dator man behöver
+
+1686
+01:35:22,624 --> 01:35:23,904
+Samtidigt som jag inte ska
+
+1687
+01:35:24,160 --> 01:35:26,464
+Jag ska se till att komplettera till stora
+
+1688
+01:35:26,976 --> 01:35:31,072
+Men hur förhåller sig till den gröna given till olika data områden
+
+1689
+01:35:31,840 --> 01:35:32,352
+Till
+
+1690
+01:35:32,864 --> 01:35:35,424
+Nedladdnings analystjänster som byggsats
+
+1691
+01:35:35,936 --> 01:35:37,472
+Som finns inom Copernicus
+
+1692
+01:35:38,496 --> 01:35:42,336
+Alla men jag var i så kommer Hur ska vi se till att blivit mera
+
+1693
+01:35:42,848 --> 01:35:43,616
+Att det är
+
+1694
+01:35:44,128 --> 01:35:45,408
+Förberett och
+
+1695
+01:35:45,664 --> 01:35:47,712
+De tar del av de möjligheter som
+
+1696
+01:35:50,016 --> 01:35:51,296
+Och kall
+
+1697
+01:35:51,808 --> 01:35:53,856
+Det vi gör i projektet är öppen data
+
+1698
+01:35:54,112 --> 01:35:54,624
+Som jobbar
+
+1699
+01:35:54,880 --> 01:35:55,904
+Till största del
+
+1700
+01:35:56,160 --> 01:35:57,184
+Panic
+
+1701
+01:35:57,440 --> 01:35:58,720
+Projektet som är grunden
+
+1702
+01:35:58,976 --> 01:36:00,000
+Fiat Pilote
+
+1703
+01:36:00,768 --> 01:36:02,560
+Nu har det vuxit upp en utveckling
+
+1704
+01:36:03,584 --> 01:36:08,192
+Så det är källkod och resultatet ska publiceras öppet och tillgängligt
+
+1705
+01:36:08,704 --> 01:36:09,728
+Och sen så är det då den här
+
+1706
+01:36:10,496 --> 01:36:13,312
+Byggstenar som har satt upp en dejt och upp till exempel
+
+1707
+01:36:13,568 --> 01:36:16,128
+Sommar i P1 från använda det också
+
+1708
+01:36:16,384 --> 01:36:17,664
+Öppna körkort
+
+1709
+01:36:18,176 --> 01:36:18,944
+Gabriel
+
+1710
+01:36:20,224 --> 01:36:21,248
+Vilket
+
+1711
+01:36:22,528 --> 01:36:26,368
+Vilket är viktigt dels för att jag skulle bygga gemenskap kapaciteten så
+
+1712
+01:36:26,624 --> 01:36:28,416
+Som en myndighet gör eller
+
+1713
+01:36:28,928 --> 01:36:34,304
+Migration har också kunna stärka Android versioner men också för att få en ökad transparens
+
+1714
+01:36:34,560 --> 01:36:36,352
+Jag skriver med frågorna så att det blir
+
+1715
+01:36:36,864 --> 01:36:39,936
+Open Science koncept kring hela Det går faktiskt att följa
+
+1716
+01:36:40,448 --> 01:36:43,776
+Resultatet är och analyser hela vägen tillbaka till dig
+
+1717
+01:36:45,312 --> 01:36:46,592
+8 vad fan
+
+1718
+01:36:48,128 --> 01:36:48,640
+Tack
+
+1719
+01:36:49,152 --> 01:36:49,920
+Ort
+
+1720
+01:36:50,176 --> 01:36:54,784
+Jättespännande och vi tar jag befinner vi tar det sen
+
+1721
+01:36:55,040 --> 01:36:55,552
+Senare
+
+1722
+01:36:56,832 --> 01:37:00,416
+Först så ska vi få höra om delning och nyttiggörande av
+
+1723
+01:37:00,672 --> 01:37:04,512
+Data för smart statistik Varsågod Marie haldorson
+
+1724
+01:37:04,768 --> 01:37:06,048
+SCB
+
+1725
+01:37:07,072 --> 01:37:08,864
+Tack så jättemycket olika
+
+1726
+01:37:09,632 --> 01:37:15,264
+Roligt att vara här idag att jag ska få lite hjälp här då Maria på Big för att visa mina bilder
+
+1727
+01:37:17,056 --> 01:37:19,104
+Får se här Om de dyker upp snart
+
+1728
+01:37:21,664 --> 01:37:26,272
+Tack ändå Tack så jättemycket med Maria Andersson heter jag och är enhetschef
+
+1729
+01:37:26,528 --> 01:37:27,808
+På SCB och
+
+1730
+01:37:28,064 --> 01:37:31,648
+Hon är ihop vårt arbete med det här regeringsuppdraget då
+
+1731
+01:37:31,904 --> 01:37:33,696
+Om du tittar på nästa bild så
+
+1732
+01:37:34,720 --> 01:37:37,280
+Kan vi se att det här uppdraget
+
+1733
+01:37:37,536 --> 01:37:39,584
+Bidrar till 2
+
+1734
+01:37:39,840 --> 01:37:40,608
+ÖoB
+
+1735
+01:37:41,120 --> 01:37:42,656
+Insatsområden som man
+
+1736
+01:37:42,912 --> 01:37:44,192
+Skrev Inredningsvis här
+
+1737
+01:37:45,472 --> 01:37:46,752
+Ska se om du
+
+1738
+01:37:48,032 --> 01:37:49,312
+Få fram nästa bild Marie
+
+1739
+01:37:58,272 --> 01:38:00,576
+Det verkar vara
+
+1740
+01:38:01,600 --> 01:38:05,952
+Små pilar där nere till vänster i bilden som man kan använda sig av
+
+1741
+01:38:06,208 --> 01:38:09,024
+Framåt och bakåt i alla fall såg ut så på min skärm
+
+1742
+01:38:14,144 --> 01:38:15,168
+Hur som helst
+
+1743
+01:38:15,680 --> 01:38:21,824
+Jag pratar på så tror jag att du kommer ifatt för jag har lite ont om tid men det
+
+1744
+01:38:22,336 --> 01:38:28,480
+Stötens insatsområden som det här uppdraget ska bidra till att det är såklart på ökad tillgång till
+
+1745
+01:38:28,736 --> 01:38:32,832
+Och öppen och kontrollerad datadelning taxi
+
+1746
+01:38:34,112 --> 01:38:40,256
+Vi kan åka vidare då till nästa bild som ska illustrera det första av fyra ord
+
+1747
+01:38:40,512 --> 01:38:45,888
+Som finns inom ramen för det här uppdraget att det handlar om datakvalite och datasäkerhet
+
+1748
+01:38:46,912 --> 01:38:51,264
+När vi ska titta på att föreslå lämpliga kriterier för datakvalitet
+
+1749
+01:38:51,776 --> 01:38:56,896
+Eftersom vi har en statistikmyndighet så tittar vi primärt och det här är ett statistik perspektiv
+
+1750
+01:38:57,664 --> 01:39:03,808
+Vi ska också analysera hur man kan minska och hantera riskerna med aggregerade data och
+
+1751
+01:39:04,064 --> 01:39:08,416
+Hot risker till följd av ökat databeroende och det där är ju superviktigt
+
+1752
+01:39:09,184 --> 01:39:15,328
+Så klart att vi kan vara transparenta och visa hur används data då för olika ändamål och vit
+
+1753
+01:39:15,584 --> 01:39:17,376
+Att det här arbetet även om det är
+
+1754
+01:39:17,632 --> 01:39:23,776
+Inriktat mycket på statistik området så bör de kunna ge input till arbetet
+
+1755
+01:39:24,032 --> 01:39:27,360
+Men på nästa bild så har jag ett exempel på hur
+
+1756
+01:39:28,128 --> 01:39:31,200
+Såna här kvalitetsdimensioner kan se ut
+
+1757
+01:39:31,968 --> 01:39:36,576
+Så det här håller vi på att jobba med just nu att titta på hur de här
+
+1758
+01:39:37,600 --> 01:39:43,744
+Dimensionerna kan vägas samman när man gör en utvärdering av en ny datakälla som man
+
+1759
+01:39:44,000 --> 01:39:48,352
+Använda för statistik ändamål och tittar man på hur heltäckande är en
+
+1760
+01:39:48,608 --> 01:39:53,984
+Hur väl matchar det här konceptet i själva Källan det som användarna vill ha eftersom
+
+1761
+01:39:54,496 --> 01:40:00,640
+Utgångspunkten för oss i vatten Det här är data som skall användas för statistik Och den ska kunna belysa tvist
+
+1762
+01:40:00,896 --> 01:40:05,248
+Men så då behöver man ju se om datakällan verkar ha det som krävs
+
+1763
+01:40:05,760 --> 01:40:11,904
+Ett tillfälligt i världen går det att matcha med andra datakällor har vi hört också tidigare idag här mig inte
+
+1764
+01:40:12,160 --> 01:40:17,792
+Graviditet ju superviktigt Och där har ju datakällan och olika egenskaper som man behöver ha koll på dem
+
+1765
+01:40:19,072 --> 01:40:22,912
+Det är viktigt ur ett användarperspektiv att man får tillgång till data snö
+
+1766
+01:40:23,424 --> 01:40:24,704
+För att man också
+
+1767
+01:40:25,216 --> 01:40:29,312
+Snabbt ska kunna komma ut med intressant information baserat på den här gatan då
+
+1768
+01:40:30,080 --> 01:40:36,224
+Stabil är den över tid och det är ju intressant med flera datapunkter man vill ju inte vara så
+
+1769
+01:40:36,480 --> 01:40:41,856
+En siffra som säger liksom hur det ser ut just nu utan ofta vill man kunna säga hur såg det ut
+
+1770
+01:40:42,368 --> 01:40:46,720
+Förra året då kunde följa liksom vad som händer framåt också
+
+1771
+01:40:48,000 --> 01:40:53,632
+Metadata det är ju sån här riktigt viktig sak alltså data om datorn
+
+1772
+01:40:55,168 --> 01:41:01,312
+Den vi på SCB bygger vi ihop hela vår produktionsmiljö just kring metadata
+
+1773
+01:41:01,824 --> 01:41:03,872
+Tror jag att det är liksom en framgång
+
+1774
+01:41:04,128 --> 01:41:06,944
+Anna statistikansvarig myndighet och göra så
+
+1775
+01:41:07,712 --> 01:41:13,856
+Och sen har vi det här med känsligheten i datan då som också avgör hur man får tillgång till den och
+
+1776
+01:41:14,112 --> 01:41:17,184
+Om man verkligen måste ha tillgång till den igen
+
+1777
+01:41:17,696 --> 01:41:22,560
+Väldigt identifierad formel om det räcker att få tillgång till en lite mer aggregerad form
+
+1778
+01:41:23,840 --> 01:41:24,864
+Vi kan ta nästa bild
+
+1779
+01:41:26,400 --> 01:41:32,544
+En vinkling i uppdraget för mig att spännande är det här med mobildata och där har vi
+
+1780
+01:41:32,800 --> 01:41:38,944
+Gång i ett antal år nu och testat mobildata som datakälla och då fick vi möjlighet
+
+1781
+01:41:39,200 --> 01:41:41,504
+Inom ramen för uppdraget att fortsätta
+
+1782
+01:41:42,016 --> 01:41:48,160
+Använda mobildata för att de säger att man kan utveckla ny statistik baserad på
+
+1783
+01:41:48,416 --> 01:41:49,184
+Typen av data
+
+1784
+01:41:50,208 --> 01:41:56,352
+Vi vill också utmana oss själva lite grann och i dialog med Magnusvägen för uppdraget så sover jag men
+
+1785
+01:41:56,608 --> 01:42:01,216
+Kanske tillochmed kan ersätta några direkt insamlade uppgifter med hjälp av mobildata så det
+
+1786
+01:42:01,728 --> 01:42:04,800
+Tittar vi på tillsammans med Tillväxtverket och trafikanalys
+
+1787
+01:42:06,080 --> 01:42:10,688
+Och när vi väl har kommit längre med det här så ser vi också att man kan applicera det väl är
+
+1788
+01:42:10,944 --> 01:42:14,784
+Jobba med den här typen av data även på andra datakällor
+
+1789
+01:42:15,552 --> 01:42:21,696
+Så vi titta på nästa bild så kan vi se Ja men vad kan man då få fram för någonting här
+
+1790
+01:42:21,952 --> 01:42:24,000
+Exempel som visar hur
+
+1791
+01:42:24,512 --> 01:42:30,656
+Hur ser det ut i juli jämfört med januari 2020 och här visar färg
+
+1792
+01:42:30,912 --> 01:42:37,056
+Grönt då är det fler personer som befinner sig i de här kommunerna eller i de här ligger någonstans
+
+1793
+01:42:37,312 --> 01:42:39,616
+Områden i juli än i januari
+
+1794
+01:42:40,384 --> 01:42:40,896
+Weather
+
+1795
+01:42:41,152 --> 01:42:44,480
+Så är det fler som finns där i januari en jul
+
+1796
+01:42:45,248 --> 01:42:51,392
+Jag menar det här är bara ett exempel men man ser ju i de här illustrationen är ganska tydligt att de har
+
+1797
+01:42:51,648 --> 01:42:54,720
+Stor betydelse vilken regional indelning man använder för det här
+
+1798
+01:42:55,232 --> 01:42:57,536
+Vår slutsats är väl kanske att vi gärna vill
+
+1799
+01:42:57,792 --> 01:43:03,936
+Har lite högre detaljeringsgrad i uppgifterna när vi håller på att bearbeta dem men sedan när man presenterar sig
+
+1800
+01:43:04,192 --> 01:43:05,216
+Så kanske
+
+1801
+01:43:05,472 --> 01:43:06,240
+På kommunnivå
+
+1802
+01:43:07,264 --> 01:43:13,408
+Jag också som ni förstår det här är ju helt beroende av privata data ägare och Hur lång kan bli
+
+1803
+01:43:13,664 --> 01:43:19,552
+Processer transparenta det kan vara att det är såna där saker som du funderar på Hur kan man då
+
+1804
+01:43:19,808 --> 01:43:24,416
+Mot bakgrund av att mitt allt kanske får datat så kan svara
+
+1805
+01:43:25,440 --> 01:43:28,256
+Ändå kunna beskriva hur har den här datorn fånga
+
+1806
+01:43:28,512 --> 01:43:30,304
+Hur har framställt den och sov
+
+1807
+01:43:30,560 --> 01:43:32,352
+Behålla objektiviteten i
+
+1808
+01:43:32,608 --> 01:43:33,376
+Stickad barn
+
+1809
+01:43:34,144 --> 01:43:39,008
+Här pågår i samarbete med Norge och Finland och även men ändå samarbete
+
+1810
+01:43:39,264 --> 01:43:41,056
+Trafikanalys och tillväxt
+
+1811
+01:43:41,568 --> 01:43:42,336
+Återkommer
+
+1812
+01:43:43,104 --> 01:43:49,248
+Jobba på motsvarande sätt då till exempel med andra datakällor som vi håller på med nu kassaregister
+
+1813
+01:43:49,504 --> 01:43:51,808
+Kortinlösen data transaktionsdatum
+
+1814
+01:43:53,088 --> 01:43:54,112
+Du kan ta nästa bild
+
+1815
+01:43:55,648 --> 01:44:01,792
+Micke har klätt sig såklart också kring öppna data mobildata som så är ju inte öppna datorn
+
+1816
+01:44:02,048 --> 01:44:07,168
+Huvuddragen i det här arbetet är ju trots allt öppna data och då
+
+1817
+01:44:07,936 --> 01:44:14,080
+Har vi redan tidigare sett att vi skulle kunna främja tillgången till Öppna rakt igenom och var lite
+
+1818
+01:44:14,336 --> 01:44:20,480
+Mer föreskrivande till Övre statistikansvariga myndigheter SCB har ju föreskriftsrätt vad gäller officiellt
+
+1819
+01:44:20,736 --> 01:44:21,504
+Stick och då
+
+1820
+01:44:22,272 --> 01:44:28,416
+Vill du utnyttja den för att jag skulle tvätta nu så att vi jobbar på att ta fram en sån här utvecklad förut
+
+1821
+01:44:29,184 --> 01:44:35,328
+Och vi vill också såklart vara ett stöd till de andra statistikansvariga myndigheterna som träffas av den här föreskriften låt
+
+1822
+01:44:35,584 --> 01:44:39,680
+Förstår hur ska man göra för att få sin officiella statistik till Öppna data
+
+1823
+01:44:40,192 --> 01:44:41,472
+Målet är att all
+
+1824
+01:44:41,984 --> 01:44:44,288
+Ska gå och titta på datorn portal.se
+
+1825
+01:44:44,544 --> 01:44:45,824
+Vi kan ta nästa bild
+
+1826
+01:44:47,616 --> 01:44:49,408
+För då är det ju så att det finns
+
+1827
+01:44:49,664 --> 01:44:51,456
+En en en
+
+1828
+01:44:52,224 --> 01:44:58,368
+Föreskrifter redan som har några år på nacken men den tänker vi att vi ska utvidga nu så att den förut
+
+1829
+01:44:58,624 --> 01:45:04,768
+Det ni ser här med kvalitetsdeklaration och hur ska data eller statistik offentliggöras Och
+
+1830
+01:45:05,024 --> 01:45:05,536
+Och så vidare
+
+1831
+01:45:06,048 --> 01:45:11,168
+Så lägger vi till en paragraf om öppna data helt enkelt som löser den här delen av Prag
+
+1832
+01:45:12,960 --> 01:45:19,104
+Och sist men inte minst så har vi också jättespännande del i vårt uppdrag som handlar om hur man kan bli
+
+1833
+01:45:19,360 --> 01:45:22,944
+Statistik som dålig ser ut som öppna data
+
+1834
+01:45:23,456 --> 01:45:29,600
+Det är ju en av de stora vinsterna med att man gör sin statistik maskinläsbar
+
+1835
+01:45:29,856 --> 01:45:35,488
+Enkelt åtkomliga att han faktiskt kan återanvändas många gånger Den kan visualiseras på många olika sätt
+
+1836
+01:45:36,256 --> 01:45:40,352
+Och här Ska vi samarbetar med Visualiseringscenter C i Norrköping
+
+1837
+01:45:40,608 --> 01:45:44,960
+Med dataspelsbranschen och har vi inlett ett samarbete med Mojang där
+
+1838
+01:45:45,984 --> 01:45:52,128
+Men Visa bara ett exempel på hur vi själva återanvända våra öppna data vi har gjort uppgifter
+
+1839
+01:45:52,384 --> 01:45:56,736
+Databas som gråter använder i en en tjänst som vi kallar kommuner i siffror
+
+1840
+01:45:56,992 --> 01:45:59,552
+Ett exempel på det sätt vi tänker oss
+
+1841
+01:46:00,832 --> 01:46:05,952
+Kunna bygga vidare på det och få en bra inspiration och idéer från visualiserings
+
+1842
+01:46:06,208 --> 01:46:06,720
+Se här
+
+1843
+01:46:07,488 --> 01:46:09,280
+Som ett det så tänkte jag tacka för mig
+
+1844
+01:46:11,584 --> 01:46:14,656
+Tack så jättemycket Det är jättespännande jätte
+
+1845
+01:46:15,168 --> 01:46:18,496
+Friseringar Det är alltid viktigt
+
+1846
+01:46:18,752 --> 01:46:20,544
+Se vad som görs
+
+1847
+01:46:21,312 --> 01:46:26,432
+Vi har fått in lite frågor här Jonas Södergren hade en fråga här till Tobias
+
+1848
+01:46:26,944 --> 01:46:27,712
+Om
+
+1849
+01:46:28,480 --> 01:46:31,808
+Man kan se det här som gör som ett moln
+
+1850
+01:46:32,320 --> 01:46:33,856
+Vill du följa lite kvinna Jonas
+
+1851
+01:46:37,440 --> 01:46:40,256
+Visa Matt
+
+1852
+01:46:40,512 --> 01:46:42,560
+Kan man förvara eget Mål med hög
+
+1853
+01:46:43,328 --> 01:46:48,192
+Kapacitet datan ligger nära för att kunna hantera data sätter jag tänker
+
+1854
+01:46:48,704 --> 01:46:54,848
+Många vi använder flera myndigheter City det här frågan hur man blir man coola resurser och liknande
+
+1855
+01:46:55,104 --> 01:46:57,664
+Det var spännande ska jag se lite hur du tänker inte
+
+1856
+01:46:58,176 --> 01:46:59,968
+Jonas slut Det tycker att det är
+
+1857
+01:47:00,480 --> 01:47:05,344
+Nu är inte vårt syns ju säkert mål utan deras mål i det här fallet
+
+1858
+01:47:05,600 --> 01:47:07,648
+Blir det efter vi samarbeta kring
+
+1859
+01:47:08,928 --> 01:47:13,536
+Datacenter och byggnaden med med Rise
+
+1860
+01:47:14,048 --> 01:47:18,656
+Men absolut att det är någonstans är vissa till något förutsättning för
+
+1861
+01:47:19,680 --> 01:47:20,704
+Sunnanå
+
+1862
+01:47:20,960 --> 01:47:24,032
+I mål var knökat din dataanvändning det är ju att
+
+1863
+01:47:24,544 --> 01:47:28,640
+Siljan grader räknar skatten nära dagen men också
+
+1864
+01:47:29,152 --> 01:47:29,920
+Inte bara
+
+1865
+01:47:30,688 --> 01:47:33,504
+Det är liksom hela delarna och så får till kompetensförsörjning
+
+1866
+01:47:33,760 --> 01:47:38,624
+Och liksom metoder och verktyg för det här alltid måste finnas på plats för att jag ska
+
+1867
+01:47:39,904 --> 01:47:40,416
+Ändan
+
+1868
+01:47:45,536 --> 01:47:48,608
+Ska vi se Alex och den fråga till Lina också här
+
+1869
+01:47:51,424 --> 01:47:52,448
+Alex Forsberg
+
+1870
+01:47:52,960 --> 01:47:53,472
+Yes
+
+1871
+01:47:53,728 --> 01:47:56,544
+Som är åtta när väldigt inte
+
+1872
+01:47:57,056 --> 01:48:00,128
+Frågan som vi satt på hela tiden
+
+1873
+01:48:00,384 --> 01:48:01,152
+Datordelar
+
+1874
+01:48:01,408 --> 01:48:02,176
+Extra
+
+1875
+01:48:02,944 --> 01:48:03,968
+Kalix
+
+1876
+01:48:04,992 --> 01:48:06,016
+Dels projekt
+
+1877
+01:48:06,272 --> 01:48:07,040
+Titta på
+
+1878
+01:48:07,296 --> 01:48:09,088
+Flera Transporter så handlar jag
+
+1879
+01:48:09,856 --> 01:48:11,136
+Flagga
+
+1880
+01:48:12,416 --> 01:48:14,208
+Böckling Hur vet du det
+
+1881
+01:48:14,720 --> 01:48:15,744
+Undersöker
+
+1882
+01:48:16,256 --> 01:48:21,120
+Dala verkligen att studera data det finns ju
+
+1883
+01:48:21,376 --> 01:48:23,424
+Annars finns det också på
+
+1884
+01:48:23,680 --> 01:48:25,472
+Datum på danska gå och hur man vill
+
+1885
+01:48:29,568 --> 01:48:31,360
+Modellering anmäler man skapar
+
+1886
+01:48:31,872 --> 01:48:32,640
+Tvillingarna
+
+1887
+01:48:33,664 --> 01:48:34,944
+Elektrifieringen av
+
+1888
+01:48:35,456 --> 01:48:35,968
+Sverige
+
+1889
+01:48:36,992 --> 01:48:39,552
+Ja men det är jättebra
+
+1890
+01:48:39,808 --> 01:48:42,112
+Att du nämner det här också någonting som vi
+
+1891
+01:48:42,368 --> 01:48:43,648
+Har stött på
+
+1892
+01:48:44,672 --> 01:48:50,816
+Koppla till att man ska samla in data inte så forskningsmetod säger du frågor och Vi satte på hela tiden och
+
+1893
+01:48:51,072 --> 01:48:54,400
+Kunna jämföra sina resultat med andra så det är bra om alla har gjort
+
+1894
+01:48:54,912 --> 01:48:55,936
+På liknande sätt
+
+1895
+01:48:56,448 --> 01:49:01,568
+Och därför säga det pågår diskussioner i den här
+
+1896
+01:49:01,824 --> 01:49:04,128
+Den som håller på med modellering
+
+1897
+01:49:04,384 --> 01:49:05,920
+Ring liksom koncept
+
+1898
+01:49:06,176 --> 01:49:08,736
+Kontraktuella diskussioner kring det där
+
+1899
+01:49:09,248 --> 01:49:15,392
+Hur man bygger upp då hur de ska liksom lösas Vi har ju lyft en del
+
+1900
+01:49:15,648 --> 01:49:19,488
+Ramverk och legala aspekter i
+
+1901
+01:49:19,744 --> 01:49:24,864
+Introduktions delens i den här första leveransen som vi hade där
+
+1902
+01:49:25,120 --> 01:49:26,656
+Och så har
+
+1903
+01:49:27,424 --> 01:49:29,728
+Jurister hos oss som är
+
+1904
+01:49:29,984 --> 01:49:33,824
+Intresserade av standardiserade anställningsfrågor på olika
+
+1905
+01:49:34,336 --> 01:49:40,480
+Diskussioner pågår jag inte helt hundra på exakt vad vi kommer att leda
+
+1906
+01:49:40,736 --> 01:49:44,064
+Jag vet att man har dig i åtanke åtminstonde
+
+1907
+01:49:44,576 --> 01:49:46,624
+Men jag kommer Jag tar
+
+1908
+01:49:47,136 --> 01:49:48,160
+Med min fråga
+
+1909
+01:49:48,416 --> 01:49:52,768
+Och kommer att förbli eftermiddag den vidare till gruppen också
+
+1910
+01:49:53,024 --> 01:49:53,536
+Svart
+
+1911
+01:49:54,304 --> 01:49:55,840
+Så vill du kan bli
+
+1912
+01:49:56,096 --> 01:50:00,704
+Kan du maila mig om du vill veta mer exakt så ska jag be någon
+
+1913
+01:50:00,960 --> 01:50:03,776
+Insatsgruppen att svara på en fråga
+
+1914
+01:50:04,032 --> 01:50:05,056
+Reparera
+
+1915
+01:50:05,568 --> 01:50:06,592
+Absolut tårta
+
+1916
+01:50:13,760 --> 01:50:14,272
+Va
+
+1917
+01:50:14,528 --> 01:50:15,552
+Andra sätt
+
+1918
+01:50:17,856 --> 01:50:21,440
+Annars kanske vi ska hoppa tillbaka Jag tror det hade någon där åtta om
+
+1919
+01:50:23,488 --> 01:50:26,560
+Jag vill veta mer om det här med partnerskap
+
+1920
+01:50:27,072 --> 01:50:28,096
+Stig Kurva
+
+1921
+01:50:28,352 --> 01:50:30,912
+Var den frågan ställd till Magnus ens eller
+
+1922
+01:50:42,688 --> 01:50:44,480
+Olle Lundin mannen
+
+1923
+01:50:45,760 --> 01:50:48,576
+Ja just det jag har sparat kontakt privat
+
+1924
+01:50:50,624 --> 01:50:52,160
+I chatten
+
+1925
+01:50:52,416 --> 01:50:57,280
+Menyn bra generell fråga också regeringsuppdraget till det
+
+1926
+01:50:58,048 --> 01:51:04,192
+Så ligger aldrig skall stötta dem här fem data myndigheterna att öka deras förmåga att dela nyttig
+
+1927
+01:51:04,448 --> 01:51:08,288
+Och sen så att främja samverkan mellan de här
+
+1928
+01:51:09,568 --> 01:51:10,336
+Andra
+
+1929
+01:51:10,848 --> 01:51:13,664
+Och då är tanken att de ska utveckla partnerskap
+
+1930
+01:51:14,432 --> 01:51:19,040
+Runt det vi kallar en arena för samverkan
+
+1931
+01:51:20,576 --> 01:51:21,856
+Det där
+
+1932
+01:51:22,880 --> 01:51:24,416
+Sköts lite fram och tafatt
+
+1933
+01:51:24,672 --> 01:51:26,976
+Det var väldigt mycket arbete med två bildbeviset
+
+1934
+01:51:27,488 --> 01:51:33,120
+Men nu lägger dit linan vad jag förstår men jag kan svara mer på det men
+
+1935
+01:51:33,376 --> 01:51:34,656
+Och Viktoria vet inte om
+
+1936
+01:51:35,424 --> 01:51:38,240
+Borlänge men vad jag förstår så jobbade ju inte ens
+
+1937
+01:51:42,848 --> 01:51:48,992
+Väldigt fort bara jag jobbar med den här frågan och ett första steg i att prata ihop oss Vi som berörs
+
+1938
+01:51:50,272 --> 01:51:52,064
+De på det här möte
+
+1939
+01:51:53,344 --> 01:51:53,856
+Precis
+
+1940
+01:51:54,880 --> 01:51:56,928
+Då tackar jag Olle Lundin försvaret
+
+1941
+01:51:59,232 --> 01:52:00,000
+Vad bra
+
+1942
+01:52:01,792 --> 01:52:03,584
+Är det någon
+
+1943
+01:52:03,840 --> 01:52:05,120
+Mer fråga som har kommit
+
+1944
+01:52:06,144 --> 01:52:08,192
+Gamla frågorna
+
+1945
+01:52:08,448 --> 01:52:10,752
+Antonia justbuild
+
+1946
+01:52:29,696 --> 01:52:32,000
+Är det någon som har med saga Jo där kommer
+
+1947
+01:52:32,512 --> 01:52:33,536
+Martin Björk
+
+1948
+01:52:39,936 --> 01:52:41,728
+Ställa din fråga
+
+1949
+01:52:54,272 --> 01:52:55,808
+Den handlar om
+
+1950
+01:52:56,064 --> 01:52:58,880
+Den handlade om metadata
+
+1951
+01:52:59,136 --> 01:53:03,744
+Anser det gäller öppna data så beskrivs den
+
+1952
+01:53:04,512 --> 01:53:08,352
+En standard som en träsket föreslår det inte
+
+1953
+01:53:08,608 --> 01:53:10,144
+Jag vill
+
+1954
+01:53:10,400 --> 01:53:13,728
+Som gör den som big föreslår
+
+1955
+01:53:13,984 --> 01:53:16,800
+Men finns det andra standarder
+
+1956
+01:53:17,056 --> 01:53:23,200
+Det beror lite på i vilket sammanhang det men för att leverera till Sverige sedan får betalt för det då
+
+1957
+01:53:24,480 --> 01:53:26,528
+Det kan ta det som
+
+1958
+01:53:30,368 --> 01:53:30,880
+Ska vi se
+
+1959
+01:53:32,160 --> 01:53:38,304
+Men då tror jag att jag får tacka för idag Tiden börjar rinna ut för jag tycker det var ett otroligt spännande att höra
+
+1960
+01:53:38,560 --> 01:53:39,328
+Olika
+
+1961
+01:53:39,584 --> 01:53:41,632
+Tiden och nivåerna
+
+1962
+01:53:41,888 --> 01:53:46,496
+Jag tycker att det är viktigt att vi försöker fortsätta föra den här dialogen
+
+1963
+01:53:47,008 --> 01:53:49,824
+Så vi ser hur de här olika delarna
+
+1964
+01:53:51,360 --> 01:53:51,872
+Hjälp
+
+1965
+01:53:52,896 --> 01:53:55,968
+Så jag säger på återseende
+
+1966
+01:53:56,736 --> 01:53:58,016
+Tack så jättemycket för idag
